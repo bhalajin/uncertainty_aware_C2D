@@ -152,7 +152,7 @@ def main():
         raise ValueError('Wrong dataset')
 
     # Ric (temporal)
-    warm_up = 2
+    #warm_up = 2
     print("Warm up epochs = ", warm_up)
     loader = dataloader.cifar_dataloader(args.dataset, r=args.r, noise_mode=args.noise_mode, batch_size=args.batch_size,
                                          num_workers=5, root_dir=args.data_path, log=stats_log,
@@ -190,7 +190,7 @@ def main():
     run_train_loop(net1, optimizer1, sched1, net2, optimizer2, sched2, criterion, CEloss, CE, loader, args.p_threshold,
                    warm_up, args.num_epochs, all_loss, args.batch_size, num_classes, args.device, args.lambda_u, args.T,
                    args.alpha, args.noise_mode, args.dataset, args.r, conf_penalty, stats_log, loss_log, test_log,
-                   args.window_size, args.window_mode, args.lambda_w_eps, args.weight_mode)
+                   args.window_size, args.window_mode, args.lambda_w_eps, args.weight_mode, args.experiment_name)
 
 
 if __name__ == '__main__':

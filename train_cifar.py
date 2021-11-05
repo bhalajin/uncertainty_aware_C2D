@@ -46,10 +46,9 @@ def weight_smoothing(weights, num_class, lambda_w_eps, window_mode="mean"):
     """
 
     print("Weights to be smoothed: (weight_smoothing function)")
-    print("\t", end="")
     for l in np.round(weights, 4).tolist():
+        print("\t", end="")
         print(l, end="\n")
-    print("\n")
 
     if len(weights.shape) < 2:
         weights = np.expand_dims(weights, 0)
@@ -126,7 +125,7 @@ def eval_train(model, eval_loader, CE, all_loss, epoch, net, device, r, stats_lo
 
     # Ric: begin
     weights_raw = compute_unc_weights(targets_all, predictions_merged, weight_mode)
-    print("Raw weights: (eval_train function)")
+    print("\nRaw weights: (eval_train function)")
     print("\t", end="")
     for l in np.round(weights_raw, 4).tolist():
         print(l, end=" ")
@@ -180,7 +179,7 @@ def run_test(epoch, net1, net2, test_loader, device, test_log):
 def run_train_loop(net1, optimizer1, sched1, net2, optimizer2, sched2, criterion, CEloss, CE, loader, p_threshold,
                    warm_up, num_epochs, all_loss, batch_size, num_class, device, lambda_u, T, alpha, noise_mode,
                    dataset, r, conf_penalty, stats_log, loss_log, test_log, window_size, window_mode, lambda_w_eps,
-                   weight_mode):
+                   weight_mode, experiment_name):
     # Ric: place holders for weights of previous epochs
     weight_hist_1 = np.zeros((window_size, num_class))
     weight_hist_2 = np.zeros((window_size, num_class))
@@ -269,4 +268,5 @@ def run_train_loop(net1, optimizer1, sched1, net2, optimizer2, sched2, criterion
 
         sched1.step()
         sched2.step()
-    torch.save(net1.state_dict(), './final_checkpoints/final_checkpoint.pth.tar')
+    final_checkpoint_name = './final_checkpoints/%s_final_checkpoint.pth.tar' % experiment_name
+    torch.save(net1.state_dict(), final_checkpoint_name)
