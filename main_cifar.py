@@ -42,6 +42,14 @@ def parse_args():
     parser.add_argument('--not-rampup', dest='not_rampup', action='store_true', help='not rumpup')
     parser.add_argument('--supcon', dest='supcon', action='store_true', help='use supcon')
     parser.add_argument('--use-aa', dest='use_aa', action='store_true', help='use supcon')
+    # Ric: begin
+    parser.add_argument('--window_size', default=5, type=int)
+    parser.add_argument('--window_mode', choices=['mean', 'exp_smooth'], default='mean',
+                        help='method for the computation of the weights')
+    parser.add_argument('--lambda_w_eps', default=1, type=float)
+    parser.add_argument('--weight_mode', choices=['f1_score', 'acc'], default='f1_score',
+                        help='method for the computation of the weights')
+    # Ric: end
     args = parser.parse_args()
 
     if torch.cuda.is_available():
@@ -65,8 +73,12 @@ class SemiLoss(object):
     def __call__(self, outputs_x, targets_x, outputs_u, targets_u, epoch, warm_up, lambda_u):
         probs_u = torch.softmax(outputs_u, dim=1)
 
-        Lx = -torch.mean(torch.sum(F.log_softmax(outputs_x, dim=1) * targets_x, dim=1))
-        Lu = torch.mean((probs_u - targets_u) ** 2)
+        # Ric: begin
+        # Lx = -torch.mean(torch.sum(F.log_softmax(outputs_x, dim=1) * targets_x, dim=1))
+        # Lu = torch.mean((probs_u - targets_u) ** 2)
+        Lx = torch.sum(F.log_softmax(outputs_x, dim=1) * targets_x, dim=1)
+        Lu = (probs_u - targets_u) ** 2
+        # Ric: end
 
         return Lx, Lu, linear_rampup(epoch, warm_up, lambda_u)
 
@@ -139,6 +151,9 @@ def main():
     else:
         raise ValueError('Wrong dataset')
 
+    # Ric (temporal)
+    warm_up = 2
+    print("Warm up epochs = ", warm_up)
     loader = dataloader.cifar_dataloader(args.dataset, r=args.r, noise_mode=args.noise_mode, batch_size=args.batch_size,
                                          num_workers=5, root_dir=args.data_path, log=stats_log,
                                          noise_file='%s/%.2f_%s.json' % (args.data_path, args.r, args.noise_mode),
@@ -171,9 +186,11 @@ def main():
     else:
         conf_penalty = None
     all_loss = [[], []]  # save the history of losses from two networks
+    # Ric: added weights-related args to the call below
     run_train_loop(net1, optimizer1, sched1, net2, optimizer2, sched2, criterion, CEloss, CE, loader, args.p_threshold,
                    warm_up, args.num_epochs, all_loss, args.batch_size, num_classes, args.device, args.lambda_u, args.T,
-                   args.alpha, args.noise_mode, args.dataset, args.r, conf_penalty, stats_log, loss_log, test_log)
+                   args.alpha, args.noise_mode, args.dataset, args.r, conf_penalty, stats_log, loss_log, test_log,
+                   args.window_size, args.window_mode, args.lambda_w_eps, args.weight_mode)
 
 
 if __name__ == '__main__':
