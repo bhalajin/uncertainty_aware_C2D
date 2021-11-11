@@ -4,15 +4,17 @@ import numpy as np
 
 parser = argparse.ArgumentParser(description='Process Learning Results C2D + Weights')
 parser.add_argument('--noise', type=float, required=True)
+parser.add_argument('--noise_type', type=str, required=True)
 args   = parser.parse_args()
 
 noise_level = args.noise
-file_names  = './checkpoint/*%s*acc.txt' % str(noise_level)
+file_names  = './checkpoint/%s_%s*acc.txt' % (args.noise_type, str(noise_level))
 file_list   = glob.glob(file_names)
 
 print('\n')
 best_acc_list   = []
 final_acc_list  = []
+counter = 0
 for i, f_n in enumerate(file_list):
     print(f_n)
     with open(f_n) as f:
@@ -31,9 +33,11 @@ for i, f_n in enumerate(file_list):
     print("\tlast epoch: %d; last accuracy: %.2f\n" % (last_epoch, final_acc))
 
     if last_epoch >= 359:
+        counter += 1
         best_acc_list.append(best_acc)
         final_acc_list.append(final_acc)
 
+print('Number of finished runs %d\n' % counter)
 print('Average Best Accuracy: %.3f' % np.average(best_acc_list))
 print('Standard Deviation Best Accuracy: %.3f\n' % np.std(best_acc_list))
 print('Average Last Accuracy: %.3f' % np.average(final_acc_list))
