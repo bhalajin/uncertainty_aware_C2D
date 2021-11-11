@@ -152,7 +152,7 @@ def main():
         raise ValueError('Wrong dataset')
 
     # Ric (temporal)
-    warm_up = 1
+    #warm_up = 1
     print("Warm up epochs = ", warm_up)
     loader = dataloader.cifar_dataloader(args.dataset, r=args.r, noise_mode=args.noise_mode, batch_size=args.batch_size,
                                          num_workers=5, root_dir=args.data_path, log=stats_log,
