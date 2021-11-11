@@ -91,7 +91,7 @@ def train(epoch, net, net2, criterion, optimizer, labeled_trainloader, unlabeled
             # Ric: begin
             Lx = -torch.mean(Lx)
             weights_ = torch.tensor(weights)
-            weights_ = weights.cuda()
+            weights_ = weights_.cuda()
             #Lu = Lu * weights.expand_as(targets_u)
             Lu = Lu * weights.expand_as(weights_)
             Lu = torch.mean(Lu)
