@@ -38,7 +38,8 @@ for i, f_n in enumerate(file_list):
         final_acc_list.append(final_acc)
 
 print('Number of finished runs %d\n' % counter)
-print('Average Best Accuracy: %.3f' % np.average(best_acc_list))
-print('Standard Deviation Best Accuracy: %.3f\n' % np.std(best_acc_list))
-print('Average Last Accuracy: %.3f' % np.average(final_acc_list))
-print('Standard Deviation Last Accuracy: %.3f\n' % np.std(final_acc_list))
+if counter > 0:
+    print('Average Best Accuracy: %.3f' % np.average(best_acc_list))
+    print('Standard Deviation Best Accuracy: %.3f\n' % np.std(best_acc_list))
+    print('Average Last Accuracy: %.3f' % np.average(final_acc_list))
+    print('Standard Deviation Last Accuracy: %.3f\n' % np.std(final_acc_list))
