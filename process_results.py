@@ -5,10 +5,12 @@ import numpy as np
 parser = argparse.ArgumentParser(description='Process Learning Results C2D + Weights')
 parser.add_argument('--noise', type=float, required=True)
 parser.add_argument('--noise_type', type=str, required=True)
+parser.add_argument('--l_u', type=int, required=True)
 args   = parser.parse_args()
 
 noise_level = args.noise
-file_names  = './checkpoint/%s_%s*acc.txt' % (args.noise_type, str(noise_level))
+file_names  = './checkpoint/%s_%s*_%.2f_%.1f_%s_acc.txt' % (args.noise_type, str(noise_level), noise_level, float(args.l_u), args.noise_type)
+print(file_names)
 file_list   = glob.glob(file_names)
 
 print('\n')
