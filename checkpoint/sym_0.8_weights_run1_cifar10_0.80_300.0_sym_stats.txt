@@ -1,0 +1,1435 @@
+Epoch 1 (net 1): GMM results: [0.31283785] with weight 0.24221092246011192	[0.60738465] with weight 0.7577890775398882
+Epoch 1 (net 2): GMM results: [0.26384091] with weight 0.24382854744901972	[0.52025606] with weight 0.7561714525509805
+Number of labeled samples:12041	AUC:0.989	TP:11756.000	FP:285.000	FN:2208.000	Noise in labeled dataset:0.024
+Epoch 2 (net 1): GMM results: [0.25671056] with weight 0.2545958281289005	[0.53371338] with weight 0.7454041718710991
+Epoch 2 (net 2): GMM results: [0.2777051] with weight 0.2572240048308955	[0.56039805] with weight 0.7427759951690993
+Number of labeled samples:12768	AUC:0.989	TP:12334.000	FP:434.000	FN:1630.000	Noise in labeled dataset:0.034
+Epoch 3 (net 1): GMM results: [0.25235638] with weight 0.25811248242780405	[0.52153687] with weight 0.7418875175721905
+Epoch 3 (net 2): GMM results: [0.24391582] with weight 0.2626928390215287	[0.49026513] with weight 0.7373071609784748
+Number of labeled samples:12972	AUC:0.987	TP:12401.000	FP:571.000	FN:1563.000	Noise in labeled dataset:0.044
+Epoch 4 (net 1): GMM results: [0.23457058] with weight 0.2585591175555308	[0.48963775] with weight 0.7414408824444613
+Epoch 4 (net 2): GMM results: [0.23445547] with weight 0.2639297424641038	[0.49627662] with weight 0.7360702575359039
+Number of labeled samples:12996	AUC:0.983	TP:12258.000	FP:738.000	FN:1706.000	Noise in labeled dataset:0.057
+Epoch 5 (net 1): GMM results: [0.20151489] with weight 0.26933840378157203	[0.46955382] with weight 0.730661596218435
+Epoch 5 (net 2): GMM results: [0.20526978] with weight 0.2689758992172259	[0.45876485] with weight 0.7310241007827682
+Number of labeled samples:13089	AUC:0.976	TP:11958.000	FP:1131.000	FN:2006.000	Noise in labeled dataset:0.086
+Epoch 6 (net 2): GMM results: [0.20523709] with weight 0.2689119227368993	[0.4587547] with weight 0.7310880772630997
+Epoch 6 (net 1): GMM results: [0.20176615] with weight 0.2698114871956993	[0.46963463] with weight 0.7301885128043013
+Number of labeled samples:13085	AUC:0.976	TP:11955.000	FP:1130.000	FN:2009.000	Noise in labeled dataset:0.086
+Number of labeled samples:13126	AUC:0.978	TP:12055.000	FP:1071.000	FN:1909.000	Noise in labeled dataset:0.082
+Epoch 7 (net 2): GMM results: [0.02993644] with weight 0.271293446131293	[0.35637693] with weight 0.7287065538687124
+Epoch 7 (net 1): GMM results: [0.03873866] with weight 0.2658486590919941	[0.39680009] with weight 0.7341513409080195
+Number of labeled samples:13570	AUC:0.993	TP:12975.000	FP:595.000	FN:989.000	Noise in labeled dataset:0.044
+Number of labeled samples:13300	AUC:0.993	TP:12802.000	FP:498.000	FN:1162.000	Noise in labeled dataset:0.037
+Epoch 8 (net 2): GMM results: [0.03374129] with weight 0.26516278933417475	[0.41120038] with weight 0.7348372106658296
+Epoch 8 (net 1): GMM results: [0.02644971] with weight 0.26637945305975885	[0.37936656] with weight 0.7336205469402449
+Number of labeled samples:13308	AUC:0.993	TP:12876.000	FP:432.000	FN:1088.000	Noise in labeled dataset:0.032
+Number of labeled samples:13384	AUC:0.993	TP:12900.000	FP:484.000	FN:1064.000	Noise in labeled dataset:0.036
+Epoch 9 (net 2): GMM results: [0.03081276] with weight 0.26557728657316876	[0.40522097] with weight 0.7344227134268326
+Epoch 9 (net 1): GMM results: [0.03049229] with weight 0.26560043880154965	[0.42716353] with weight 0.7343995611984565
+Number of labeled samples:13363	AUC:0.992	TP:12921.000	FP:442.000	FN:1043.000	Noise in labeled dataset:0.033
+Number of labeled samples:13328	AUC:0.992	TP:12881.000	FP:447.000	FN:1083.000	Noise in labeled dataset:0.034
+Epoch 10 (net 2): GMM results: [0.02961707] with weight 0.26625797592246947	[0.38792784] with weight 0.7337420240775333
+Epoch 10 (net 1): GMM results: [0.03280484] with weight 0.26522051923781403	[0.42950381] with weight 0.7347794807621838
+Number of labeled samples:13419	AUC:0.992	TP:12968.000	FP:451.000	FN:996.000	Noise in labeled dataset:0.034
+Number of labeled samples:13353	AUC:0.993	TP:12945.000	FP:408.000	FN:1019.000	Noise in labeled dataset:0.031
+Epoch 11 (net 2): GMM results: [0.02839568] with weight 0.26743597938261054	[0.4227399] with weight 0.7325640206173881
+Epoch 11 (net 1): GMM results: [0.0248743] with weight 0.26848084768961844	[0.39944765] with weight 0.7315191523103883
+Number of labeled samples:13431	AUC:0.992	TP:13017.000	FP:414.000	FN:947.000	Noise in labeled dataset:0.031
+Number of labeled samples:13481	AUC:0.992	TP:13049.000	FP:432.000	FN:915.000	Noise in labeled dataset:0.032
+Epoch 12 (net 2): GMM results: [0.02555049] with weight 0.26727574133152715	[0.4084817] with weight 0.7327242586684684
+Epoch 12 (net 1): GMM results: [0.02861211] with weight 0.2669217374490423	[0.37697659] with weight 0.7330782625509586
+Number of labeled samples:13457	AUC:0.993	TP:13038.000	FP:419.000	FN:926.000	Noise in labeled dataset:0.031
+Number of labeled samples:13464	AUC:0.992	TP:13019.000	FP:445.000	FN:945.000	Noise in labeled dataset:0.033
+Epoch 13 (net 2): GMM results: [0.02624857] with weight 0.26966948274118907	[0.39268022] with weight 0.7303305172588102
+Epoch 13 (net 1): GMM results: [0.02306926] with weight 0.2691728335395115	[0.40849976] with weight 0.7308271664604961
+Number of labeled samples:13572	AUC:0.992	TP:13115.000	FP:457.000	FN:849.000	Noise in labeled dataset:0.034
+Number of labeled samples:13539	AUC:0.993	TP:13099.000	FP:440.000	FN:865.000	Noise in labeled dataset:0.032
+Epoch 14 (net 2): GMM results: [0.02270724] with weight 0.2697627939816612	[0.38931501] with weight 0.7302372060183421
+Epoch 14 (net 1): GMM results: [0.02816342] with weight 0.26713746475937794	[0.39489655] with weight 0.7328625352406256
+Number of labeled samples:13583	AUC:0.993	TP:13142.000	FP:441.000	FN:822.000	Noise in labeled dataset:0.032
+Number of labeled samples:13525	AUC:0.993	TP:13092.000	FP:433.000	FN:872.000	Noise in labeled dataset:0.032
+Epoch 15 (net 2): GMM results: [0.02564812] with weight 0.2704917490705563	[0.39818622] with weight 0.7295082509294435
+Epoch 15 (net 1): GMM results: [0.02729109] with weight 0.270449683825143	[0.37919278] with weight 0.729550316174857
+Number of labeled samples:13628	AUC:0.993	TP:13173.000	FP:455.000	FN:791.000	Noise in labeled dataset:0.033
+Number of labeled samples:13619	AUC:0.992	TP:13135.000	FP:484.000	FN:829.000	Noise in labeled dataset:0.036
+Epoch 16 (net 2): GMM results: [0.02991217] with weight 0.2697874520390401	[0.39417826] with weight 0.7302125479609588
+Epoch 16 (net 1): GMM results: [0.02641719] with weight 0.2697826036742126	[0.4051782] with weight 0.7302173963257893
+Number of labeled samples:13617	AUC:0.992	TP:13144.000	FP:473.000	FN:820.000	Noise in labeled dataset:0.035
+Number of labeled samples:13577	AUC:0.993	TP:13155.000	FP:422.000	FN:809.000	Noise in labeled dataset:0.031
+Epoch 17 (net 2): GMM results: [0.02474745] with weight 0.27033858280901096	[0.39441854] with weight 0.7296614171909953
+Epoch 17 (net 1): GMM results: [0.02410035] with weight 0.27059997524046636	[0.39809433] with weight 0.7294000247595394
+Number of labeled samples:13628	AUC:0.993	TP:13171.000	FP:457.000	FN:793.000	Noise in labeled dataset:0.034
+Number of labeled samples:13632	AUC:0.993	TP:13196.000	FP:436.000	FN:768.000	Noise in labeled dataset:0.032
+Epoch 18 (net 2): GMM results: [0.02525156] with weight 0.2704809805708094	[0.42229629] with weight 0.7295190194291988
+Epoch 18 (net 1): GMM results: [0.02318041] with weight 0.2712504500717341	[0.39479547] with weight 0.7287495499282655
+Number of labeled samples:13620	AUC:0.994	TP:13209.000	FP:411.000	FN:755.000	Noise in labeled dataset:0.030
+Number of labeled samples:13657	AUC:0.993	TP:13199.000	FP:458.000	FN:765.000	Noise in labeled dataset:0.034
+Epoch 19 (net 2): GMM results: [0.02672137] with weight 0.2704785054258685	[0.40716243] with weight 0.7295214945741311
+Epoch 19 (net 1): GMM results: [0.02453715] with weight 0.27060520494094403	[0.40283384] with weight 0.7293947950590549
+Number of labeled samples:13650	AUC:0.992	TP:13181.000	FP:469.000	FN:783.000	Noise in labeled dataset:0.034
+Number of labeled samples:13652	AUC:0.992	TP:13181.000	FP:471.000	FN:783.000	Noise in labeled dataset:0.035
+Epoch 20 (net 2): GMM results: [0.02649922] with weight 0.2708566522738332	[0.40548843] with weight 0.7291433477261678
+Epoch 20 (net 1): GMM results: [0.02440664] with weight 0.2715344359562373	[0.37119842] with weight 0.7284655640437646
+Number of labeled samples:13653	AUC:0.992	TP:13209.000	FP:444.000	FN:755.000	Noise in labeled dataset:0.033
+Number of labeled samples:13730	AUC:0.992	TP:13241.000	FP:489.000	FN:723.000	Noise in labeled dataset:0.036
+Epoch 21 (net 2): GMM results: [0.02667169] with weight 0.27193568666813384	[0.42462725] with weight 0.7280643133318653
+Epoch 21 (net 1): GMM results: [0.02262674] with weight 0.2723287333252556	[0.41951067] with weight 0.7276712666747456
+Number of labeled samples:13683	AUC:0.992	TP:13224.000	FP:459.000	FN:740.000	Noise in labeled dataset:0.034
+Number of labeled samples:13691	AUC:0.992	TP:13240.000	FP:451.000	FN:724.000	Noise in labeled dataset:0.033
+Epoch 22 (net 2): GMM results: [0.02476628] with weight 0.27128103638472084	[0.43091205] with weight 0.7287189636152822
+Epoch 22 (net 1): GMM results: [0.02183672] with weight 0.2735767610932906	[0.37812004] with weight 0.7264232389067129
+Number of labeled samples:13663	AUC:0.993	TP:13211.000	FP:452.000	FN:753.000	Noise in labeled dataset:0.033
+Number of labeled samples:13763	AUC:0.993	TP:13273.000	FP:490.000	FN:691.000	Noise in labeled dataset:0.036
+Epoch 23 (net 2): GMM results: [0.02289531] with weight 0.2728005043018699	[0.3855604] with weight 0.7271994956981273
+Epoch 23 (net 1): GMM results: [0.0259169] with weight 0.2709663165322003	[0.42630685] with weight 0.729033683467797
+Number of labeled samples:13804	AUC:0.992	TP:13254.000	FP:550.000	FN:710.000	Noise in labeled dataset:0.040
+Number of labeled samples:13654	AUC:0.992	TP:13195.000	FP:459.000	FN:769.000	Noise in labeled dataset:0.034
+Epoch 24 (net 2): GMM results: [0.02737427] with weight 0.27145926971441275	[0.41696379] with weight 0.7285407302855815
+Epoch 24 (net 1): GMM results: [0.02327615] with weight 0.2731049602133884	[0.39494251] with weight 0.7268950397866154
+Number of labeled samples:13696	AUC:0.993	TP:13246.000	FP:450.000	FN:718.000	Noise in labeled dataset:0.033
+Number of labeled samples:13760	AUC:0.993	TP:13287.000	FP:473.000	FN:677.000	Noise in labeled dataset:0.034
+Epoch 25 (net 2): GMM results: [0.02416408] with weight 0.27298989772627963	[0.42676486] with weight 0.7270101022737201
+Epoch 25 (net 1): GMM results: [0.02174252] with weight 0.2733336422584141	[0.39666969] with weight 0.726666357741589
+Number of labeled samples:13735	AUC:0.994	TP:13280.000	FP:455.000	FN:684.000	Noise in labeled dataset:0.033
+Number of labeled samples:13744	AUC:0.992	TP:13261.000	FP:483.000	FN:703.000	Noise in labeled dataset:0.035
+Epoch 26 (net 2): GMM results: [0.021815] with weight 0.27250644797368795	[0.38755118] with weight 0.7274935520263117
+Epoch 26 (net 1): GMM results: [0.02841784] with weight 0.27171478631006885	[0.42339448] with weight 0.7282852136899369
+Number of labeled samples:13748	AUC:0.993	TP:13298.000	FP:450.000	FN:666.000	Noise in labeled dataset:0.033
+Number of labeled samples:13695	AUC:0.992	TP:13265.000	FP:430.000	FN:699.000	Noise in labeled dataset:0.031
+Epoch 27 (net 2): GMM results: [0.0239048] with weight 0.27274417596480366	[0.39988497] with weight 0.7272558240351982
+Epoch 27 (net 1): GMM results: [0.02358409] with weight 0.2731352205682848	[0.40031535] with weight 0.7268647794317207
+Number of labeled samples:13745	AUC:0.992	TP:13289.000	FP:456.000	FN:675.000	Noise in labeled dataset:0.033
+Number of labeled samples:13767	AUC:0.992	TP:13290.000	FP:477.000	FN:674.000	Noise in labeled dataset:0.035
+Epoch 28 (net 2): GMM results: [0.02336326] with weight 0.2734609034377794	[0.37790225] with weight 0.726539096562224
+Epoch 28 (net 1): GMM results: [0.02335685] with weight 0.27269440516716587	[0.3828157] with weight 0.7273055948328422
+Number of labeled samples:13806	AUC:0.992	TP:13311.000	FP:495.000	FN:653.000	Noise in labeled dataset:0.036
+Number of labeled samples:13752	AUC:0.992	TP:13249.000	FP:503.000	FN:715.000	Noise in labeled dataset:0.037
+Epoch 29 (net 2): GMM results: [0.02296377] with weight 0.2729785155192972	[0.41758734] with weight 0.7270214844807068
+Epoch 29 (net 1): GMM results: [0.02083932] with weight 0.2732920731182612	[0.4081438] with weight 0.7267079268817397
+Number of labeled samples:13764	AUC:0.992	TP:13276.000	FP:488.000	FN:688.000	Noise in labeled dataset:0.035
+Number of labeled samples:13774	AUC:0.993	TP:13309.000	FP:465.000	FN:655.000	Noise in labeled dataset:0.034
+Epoch 30 (net 2): GMM results: [0.02638742] with weight 0.2720539040980608	[0.41260801] with weight 0.7279460959019499
+Epoch 30 (net 1): GMM results: [0.02282114] with weight 0.27043393332060367	[0.356212] with weight 0.7295660666794022
+Number of labeled samples:13722	AUC:0.991	TP:13268.000	FP:454.000	FN:696.000	Noise in labeled dataset:0.033
+Number of labeled samples:13792	AUC:0.992	TP:13271.000	FP:521.000	FN:693.000	Noise in labeled dataset:0.038
+Epoch 31 (net 2): GMM results: [0.02231785] with weight 0.2718795706586363	[0.3875297] with weight 0.7281204293413597
+Epoch 31 (net 1): GMM results: [0.01897721] with weight 0.2741400229257755	[0.44747725] with weight 0.7258599770742216
+Number of labeled samples:13746	AUC:0.991	TP:13235.000	FP:511.000	FN:729.000	Noise in labeled dataset:0.037
+Number of labeled samples:13762	AUC:0.993	TP:13322.000	FP:440.000	FN:642.000	Noise in labeled dataset:0.032
+Epoch 32 (net 2): GMM results: [0.02032262] with weight 0.27002729878294984	[0.39838805] with weight 0.7299727012170539
+Epoch 32 (net 1): GMM results: [0.02447089] with weight 0.27185365377615167	[0.39233924] with weight 0.72814634622385
+Number of labeled samples:13720	AUC:0.991	TP:13204.000	FP:516.000	FN:760.000	Noise in labeled dataset:0.038
+Number of labeled samples:13823	AUC:0.992	TP:13302.000	FP:521.000	FN:662.000	Noise in labeled dataset:0.038
+Epoch 33 (net 2): GMM results: [0.02333092] with weight 0.2741526375713173	[0.40887144] with weight 0.7258473624286839
+Epoch 33 (net 1): GMM results: [0.02209181] with weight 0.2747782611820484	[0.38087711] with weight 0.725221738817955
+Number of labeled samples:13822	AUC:0.992	TP:13331.000	FP:491.000	FN:633.000	Noise in labeled dataset:0.036
+Number of labeled samples:13855	AUC:0.991	TP:13324.000	FP:531.000	FN:640.000	Noise in labeled dataset:0.038
+Epoch 34 (net 2): GMM results: [0.02293045] with weight 0.2748579916447905	[0.41155077] with weight 0.7251420083552121
+Epoch 34 (net 1): GMM results: [0.02341333] with weight 0.2740757882050051	[0.44842621] with weight 0.7259242117949934
+Number of labeled samples:13852	AUC:0.992	TP:13341.000	FP:511.000	FN:623.000	Noise in labeled dataset:0.037
+Number of labeled samples:13773	AUC:0.990	TP:13284.000	FP:489.000	FN:680.000	Noise in labeled dataset:0.036
+Epoch 35 (net 2): GMM results: [0.01991625] with weight 0.27501629841395475	[0.39826455] with weight 0.7249837015860497
+Epoch 35 (net 1): GMM results: [0.02092225] with weight 0.27543058125250824	[0.37629488] with weight 0.7245694187474938
+Number of labeled samples:13865	AUC:0.993	TP:13353.000	FP:512.000	FN:611.000	Noise in labeled dataset:0.037
+Number of labeled samples:13848	AUC:0.992	TP:13313.000	FP:535.000	FN:651.000	Noise in labeled dataset:0.039
+Epoch 36 (net 2): GMM results: [0.0160823] with weight 0.27706602548274717	[0.37927612] with weight 0.7229339745172544
+Epoch 36 (net 1): GMM results: [0.0195404] with weight 0.27497988168844983	[0.39525118] with weight 0.7250201183115519
+Number of labeled samples:13929	AUC:0.992	TP:13378.000	FP:551.000	FN:586.000	Noise in labeled dataset:0.040
+Number of labeled samples:13853	AUC:0.991	TP:13315.000	FP:538.000	FN:649.000	Noise in labeled dataset:0.039
+Epoch 37 (net 2): GMM results: [0.02317927] with weight 0.2747204262698079	[0.39718897] with weight 0.7252795737301929
+Epoch 37 (net 1): GMM results: [0.02080372] with weight 0.2744620949246657	[0.4092784] with weight 0.7255379050753362
+Number of labeled samples:13871	AUC:0.991	TP:13333.000	FP:538.000	FN:631.000	Noise in labeled dataset:0.039
+Number of labeled samples:13833	AUC:0.992	TP:13337.000	FP:496.000	FN:627.000	Noise in labeled dataset:0.036
+Epoch 38 (net 2): GMM results: [0.01997236] with weight 0.27538232308192334	[0.40493985] with weight 0.7246176769180772
+Epoch 38 (net 1): GMM results: [0.02199092] with weight 0.2751058911262968	[0.38484154] with weight 0.7248941088737026
+Number of labeled samples:13877	AUC:0.991	TP:13340.000	FP:537.000	FN:624.000	Noise in labeled dataset:0.039
+Number of labeled samples:13865	AUC:0.992	TP:13355.000	FP:510.000	FN:609.000	Noise in labeled dataset:0.037
+Epoch 39 (net 2): GMM results: [0.02136155] with weight 0.2745455833662199	[0.4285086] with weight 0.725454416633783
+Epoch 39 (net 1): GMM results: [0.01741227] with weight 0.27619768809251216	[0.39514891] with weight 0.7238023119074902
+Number of labeled samples:13804	AUC:0.991	TP:13308.000	FP:496.000	FN:656.000	Noise in labeled dataset:0.036
+Number of labeled samples:13897	AUC:0.993	TP:13383.000	FP:514.000	FN:581.000	Noise in labeled dataset:0.037
+Epoch 40 (net 2): GMM results: [0.02292837] with weight 0.27589706746098824	[0.43582272] with weight 0.7241029325390156
+Epoch 40 (net 1): GMM results: [0.01943032] with weight 0.2734904330311031	[0.4245801] with weight 0.7265095669688989
+Number of labeled samples:13866	AUC:0.991	TP:13355.000	FP:511.000	FN:609.000	Noise in labeled dataset:0.037
+Number of labeled samples:13775	AUC:0.991	TP:13278.000	FP:497.000	FN:686.000	Noise in labeled dataset:0.036
+Epoch 41 (net 2): GMM results: [0.02388012] with weight 0.27474245256742824	[0.43825884] with weight 0.7252575474325715
+Epoch 41 (net 1): GMM results: [0.02060837] with weight 0.27451300004462287	[0.39654313] with weight 0.7254869999553785
+Number of labeled samples:13835	AUC:0.991	TP:13340.000	FP:495.000	FN:624.000	Noise in labeled dataset:0.036
+Number of labeled samples:13843	AUC:0.991	TP:13348.000	FP:495.000	FN:616.000	Noise in labeled dataset:0.036
+Epoch 42 (net 2): GMM results: [0.02105585] with weight 0.2747665981951991	[0.43842168] with weight 0.7252334018048029
+Epoch 42 (net 1): GMM results: [0.0204816] with weight 0.2754075101187202	[0.36642119] with weight 0.7245924898812828
+Number of labeled samples:13816	AUC:0.991	TP:13333.000	FP:483.000	FN:631.000	Noise in labeled dataset:0.035
+Number of labeled samples:13920	AUC:0.991	TP:13391.000	FP:529.000	FN:573.000	Noise in labeled dataset:0.038
+Epoch 43 (net 2): GMM results: [0.02087258] with weight 0.2759113755250581	[0.45680068] with weight 0.7240886244749438
+Epoch 43 (net 1): GMM results: [0.01994102] with weight 0.27616582380281346	[0.38601795] with weight 0.7238341761971899
+Number of labeled samples:13843	AUC:0.992	TP:13329.000	FP:514.000	FN:635.000	Noise in labeled dataset:0.037
+Number of labeled samples:13902	AUC:0.991	TP:13356.000	FP:546.000	FN:608.000	Noise in labeled dataset:0.039
+Epoch 44 (net 2): GMM results: [0.02378211] with weight 0.27594338436637683	[0.42142432] with weight 0.724056615633624
+Epoch 44 (net 1): GMM results: [0.0221093] with weight 0.2753163732521122	[0.40620027] with weight 0.7246836267478934
+Number of labeled samples:13904	AUC:0.991	TP:13386.000	FP:518.000	FN:578.000	Noise in labeled dataset:0.037
+Number of labeled samples:13895	AUC:0.991	TP:13352.000	FP:543.000	FN:612.000	Noise in labeled dataset:0.039
+Epoch 45 (net 2): GMM results: [0.02468095] with weight 0.2750589742272708	[0.39772586] with weight 0.7249410257727311
+Epoch 45 (net 1): GMM results: [0.01868345] with weight 0.2757152101056293	[0.39231579] with weight 0.7242847898943682
+Number of labeled samples:13928	AUC:0.990	TP:13377.000	FP:551.000	FN:587.000	Noise in labeled dataset:0.040
+Number of labeled samples:13897	AUC:0.993	TP:13384.000	FP:513.000	FN:580.000	Noise in labeled dataset:0.037
+Epoch 46 (net 2): GMM results: [0.02073821] with weight 0.27586864162688984	[0.40606201] with weight 0.7241313583731129
+Epoch 46 (net 1): GMM results: [0.01827678] with weight 0.2765453517633791	[0.34233543] with weight 0.7234546482366231
+Number of labeled samples:13883	AUC:0.991	TP:13353.000	FP:530.000	FN:611.000	Noise in labeled dataset:0.038
+Number of labeled samples:13987	AUC:0.991	TP:13397.000	FP:590.000	FN:567.000	Noise in labeled dataset:0.042
+Epoch 47 (net 2): GMM results: [0.02253237] with weight 0.274614518243663	[0.43020026] with weight 0.7253854817563367
+Epoch 47 (net 1): GMM results: [0.01891167] with weight 0.2766654777208743	[0.38988807] with weight 0.7233345222791245
+Number of labeled samples:13831	AUC:0.990	TP:13313.000	FP:518.000	FN:651.000	Noise in labeled dataset:0.037
+Number of labeled samples:13926	AUC:0.992	TP:13385.000	FP:541.000	FN:579.000	Noise in labeled dataset:0.039
+Epoch 48 (net 2): GMM results: [0.02294587] with weight 0.2730628666497745	[0.39134801] with weight 0.7269371333502298
+Epoch 48 (net 1): GMM results: [0.02353853] with weight 0.27413030411845746	[0.41822818] with weight 0.725869695881546
+Number of labeled samples:13860	AUC:0.991	TP:13317.000	FP:543.000	FN:647.000	Noise in labeled dataset:0.039
+Number of labeled samples:13822	AUC:0.990	TP:13275.000	FP:547.000	FN:689.000	Noise in labeled dataset:0.040
+Epoch 49 (net 2): GMM results: [0.02329755] with weight 0.27522307683542857	[0.4204754] with weight 0.7247769231645741
+Epoch 49 (net 1): GMM results: [0.020647] with weight 0.27569892668202317	[0.4068464] with weight 0.7243010733179748
+Number of labeled samples:13869	AUC:0.990	TP:13295.000	FP:574.000	FN:669.000	Noise in labeled dataset:0.041
+Number of labeled samples:13907	AUC:0.992	TP:13370.000	FP:537.000	FN:594.000	Noise in labeled dataset:0.039
+Epoch 50 (net 2): GMM results: [0.018636] with weight 0.2763893596054842	[0.39129211] with weight 0.7236106403945155
+Epoch 50 (net 1): GMM results: [0.02202343] with weight 0.275257393146292	[0.40687385] with weight 0.724742606853706
+Number of labeled samples:13891	AUC:0.990	TP:13343.000	FP:548.000	FN:621.000	Noise in labeled dataset:0.039
+Number of labeled samples:13874	AUC:0.991	TP:13326.000	FP:548.000	FN:638.000	Noise in labeled dataset:0.039
+Epoch 51 (net 2): GMM results: [0.0178111] with weight 0.2765802855413152	[0.4241319] with weight 0.7234197144586836
+Epoch 51 (net 1): GMM results: [0.01718546] with weight 0.27526148883984936	[0.34777295] with weight 0.7247385111601508
+Number of labeled samples:13876	AUC:0.991	TP:13355.000	FP:521.000	FN:609.000	Noise in labeled dataset:0.038
+Number of labeled samples:13899	AUC:0.989	TP:13286.000	FP:613.000	FN:678.000	Noise in labeled dataset:0.044
+Epoch 52 (net 2): GMM results: [0.02118816] with weight 0.27527074111423044	[0.44204378] with weight 0.7247292588857723
+Epoch 52 (net 1): GMM results: [0.01750091] with weight 0.276740155139275	[0.383413] with weight 0.723259844860726
+Number of labeled samples:13845	AUC:0.991	TP:13310.000	FP:535.000	FN:654.000	Noise in labeled dataset:0.039
+Number of labeled samples:13939	AUC:0.990	TP:13325.000	FP:614.000	FN:639.000	Noise in labeled dataset:0.044
+Epoch 53 (net 2): GMM results: [0.01673346] with weight 0.27822436777126136	[0.36481978] with weight 0.7217756322287403
+Epoch 53 (net 1): GMM results: [0.02049115] with weight 0.27568516133163856	[0.41533765] with weight 0.7243148386683644
+Number of labeled samples:13983	AUC:0.989	TP:13384.000	FP:599.000	FN:580.000	Noise in labeled dataset:0.043
+Number of labeled samples:13848	AUC:0.991	TP:13337.000	FP:511.000	FN:627.000	Noise in labeled dataset:0.037
+Epoch 54 (net 2): GMM results: [0.0209516] with weight 0.27619702721094497	[0.41353444] with weight 0.7238029727890545
+Epoch 54 (net 1): GMM results: [0.02082689] with weight 0.2760373302460549	[0.39035768] with weight 0.7239626697539442
+Number of labeled samples:13897	AUC:0.991	TP:13350.000	FP:547.000	FN:614.000	Noise in labeled dataset:0.039
+Number of labeled samples:13957	AUC:0.991	TP:13369.000	FP:588.000	FN:595.000	Noise in labeled dataset:0.042
+Epoch 55 (net 2): GMM results: [0.02149157] with weight 0.2757680404362003	[0.42099602] with weight 0.7242319595637954
+Epoch 55 (net 1): GMM results: [0.01980463] with weight 0.2764947436486436	[0.42815447] with weight 0.7235052563513605
+Number of labeled samples:13901	AUC:0.991	TP:13352.000	FP:549.000	FN:612.000	Noise in labeled dataset:0.039
+Number of labeled samples:13885	AUC:0.992	TP:13373.000	FP:512.000	FN:591.000	Noise in labeled dataset:0.037
+Epoch 56 (net 2): GMM results: [0.016491] with weight 0.27887772535113503	[0.33367158] with weight 0.7211222746488642
+Epoch 56 (net 1): GMM results: [0.01782932] with weight 0.2777824078118337	[0.40388994] with weight 0.7222175921881695
+Number of labeled samples:14019	AUC:0.991	TP:13379.000	FP:640.000	FN:585.000	Noise in labeled dataset:0.046
+Number of labeled samples:13941	AUC:0.991	TP:13386.000	FP:555.000	FN:578.000	Noise in labeled dataset:0.040
+Epoch 57 (net 2): GMM results: [0.0182805] with weight 0.27701304846551894	[0.47203254] with weight 0.72298695153448
+Epoch 57 (net 1): GMM results: [0.01949667] with weight 0.2755835928131173	[0.38306835] with weight 0.7244164071868888
+Number of labeled samples:13887	AUC:0.991	TP:13341.000	FP:546.000	FN:623.000	Noise in labeled dataset:0.039
+Number of labeled samples:13952	AUC:0.991	TP:13372.000	FP:580.000	FN:592.000	Noise in labeled dataset:0.042
+Epoch 58 (net 2): GMM results: [0.01899554] with weight 0.2777380058455713	[0.41821514] with weight 0.7222619941544292
+Epoch 58 (net 1): GMM results: [0.02054248] with weight 0.27636974506178397	[0.41730903] with weight 0.7236302549382212
+Number of labeled samples:13936	AUC:0.991	TP:13391.000	FP:545.000	FN:573.000	Noise in labeled dataset:0.039
+Number of labeled samples:13914	AUC:0.991	TP:13377.000	FP:537.000	FN:587.000	Noise in labeled dataset:0.039
+Epoch 59 (net 2): GMM results: [0.01561953] with weight 0.27980191221204737	[0.31411734] with weight 0.7201980877879574
+Epoch 59 (net 1): GMM results: [0.01932427] with weight 0.2777870264008514	[0.45068497] with weight 0.7222129735991517
+Number of labeled samples:14103	AUC:0.990	TP:13424.000	FP:679.000	FN:540.000	Noise in labeled dataset:0.048
+Number of labeled samples:13922	AUC:0.992	TP:13390.000	FP:532.000	FN:574.000	Noise in labeled dataset:0.038
+Epoch 60 (net 2): GMM results: [0.01913133] with weight 0.2778989896798044	[0.43577022] with weight 0.7221010103201986
+Epoch 60 (net 1): GMM results: [0.01791268] with weight 0.27772107004150565	[0.44710786] with weight 0.7222789299584934
+Number of labeled samples:13938	AUC:0.991	TP:13377.000	FP:561.000	FN:587.000	Noise in labeled dataset:0.040
+Number of labeled samples:13916	AUC:0.991	TP:13364.000	FP:552.000	FN:600.000	Noise in labeled dataset:0.040
+Epoch 61 (net 2): GMM results: [0.01904526] with weight 0.2775112957292991	[0.42439277] with weight 0.722488704270703
+Epoch 61 (net 1): GMM results: [0.01932632] with weight 0.2779665070607734	[0.37262181] with weight 0.72203349293923
+Number of labeled samples:13918	AUC:0.991	TP:13375.000	FP:543.000	FN:589.000	Noise in labeled dataset:0.039
+Number of labeled samples:14018	AUC:0.992	TP:13439.000	FP:579.000	FN:525.000	Noise in labeled dataset:0.041
+Epoch 62 (net 2): GMM results: [0.01640303] with weight 0.2762711343155009	[0.36246005] with weight 0.7237288656845026
+Epoch 62 (net 1): GMM results: [0.01755461] with weight 0.2780934697591649	[0.42782878] with weight 0.7219065302408336
+Number of labeled samples:14002	AUC:0.991	TP:13391.000	FP:611.000	FN:573.000	Noise in labeled dataset:0.044
+Number of labeled samples:13948	AUC:0.992	TP:13412.000	FP:536.000	FN:552.000	Noise in labeled dataset:0.038
+Epoch 63 (net 2): GMM results: [0.01902988] with weight 0.27752420369480874	[0.41522905] with weight 0.722475796305196
+Epoch 63 (net 1): GMM results: [0.01648788] with weight 0.2777400384963657	[0.41577137] with weight 0.7222599615036371
+Number of labeled samples:13966	AUC:0.992	TP:13416.000	FP:550.000	FN:548.000	Noise in labeled dataset:0.039
+Number of labeled samples:13918	AUC:0.991	TP:13389.000	FP:529.000	FN:575.000	Noise in labeled dataset:0.038
+Epoch 64 (net 2): GMM results: [0.0191201] with weight 0.27741902693532067	[0.40529902] with weight 0.72258097306468
+Epoch 64 (net 1): GMM results: [0.01994411] with weight 0.27681175545426084	[0.43867644] with weight 0.7231882445457369
+Number of labeled samples:13941	AUC:0.992	TP:13412.000	FP:529.000	FN:552.000	Noise in labeled dataset:0.038
+Number of labeled samples:13919	AUC:0.993	TP:13399.000	FP:520.000	FN:565.000	Noise in labeled dataset:0.037
+Epoch 65 (net 2): GMM results: [0.01614062] with weight 0.27870281761544075	[0.4030959] with weight 0.7212971823845582
+Epoch 65 (net 1): GMM results: [0.0211961] with weight 0.27664821864516814	[0.4127034] with weight 0.7233517813548306
+Number of labeled samples:13976	AUC:0.991	TP:13423.000	FP:553.000	FN:541.000	Noise in labeled dataset:0.040
+Number of labeled samples:13920	AUC:0.991	TP:13379.000	FP:541.000	FN:585.000	Noise in labeled dataset:0.039
+Epoch 66 (net 2): GMM results: [0.0177812] with weight 0.2781996171694744	[0.44541086] with weight 0.721800382830528
+Epoch 66 (net 1): GMM results: [0.01770811] with weight 0.2786119945778318	[0.41904273] with weight 0.7213880054221663
+Number of labeled samples:13958	AUC:0.992	TP:13396.000	FP:562.000	FN:568.000	Noise in labeled dataset:0.040
+Number of labeled samples:13957	AUC:0.992	TP:13397.000	FP:560.000	FN:567.000	Noise in labeled dataset:0.040
+Epoch 67 (net 2): GMM results: [0.01988222] with weight 0.27540752084750236	[0.4320257] with weight 0.7245924791525006
+Epoch 67 (net 1): GMM results: [0.01659392] with weight 0.27919285800759075	[0.42083889] with weight 0.720807141992407
+Number of labeled samples:13871	AUC:0.991	TP:13327.000	FP:544.000	FN:637.000	Noise in labeled dataset:0.039
+Number of labeled samples:14000	AUC:0.991	TP:13430.000	FP:570.000	FN:534.000	Noise in labeled dataset:0.041
+Epoch 68 (net 2): GMM results: [0.01869832] with weight 0.2779425465108098	[0.43412555] with weight 0.7220574534891904
+Epoch 68 (net 1): GMM results: [0.01791867] with weight 0.27813309314580204	[0.44775043] with weight 0.721866906854203
+Number of labeled samples:13950	AUC:0.990	TP:13380.000	FP:570.000	FN:584.000	Noise in labeled dataset:0.041
+Number of labeled samples:13928	AUC:0.992	TP:13393.000	FP:535.000	FN:571.000	Noise in labeled dataset:0.038
+Epoch 69 (net 2): GMM results: [0.01783539] with weight 0.27825254671437055	[0.4278442] with weight 0.721747453285628
+Epoch 69 (net 1): GMM results: [0.0192751] with weight 0.2779185580069805	[0.45118387] with weight 0.7220814419930203
+Number of labeled samples:13958	AUC:0.991	TP:13415.000	FP:543.000	FN:549.000	Noise in labeled dataset:0.039
+Number of labeled samples:13940	AUC:0.992	TP:13396.000	FP:544.000	FN:568.000	Noise in labeled dataset:0.039
+Epoch 70 (net 2): GMM results: [0.01745816] with weight 0.2798805530589528	[0.40360194] with weight 0.7201194469410479
+Epoch 70 (net 1): GMM results: [0.01884156] with weight 0.2783413512281429	[0.4411935] with weight 0.7216586487718535
+Number of labeled samples:14035	AUC:0.992	TP:13449.000	FP:586.000	FN:515.000	Noise in labeled dataset:0.042
+Number of labeled samples:13967	AUC:0.992	TP:13407.000	FP:560.000	FN:557.000	Noise in labeled dataset:0.040
+Epoch 71 (net 2): GMM results: [0.01762694] with weight 0.2785300506079966	[0.4070522] with weight 0.7214699493920018
+Epoch 71 (net 1): GMM results: [0.01686527] with weight 0.2792141640984175	[0.44268389] with weight 0.7207858359015802
+Number of labeled samples:13986	AUC:0.991	TP:13417.000	FP:569.000	FN:547.000	Noise in labeled dataset:0.041
+Number of labeled samples:13992	AUC:0.991	TP:13431.000	FP:561.000	FN:533.000	Noise in labeled dataset:0.040
+Epoch 72 (net 2): GMM results: [0.01764359] with weight 0.2786388632326411	[0.43271117] with weight 0.7213611367673581
+Epoch 72 (net 1): GMM results: [0.01952155] with weight 0.2779596779593354	[0.44920214] with weight 0.7220403220406667
+Number of labeled samples:13968	AUC:0.992	TP:13412.000	FP:556.000	FN:552.000	Noise in labeled dataset:0.040
+Number of labeled samples:13945	AUC:0.991	TP:13397.000	FP:548.000	FN:567.000	Noise in labeled dataset:0.039
+Epoch 73 (net 2): GMM results: [0.01553866] with weight 0.2785759338394973	[0.45829249] with weight 0.7214240661605024
+Epoch 73 (net 1): GMM results: [0.01878591] with weight 0.2779675021043383	[0.43391573] with weight 0.7220324978956627
+Number of labeled samples:13958	AUC:0.992	TP:13397.000	FP:561.000	FN:567.000	Noise in labeled dataset:0.040
+Number of labeled samples:13935	AUC:0.992	TP:13408.000	FP:527.000	FN:556.000	Noise in labeled dataset:0.038
+Epoch 74 (net 2): GMM results: [0.02035075] with weight 0.27687904206602537	[0.44526127] with weight 0.7231209579339768
+Epoch 74 (net 1): GMM results: [0.01638234] with weight 0.2793740790780397	[0.36849797] with weight 0.7206259209219613
+Number of labeled samples:13892	AUC:0.990	TP:13319.000	FP:573.000	FN:645.000	Noise in labeled dataset:0.041
+Number of labeled samples:14037	AUC:0.991	TP:13414.000	FP:623.000	FN:550.000	Noise in labeled dataset:0.044
+Epoch 75 (net 2): GMM results: [0.01933714] with weight 0.2784820743155185	[0.43560376] with weight 0.7215179256844833
+Epoch 75 (net 1): GMM results: [0.01541886] with weight 0.2767109409488367	[0.37013767] with weight 0.723289059051163
+Number of labeled samples:13987	AUC:0.991	TP:13401.000	FP:586.000	FN:563.000	Noise in labeled dataset:0.042
+Number of labeled samples:13949	AUC:0.990	TP:13353.000	FP:596.000	FN:611.000	Noise in labeled dataset:0.043
+Epoch 76 (net 2): GMM results: [0.01678802] with weight 0.2783683635957806	[0.4516247] with weight 0.7216316364042213
+Epoch 76 (net 1): GMM results: [0.01698692] with weight 0.27859821443972765	[0.39621246] with weight 0.7214017855602718
+Number of labeled samples:13943	AUC:0.992	TP:13385.000	FP:558.000	FN:579.000	Noise in labeled dataset:0.040
+Number of labeled samples:13996	AUC:0.990	TP:13418.000	FP:578.000	FN:546.000	Noise in labeled dataset:0.041
+Epoch 77 (net 2): GMM results: [0.01772787] with weight 0.278190587675632	[0.45216087] with weight 0.7218094123243707
+Epoch 77 (net 1): GMM results: [0.01487141] with weight 0.27881056034540225	[0.38417748] with weight 0.7211894396545965
+Number of labeled samples:13942	AUC:0.989	TP:13353.000	FP:589.000	FN:611.000	Noise in labeled dataset:0.042
+Number of labeled samples:13983	AUC:0.990	TP:13389.000	FP:594.000	FN:575.000	Noise in labeled dataset:0.042
+Epoch 78 (net 2): GMM results: [0.0169579] with weight 0.27777255041544524	[0.37021734] with weight 0.722227449584557
+Epoch 78 (net 1): GMM results: [0.0172972] with weight 0.2785350484495988	[0.41485325] with weight 0.7214649515504002
+Number of labeled samples:13987	AUC:0.991	TP:13395.000	FP:592.000	FN:569.000	Noise in labeled dataset:0.042
+Number of labeled samples:13963	AUC:0.992	TP:13394.000	FP:569.000	FN:570.000	Noise in labeled dataset:0.041
+Epoch 79 (net 2): GMM results: [0.01568069] with weight 0.27863360771368073	[0.36773376] with weight 0.7213663922863195
+Epoch 79 (net 1): GMM results: [0.01617762] with weight 0.2793670059123657	[0.427564] with weight 0.7206329940876384
+Number of labeled samples:14006	AUC:0.990	TP:13363.000	FP:643.000	FN:601.000	Noise in labeled dataset:0.046
+Number of labeled samples:13994	AUC:0.992	TP:13426.000	FP:568.000	FN:538.000	Noise in labeled dataset:0.041
+Epoch 80 (net 2): GMM results: [0.01661352] with weight 0.27932730109382814	[0.43789795] with weight 0.7206726989061711
+Epoch 80 (net 1): GMM results: [0.01704225] with weight 0.2788405498593093	[0.42415428] with weight 0.7211594501406903
+Number of labeled samples:14009	AUC:0.992	TP:13451.000	FP:558.000	FN:513.000	Noise in labeled dataset:0.040
+Number of labeled samples:13971	AUC:0.990	TP:13414.000	FP:557.000	FN:550.000	Noise in labeled dataset:0.040
+Epoch 81 (net 2): GMM results: [0.01620393] with weight 0.2794074408642453	[0.36206301] with weight 0.7205925591357559
+Epoch 81 (net 1): GMM results: [0.01524247] with weight 0.2804722287396461	[0.43796931] with weight 0.7195277712603572
+Number of labeled samples:14050	AUC:0.991	TP:13441.000	FP:609.000	FN:523.000	Noise in labeled dataset:0.043
+Number of labeled samples:14029	AUC:0.992	TP:13451.000	FP:578.000	FN:513.000	Noise in labeled dataset:0.041
+Epoch 82 (net 2): GMM results: [0.01555544] with weight 0.2779468374419313	[0.36501066] with weight 0.7220531625580693
+Epoch 82 (net 1): GMM results: [0.01467032] with weight 0.2799981569174373	[0.44930269] with weight 0.720001843082563
+Number of labeled samples:14009	AUC:0.992	TP:13415.000	FP:594.000	FN:549.000	Noise in labeled dataset:0.042
+Number of labeled samples:14010	AUC:0.991	TP:13452.000	FP:558.000	FN:512.000	Noise in labeled dataset:0.040
+Epoch 83 (net 2): GMM results: [0.01883462] with weight 0.2788609839986015	[0.44179966] with weight 0.7211390160013964
+Epoch 83 (net 1): GMM results: [0.0174969] with weight 0.2793191773710586	[0.41052907] with weight 0.7206808226289397
+Number of labeled samples:13970	AUC:0.991	TP:13412.000	FP:558.000	FN:552.000	Noise in labeled dataset:0.040
+Number of labeled samples:14006	AUC:0.991	TP:13422.000	FP:584.000	FN:542.000	Noise in labeled dataset:0.042
+Epoch 84 (net 2): GMM results: [0.01423877] with weight 0.28053651569918375	[0.33279384] with weight 0.7194634843008191
+Epoch 84 (net 1): GMM results: [0.01598186] with weight 0.27932633246638405	[0.45813747] with weight 0.7206736675336197
+Number of labeled samples:14080	AUC:0.991	TP:13467.000	FP:613.000	FN:497.000	Noise in labeled dataset:0.044
+Number of labeled samples:13986	AUC:0.991	TP:13415.000	FP:571.000	FN:549.000	Noise in labeled dataset:0.041
+Epoch 85 (net 2): GMM results: [0.01638437] with weight 0.27890032607035264	[0.40101505] with weight 0.7210996739296525
+Epoch 85 (net 1): GMM results: [0.01702976] with weight 0.2795879391976205	[0.46077172] with weight 0.7204120608023791
+Number of labeled samples:14007	AUC:0.990	TP:13395.000	FP:612.000	FN:569.000	Noise in labeled dataset:0.044
+Number of labeled samples:14004	AUC:0.992	TP:13439.000	FP:565.000	FN:525.000	Noise in labeled dataset:0.040
+Epoch 86 (net 2): GMM results: [0.01558609] with weight 0.27872327591674095	[0.44300646] with weight 0.7212767240832582
+Epoch 86 (net 1): GMM results: [0.01780267] with weight 0.2794181827416383	[0.40978691] with weight 0.7205818172583633
+Number of labeled samples:13978	AUC:0.991	TP:13406.000	FP:572.000	FN:558.000	Noise in labeled dataset:0.041
+Number of labeled samples:14013	AUC:0.989	TP:13435.000	FP:578.000	FN:529.000	Noise in labeled dataset:0.041
+Epoch 87 (net 2): GMM results: [0.01780543] with weight 0.2796399035974831	[0.42012184] with weight 0.7203600964025151
+Epoch 87 (net 1): GMM results: [0.01715499] with weight 0.27953710764956524	[0.43088359] with weight 0.7204628923504356
+Number of labeled samples:14017	AUC:0.991	TP:13431.000	FP:586.000	FN:533.000	Noise in labeled dataset:0.042
+Number of labeled samples:13997	AUC:0.990	TP:13419.000	FP:578.000	FN:545.000	Noise in labeled dataset:0.041
+Epoch 88 (net 2): GMM results: [0.01908721] with weight 0.2781237685082606	[0.43296141] with weight 0.7218762314917374
+Epoch 88 (net 1): GMM results: [0.01336947] with weight 0.27958927524410354	[0.3655615] with weight 0.7204107247558988
+Number of labeled samples:13947	AUC:0.991	TP:13378.000	FP:569.000	FN:586.000	Noise in labeled dataset:0.041
+Number of labeled samples:14096	AUC:0.992	TP:13469.000	FP:627.000	FN:495.000	Noise in labeled dataset:0.044
+Epoch 89 (net 2): GMM results: [0.01762742] with weight 0.27904794652595144	[0.43209115] with weight 0.7209520534740422
+Epoch 89 (net 1): GMM results: [0.01698954] with weight 0.2786333425331239	[0.40117777] with weight 0.7213666574668776
+Number of labeled samples:14000	AUC:0.992	TP:13410.000	FP:590.000	FN:554.000	Noise in labeled dataset:0.042
+Number of labeled samples:13994	AUC:0.992	TP:13439.000	FP:555.000	FN:525.000	Noise in labeled dataset:0.040
+Epoch 90 (net 2): GMM results: [0.01534898] with weight 0.2793759978741591	[0.43038424] with weight 0.7206240021258421
+Epoch 90 (net 1): GMM results: [0.01395252] with weight 0.27969134571657017	[0.3730176] with weight 0.7203086542834279
+Number of labeled samples:14005	AUC:0.992	TP:13447.000	FP:558.000	FN:517.000	Noise in labeled dataset:0.040
+Number of labeled samples:14040	AUC:0.990	TP:13439.000	FP:601.000	FN:525.000	Noise in labeled dataset:0.043
+Epoch 91 (net 2): GMM results: [0.01691987] with weight 0.27947795902359873	[0.43402982] with weight 0.720522040976403
+Epoch 91 (net 1): GMM results: [0.01740476] with weight 0.27948964763180395	[0.45880881] with weight 0.7205103523681938
+Number of labeled samples:14014	AUC:0.991	TP:13453.000	FP:561.000	FN:511.000	Noise in labeled dataset:0.040
+Number of labeled samples:13986	AUC:0.990	TP:13429.000	FP:557.000	FN:535.000	Noise in labeled dataset:0.040
+Epoch 92 (net 2): GMM results: [0.01602121] with weight 0.28017966651278364	[0.38213772] with weight 0.7198203334872167
+Epoch 92 (net 1): GMM results: [0.01536852] with weight 0.2799688117293869	[0.39484668] with weight 0.7200311882706141
+Number of labeled samples:14034	AUC:0.991	TP:13463.000	FP:571.000	FN:501.000	Noise in labeled dataset:0.041
+Number of labeled samples:14046	AUC:0.991	TP:13464.000	FP:582.000	FN:500.000	Noise in labeled dataset:0.041
+Epoch 93 (net 2): GMM results: [0.0162419] with weight 0.2793810495964704	[0.4208043] with weight 0.7206189504035309
+Epoch 93 (net 1): GMM results: [0.01778267] with weight 0.27911547871290415	[0.43341756] with weight 0.7208845212870962
+Number of labeled samples:14008	AUC:0.992	TP:13442.000	FP:566.000	FN:522.000	Noise in labeled dataset:0.040
+Number of labeled samples:14000	AUC:0.991	TP:13437.000	FP:563.000	FN:527.000	Noise in labeled dataset:0.040
+Epoch 94 (net 2): GMM results: [0.013819] with weight 0.2794789234770231	[0.41280481] with weight 0.7205210765229764
+Epoch 94 (net 1): GMM results: [0.01731936] with weight 0.28012450220316715	[0.43927543] with weight 0.7198754977968335
+Number of labeled samples:13992	AUC:0.991	TP:13407.000	FP:585.000	FN:557.000	Noise in labeled dataset:0.042
+Number of labeled samples:14040	AUC:0.992	TP:13468.000	FP:572.000	FN:496.000	Noise in labeled dataset:0.041
+Epoch 95 (net 2): GMM results: [0.01908582] with weight 0.27899202842170606	[0.43533827] with weight 0.7210079715782964
+Epoch 95 (net 1): GMM results: [0.01580822] with weight 0.28022405452480825	[0.38545114] with weight 0.7197759454751845
+Number of labeled samples:13985	AUC:0.991	TP:13401.000	FP:584.000	FN:563.000	Noise in labeled dataset:0.042
+Number of labeled samples:14049	AUC:0.991	TP:13427.000	FP:622.000	FN:537.000	Noise in labeled dataset:0.044
+Epoch 96 (net 2): GMM results: [0.01818141] with weight 0.2790513183156927	[0.41864423] with weight 0.7209486816843096
+Epoch 96 (net 1): GMM results: [0.01595303] with weight 0.27934739947587556	[0.43164286] with weight 0.7206526005241215
+Number of labeled samples:14004	AUC:0.991	TP:13433.000	FP:571.000	FN:531.000	Noise in labeled dataset:0.041
+Number of labeled samples:13995	AUC:0.991	TP:13428.000	FP:567.000	FN:536.000	Noise in labeled dataset:0.041
+Epoch 97 (net 2): GMM results: [0.01562495] with weight 0.2798805355815873	[0.41684571] with weight 0.7201194644184108
+Epoch 97 (net 1): GMM results: [0.01780913] with weight 0.2793503642291926	[0.4309103] with weight 0.7206496357708065
+Number of labeled samples:14016	AUC:0.992	TP:13453.000	FP:563.000	FN:511.000	Noise in labeled dataset:0.040
+Number of labeled samples:14000	AUC:0.990	TP:13433.000	FP:567.000	FN:531.000	Noise in labeled dataset:0.041
+Epoch 98 (net 2): GMM results: [0.01635072] with weight 0.2805135021589454	[0.41654838] with weight 0.7194864978410533
+Epoch 98 (net 1): GMM results: [0.0158205] with weight 0.2796262240500412	[0.41394448] with weight 0.7203737759499572
+Number of labeled samples:14057	AUC:0.991	TP:13466.000	FP:591.000	FN:498.000	Noise in labeled dataset:0.042
+Number of labeled samples:14007	AUC:0.992	TP:13444.000	FP:563.000	FN:520.000	Noise in labeled dataset:0.040
+Epoch 99 (net 2): GMM results: [0.01576158] with weight 0.279947224080927	[0.41365318] with weight 0.7200527759190758
+Epoch 99 (net 1): GMM results: [0.0142633] with weight 0.28059993258532073	[0.42857328] with weight 0.7194000674146805
+Number of labeled samples:14024	AUC:0.990	TP:13437.000	FP:587.000	FN:527.000	Noise in labeled dataset:0.042
+Number of labeled samples:14055	AUC:0.991	TP:13465.000	FP:590.000	FN:499.000	Noise in labeled dataset:0.042
+Epoch 100 (net 2): GMM results: [0.01446356] with weight 0.2806509642170581	[0.38195771] with weight 0.7193490357829383
+Epoch 100 (net 1): GMM results: [0.01569834] with weight 0.27998783739832983	[0.43089869] with weight 0.7200121626016726
+Number of labeled samples:14056	AUC:0.991	TP:13445.000	FP:611.000	FN:519.000	Noise in labeled dataset:0.043
+Number of labeled samples:14038	AUC:0.992	TP:13446.000	FP:592.000	FN:518.000	Noise in labeled dataset:0.042
+Epoch 101 (net 2): GMM results: [0.01709702] with weight 0.27937498177340003	[0.46460424] with weight 0.720625018226603
+Epoch 101 (net 1): GMM results: [0.01626263] with weight 0.2797398851879745	[0.49016957] with weight 0.7202601148120285
+Number of labeled samples:14003	AUC:0.991	TP:13401.000	FP:602.000	FN:563.000	Noise in labeled dataset:0.043
+Number of labeled samples:14004	AUC:0.991	TP:13455.000	FP:549.000	FN:509.000	Noise in labeled dataset:0.039
+Epoch 102 (net 2): GMM results: [0.01327694] with weight 0.28030703174908117	[0.39778894] with weight 0.7196929682509247
+Epoch 102 (net 1): GMM results: [0.01739595] with weight 0.2794141585955283	[0.41042971] with weight 0.7205858414044755
+Number of labeled samples:14050	AUC:0.991	TP:13465.000	FP:585.000	FN:499.000	Noise in labeled dataset:0.042
+Number of labeled samples:14009	AUC:0.991	TP:13425.000	FP:584.000	FN:539.000	Noise in labeled dataset:0.042
+Epoch 103 (net 2): GMM results: [0.01793292] with weight 0.27942448692593985	[0.48430256] with weight 0.7205755130740646
+Epoch 103 (net 1): GMM results: [0.01660255] with weight 0.2797443096011028	[0.43727753] with weight 0.7202556903988961
+Number of labeled samples:13985	AUC:0.989	TP:13429.000	FP:556.000	FN:535.000	Noise in labeled dataset:0.040
+Number of labeled samples:14019	AUC:0.992	TP:13446.000	FP:573.000	FN:518.000	Noise in labeled dataset:0.041
+Epoch 104 (net 2): GMM results: [0.0153974] with weight 0.2801077917666351	[0.40160056] with weight 0.7198922082333626
+Epoch 104 (net 1): GMM results: [0.01605028] with weight 0.28034203175107175	[0.42068267] with weight 0.7196579682489324
+Number of labeled samples:14063	AUC:0.991	TP:13455.000	FP:608.000	FN:509.000	Noise in labeled dataset:0.043
+Number of labeled samples:14047	AUC:0.990	TP:13448.000	FP:599.000	FN:516.000	Noise in labeled dataset:0.043
+Epoch 105 (net 2): GMM results: [0.01387254] with weight 0.2809470824299834	[0.38228208] with weight 0.7190529175700199
+Epoch 105 (net 1): GMM results: [0.01554522] with weight 0.2799514461924885	[0.47093901] with weight 0.7200485538075134
+Number of labeled samples:14077	AUC:0.991	TP:13459.000	FP:618.000	FN:505.000	Noise in labeled dataset:0.044
+Number of labeled samples:14012	AUC:0.989	TP:13438.000	FP:574.000	FN:526.000	Noise in labeled dataset:0.041
+Epoch 106 (net 2): GMM results: [0.01417126] with weight 0.28019778865937695	[0.44722604] with weight 0.7198022113406269
+Epoch 106 (net 1): GMM results: [0.01752975] with weight 0.2794037562595208	[0.47122429] with weight 0.7205962437404848
+Number of labeled samples:14025	AUC:0.992	TP:13470.000	FP:555.000	FN:494.000	Noise in labeled dataset:0.040
+Number of labeled samples:13983	AUC:0.991	TP:13446.000	FP:537.000	FN:518.000	Noise in labeled dataset:0.038
+Epoch 107 (net 2): GMM results: [0.01491607] with weight 0.2810127550006143	[0.42318321] with weight 0.7189872449993862
+Epoch 107 (net 1): GMM results: [0.01730631] with weight 0.27982842256226226	[0.4464873] with weight 0.7201715774377406
+Number of labeled samples:14067	AUC:0.991	TP:13471.000	FP:596.000	FN:493.000	Noise in labeled dataset:0.042
+Number of labeled samples:14012	AUC:0.991	TP:13453.000	FP:559.000	FN:511.000	Noise in labeled dataset:0.040
+Epoch 108 (net 2): GMM results: [0.01574579] with weight 0.2807011184919704	[0.42075211] with weight 0.7192988815080329
+Epoch 108 (net 1): GMM results: [0.01494989] with weight 0.2797865780951248	[0.40612588] with weight 0.7202134219048817
+Number of labeled samples:14072	AUC:0.991	TP:13478.000	FP:594.000	FN:486.000	Noise in labeled dataset:0.042
+Number of labeled samples:14022	AUC:0.990	TP:13453.000	FP:569.000	FN:511.000	Noise in labeled dataset:0.041
+Epoch 109 (net 2): GMM results: [0.01555997] with weight 0.27932055770062564	[0.45856923] with weight 0.7206794422993742
+Epoch 109 (net 1): GMM results: [0.01446358] with weight 0.2805185667938409	[0.45478855] with weight 0.7194814332061552
+Number of labeled samples:13989	AUC:0.992	TP:13437.000	FP:552.000	FN:527.000	Noise in labeled dataset:0.039
+Number of labeled samples:14040	AUC:0.992	TP:13475.000	FP:565.000	FN:489.000	Noise in labeled dataset:0.040
+Epoch 110 (net 2): GMM results: [0.01425076] with weight 0.2804786405410531	[0.38435091] with weight 0.7195213594589556
+Epoch 110 (net 1): GMM results: [0.01612241] with weight 0.2790427923804558	[0.42806081] with weight 0.7209572076195441
+Number of labeled samples:14047	AUC:0.991	TP:13447.000	FP:600.000	FN:517.000	Noise in labeled dataset:0.043
+Number of labeled samples:13994	AUC:0.991	TP:13438.000	FP:556.000	FN:526.000	Noise in labeled dataset:0.040
+Epoch 111 (net 2): GMM results: [0.01398203] with weight 0.28088447361507946	[0.43978691] with weight 0.7191155263849217
+Epoch 111 (net 1): GMM results: [0.01860392] with weight 0.27909850830311306	[0.46575374] with weight 0.7209014916968881
+Number of labeled samples:14053	AUC:0.990	TP:13458.000	FP:595.000	FN:506.000	Noise in labeled dataset:0.042
+Number of labeled samples:13973	AUC:0.990	TP:13423.000	FP:550.000	FN:541.000	Noise in labeled dataset:0.039
+Epoch 112 (net 2): GMM results: [0.01833674] with weight 0.2790880207590373	[0.40835037] with weight 0.7209119792409625
+Epoch 112 (net 1): GMM results: [0.01557267] with weight 0.2795635124221251	[0.43600112] with weight 0.7204364875778766
+Number of labeled samples:14013	AUC:0.991	TP:13449.000	FP:564.000	FN:515.000	Noise in labeled dataset:0.040
+Number of labeled samples:14004	AUC:0.990	TP:13438.000	FP:566.000	FN:526.000	Noise in labeled dataset:0.040
+Epoch 113 (net 2): GMM results: [0.01554329] with weight 0.2803490786020315	[0.4211599] with weight 0.719650921397967
+Epoch 113 (net 1): GMM results: [0.01561613] with weight 0.28035842487178697	[0.48861508] with weight 0.7196415751282088
+Number of labeled samples:14051	AUC:0.991	TP:13450.000	FP:601.000	FN:514.000	Noise in labeled dataset:0.043
+Number of labeled samples:14026	AUC:0.991	TP:13462.000	FP:564.000	FN:502.000	Noise in labeled dataset:0.040
+Epoch 114 (net 2): GMM results: [0.01503868] with weight 0.28075072112733024	[0.4340291] with weight 0.7192492788726692
+Epoch 114 (net 1): GMM results: [0.0159558] with weight 0.27963673033354847	[0.47382848] with weight 0.7203632696664523
+Number of labeled samples:14073	AUC:0.990	TP:13468.000	FP:605.000	FN:496.000	Noise in labeled dataset:0.043
+Number of labeled samples:13995	AUC:0.990	TP:13439.000	FP:556.000	FN:525.000	Noise in labeled dataset:0.040
+Epoch 115 (net 2): GMM results: [0.01690637] with weight 0.27983370463135465	[0.42349035] with weight 0.7201662953686477
+Epoch 115 (net 1): GMM results: [0.01385362] with weight 0.2797803337048329	[0.42329386] with weight 0.720219666295168
+Number of labeled samples:14021	AUC:0.989	TP:13409.000	FP:612.000	FN:555.000	Noise in labeled dataset:0.044
+Number of labeled samples:14011	AUC:0.990	TP:13432.000	FP:579.000	FN:532.000	Noise in labeled dataset:0.041
+Epoch 116 (net 2): GMM results: [0.01492048] with weight 0.2796157279237843	[0.43788015] with weight 0.7203842720762162
+Epoch 116 (net 1): GMM results: [0.01570335] with weight 0.28010889438193753	[0.43429834] with weight 0.7198911056180588
+Number of labeled samples:13987	AUC:0.990	TP:13425.000	FP:562.000	FN:539.000	Noise in labeled dataset:0.040
+Number of labeled samples:14030	AUC:0.990	TP:13443.000	FP:587.000	FN:521.000	Noise in labeled dataset:0.042
+Epoch 117 (net 2): GMM results: [0.01457774] with weight 0.28023462224428103	[0.40706278] with weight 0.719765377755723
+Epoch 117 (net 1): GMM results: [0.01555697] with weight 0.2805305659756159	[0.46524471] with weight 0.7194694340243833
+Number of labeled samples:14053	AUC:0.990	TP:13453.000	FP:600.000	FN:511.000	Noise in labeled dataset:0.043
+Number of labeled samples:14041	AUC:0.991	TP:13455.000	FP:586.000	FN:509.000	Noise in labeled dataset:0.042
+Epoch 118 (net 2): GMM results: [0.01471512] with weight 0.28099363399964467	[0.43773702] with weight 0.719006366000352
+Epoch 118 (net 1): GMM results: [0.01824774] with weight 0.28030771666005094	[0.45564624] with weight 0.719692283339943
+Number of labeled samples:14070	AUC:0.990	TP:13483.000	FP:587.000	FN:481.000	Noise in labeled dataset:0.042
+Number of labeled samples:14027	AUC:0.991	TP:13450.000	FP:577.000	FN:514.000	Noise in labeled dataset:0.041
+Epoch 119 (net 2): GMM results: [0.01398099] with weight 0.2798127509094048	[0.37707564] with weight 0.7201872490905942
+Epoch 119 (net 1): GMM results: [0.01414862] with weight 0.2811847790312977	[0.42318389] with weight 0.7188152209687033
+Number of labeled samples:14052	AUC:0.991	TP:13425.000	FP:627.000	FN:539.000	Noise in labeled dataset:0.045
+Number of labeled samples:14064	AUC:0.991	TP:13456.000	FP:608.000	FN:508.000	Noise in labeled dataset:0.043
+Epoch 120 (net 2): GMM results: [0.01505112] with weight 0.28041743355524973	[0.4184137] with weight 0.7195825664447523
+Epoch 120 (net 1): GMM results: [0.01621807] with weight 0.27952799706982046	[0.41755117] with weight 0.7204720029301762
+Number of labeled samples:14037	AUC:0.990	TP:13420.000	FP:617.000	FN:544.000	Noise in labeled dataset:0.044
+Number of labeled samples:14014	AUC:0.992	TP:13444.000	FP:570.000	FN:520.000	Noise in labeled dataset:0.041
+Epoch 121 (net 2): GMM results: [0.01397453] with weight 0.2817395235292801	[0.38555733] with weight 0.7182604764707179
+Epoch 121 (net 1): GMM results: [0.01690603] with weight 0.2793804039744081	[0.44847657] with weight 0.7206195960255894
+Number of labeled samples:14105	AUC:0.990	TP:13477.000	FP:628.000	FN:487.000	Noise in labeled dataset:0.045
+Number of labeled samples:13994	AUC:0.991	TP:13430.000	FP:564.000	FN:534.000	Noise in labeled dataset:0.040
+Epoch 122 (net 2): GMM results: [0.01862247] with weight 0.28084857750313635	[0.44105905] with weight 0.7191514224968618
+Epoch 122 (net 1): GMM results: [0.01623074] with weight 0.2803417967555927	[0.38082213] with weight 0.7196582032444074
+Number of labeled samples:14054	AUC:0.991	TP:13453.000	FP:601.000	FN:511.000	Noise in labeled dataset:0.043
+Number of labeled samples:14098	AUC:0.991	TP:13485.000	FP:613.000	FN:479.000	Noise in labeled dataset:0.043
+Epoch 123 (net 2): GMM results: [0.01469292] with weight 0.2808244681230786	[0.42175682] with weight 0.7191755318769187
+Epoch 123 (net 1): GMM results: [0.01781586] with weight 0.27951125781397923	[0.45299413] with weight 0.7204887421860185
+Number of labeled samples:14067	AUC:0.992	TP:13464.000	FP:603.000	FN:500.000	Noise in labeled dataset:0.043
+Number of labeled samples:13999	AUC:0.990	TP:13433.000	FP:566.000	FN:531.000	Noise in labeled dataset:0.040
+Epoch 124 (net 2): GMM results: [0.01741798] with weight 0.2805250711097748	[0.45618797] with weight 0.7194749288902286
+Epoch 124 (net 1): GMM results: [0.01664175] with weight 0.2806632188105014	[0.41072585] with weight 0.7193367811895001
+Number of labeled samples:14049	AUC:0.992	TP:13467.000	FP:582.000	FN:497.000	Noise in labeled dataset:0.041
+Number of labeled samples:14058	AUC:0.990	TP:13463.000	FP:595.000	FN:501.000	Noise in labeled dataset:0.042
+Epoch 125 (net 2): GMM results: [0.0152012] with weight 0.2812532562376096	[0.38587577] with weight 0.718746743762387
+Epoch 125 (net 1): GMM results: [0.01645495] with weight 0.2804360539296541	[0.45943002] with weight 0.7195639460703481
+Number of labeled samples:14085	AUC:0.991	TP:13471.000	FP:614.000	FN:493.000	Noise in labeled dataset:0.044
+Number of labeled samples:14029	AUC:0.992	TP:13474.000	FP:555.000	FN:490.000	Noise in labeled dataset:0.040
+Epoch 126 (net 2): GMM results: [0.01430552] with weight 0.2808205759991819	[0.4409548] with weight 0.719179424000821
+Epoch 126 (net 1): GMM results: [0.01753398] with weight 0.2798985111300091	[0.42027365] with weight 0.720101488869994
+Number of labeled samples:14047	AUC:0.991	TP:13469.000	FP:578.000	FN:495.000	Noise in labeled dataset:0.041
+Number of labeled samples:14038	AUC:0.991	TP:13450.000	FP:588.000	FN:514.000	Noise in labeled dataset:0.042
+Epoch 127 (net 2): GMM results: [0.01679162] with weight 0.28062758980889246	[0.45545849] with weight 0.7193724101911053
+Epoch 127 (net 1): GMM results: [0.01506664] with weight 0.2805767543184689	[0.47546774] with weight 0.7194232456815316
+Number of labeled samples:14040	AUC:0.991	TP:13469.000	FP:571.000	FN:495.000	Noise in labeled dataset:0.041
+Number of labeled samples:14033	AUC:0.991	TP:13453.000	FP:580.000	FN:511.000	Noise in labeled dataset:0.041
+Epoch 128 (net 2): GMM results: [0.01573942] with weight 0.2804172968575692	[0.42516813] with weight 0.7195827031424324
+Epoch 128 (net 1): GMM results: [0.01885855] with weight 0.2800882436969314	[0.44576792] with weight 0.7199117563030671
+Number of labeled samples:14042	AUC:0.990	TP:13461.000	FP:581.000	FN:503.000	Noise in labeled dataset:0.041
+Number of labeled samples:14043	AUC:0.991	TP:13461.000	FP:582.000	FN:503.000	Noise in labeled dataset:0.041
+Epoch 129 (net 2): GMM results: [0.01859136] with weight 0.2796458104651609	[0.41538477] with weight 0.7203541895348406
+Epoch 129 (net 1): GMM results: [0.01398368] with weight 0.28088382572263904	[0.40118449] with weight 0.7191161742773576
+Number of labeled samples:14028	AUC:0.990	TP:13444.000	FP:584.000	FN:520.000	Noise in labeled dataset:0.042
+Number of labeled samples:14063	AUC:0.990	TP:13463.000	FP:600.000	FN:501.000	Noise in labeled dataset:0.043
+Epoch 130 (net 2): GMM results: [0.01455193] with weight 0.28082763556086365	[0.41485923] with weight 0.7191723644391382
+Epoch 130 (net 1): GMM results: [0.01402998] with weight 0.2807841580202425	[0.40807549] with weight 0.7192158419797599
+Number of labeled samples:14055	AUC:0.991	TP:13470.000	FP:585.000	FN:494.000	Noise in labeled dataset:0.042
+Number of labeled samples:14060	AUC:0.991	TP:13464.000	FP:596.000	FN:500.000	Noise in labeled dataset:0.042
+Epoch 131 (net 2): GMM results: [0.01582675] with weight 0.28139844385664936	[0.44112931] with weight 0.7186015561433535
+Epoch 131 (net 1): GMM results: [0.01706755] with weight 0.2801403736316672	[0.41005614] with weight 0.7198596263683332
+Number of labeled samples:14083	AUC:0.990	TP:13491.000	FP:592.000	FN:473.000	Noise in labeled dataset:0.042
+Number of labeled samples:14037	AUC:0.989	TP:13442.000	FP:595.000	FN:522.000	Noise in labeled dataset:0.042
+Epoch 132 (net 2): GMM results: [0.01630912] with weight 0.2798293428683964	[0.40009114] with weight 0.7201706571316066
+Epoch 132 (net 1): GMM results: [0.01358707] with weight 0.2798224678682126	[0.31450516] with weight 0.7201775321317844
+Number of labeled samples:14031	AUC:0.991	TP:13443.000	FP:588.000	FN:521.000	Noise in labeled dataset:0.042
+Number of labeled samples:14120	AUC:0.990	TP:13474.000	FP:646.000	FN:490.000	Noise in labeled dataset:0.046
+Epoch 133 (net 2): GMM results: [0.01571918] with weight 0.2817303751673751	[0.42207429] with weight 0.718269624832628
+Epoch 133 (net 1): GMM results: [0.01418482] with weight 0.28118227841158505	[0.43983449] with weight 0.7188177215884151
+Number of labeled samples:14097	AUC:0.991	TP:13514.000	FP:583.000	FN:450.000	Noise in labeled dataset:0.041
+Number of labeled samples:14069	AUC:0.991	TP:13467.000	FP:602.000	FN:497.000	Noise in labeled dataset:0.043
+Epoch 134 (net 2): GMM results: [0.01462831] with weight 0.28126119767440416	[0.40239816] with weight 0.7187388023255923
+Epoch 134 (net 1): GMM results: [0.01607445] with weight 0.2810815318101333	[0.43392722] with weight 0.7189184681898704
+Number of labeled samples:14079	AUC:0.989	TP:13474.000	FP:605.000	FN:490.000	Noise in labeled dataset:0.043
+Number of labeled samples:14067	AUC:0.989	TP:13510.000	FP:557.000	FN:454.000	Noise in labeled dataset:0.040
+Epoch 135 (net 2): GMM results: [0.01643769] with weight 0.28050162084705776	[0.43218598] with weight 0.7194983791529443
+Epoch 135 (net 1): GMM results: [0.01651123] with weight 0.2815473491148937	[0.42857073] with weight 0.7184526508851032
+Number of labeled samples:14047	AUC:0.991	TP:13456.000	FP:591.000	FN:508.000	Noise in labeled dataset:0.042
+Number of labeled samples:14089	AUC:0.991	TP:13497.000	FP:592.000	FN:467.000	Noise in labeled dataset:0.042
+Epoch 136 (net 2): GMM results: [0.01438173] with weight 0.28102151091993005	[0.43209553] with weight 0.7189784890800669
+Epoch 136 (net 1): GMM results: [0.01707931] with weight 0.28083271248916625	[0.45099264] with weight 0.7191672875108395
+Number of labeled samples:14071	AUC:0.992	TP:13481.000	FP:590.000	FN:483.000	Noise in labeled dataset:0.042
+Number of labeled samples:14059	AUC:0.991	TP:13484.000	FP:575.000	FN:480.000	Noise in labeled dataset:0.041
+Epoch 137 (net 2): GMM results: [0.01778203] with weight 0.2806592317362357	[0.4398035] with weight 0.719340768263761
+Epoch 137 (net 1): GMM results: [0.01727377] with weight 0.28048788602232494	[0.45353724] with weight 0.7195121139776777
+Number of labeled samples:14062	AUC:0.989	TP:13445.000	FP:617.000	FN:519.000	Noise in labeled dataset:0.044
+Number of labeled samples:14030	AUC:0.991	TP:13459.000	FP:571.000	FN:505.000	Noise in labeled dataset:0.041
+Epoch 138 (net 2): GMM results: [0.01443067] with weight 0.281607646480296	[0.4614238] with weight 0.7183923535197065
+Epoch 138 (net 1): GMM results: [0.01411583] with weight 0.28198412889778474	[0.40582451] with weight 0.7180158711022143
+Number of labeled samples:14081	AUC:0.991	TP:13484.000	FP:597.000	FN:480.000	Noise in labeled dataset:0.042
+Number of labeled samples:14111	AUC:0.991	TP:13512.000	FP:599.000	FN:452.000	Noise in labeled dataset:0.042
+Epoch 139 (net 2): GMM results: [0.0130171] with weight 0.2824055174670053	[0.3399889] with weight 0.7175944825329947
+Epoch 139 (net 1): GMM results: [0.01313193] with weight 0.279606428730079	[0.37451322] with weight 0.720393571269924
+Number of labeled samples:14155	AUC:0.991	TP:13513.000	FP:642.000	FN:451.000	Noise in labeled dataset:0.045
+Number of labeled samples:14065	AUC:0.990	TP:13438.000	FP:627.000	FN:526.000	Noise in labeled dataset:0.045
+Epoch 140 (net 2): GMM results: [0.01462581] with weight 0.28189925163738017	[0.35505524] with weight 0.7181007483626252
+Epoch 140 (net 1): GMM results: [0.01507703] with weight 0.28022740892449693	[0.41441718] with weight 0.7197725910755072
+Number of labeled samples:14116	AUC:0.991	TP:13493.000	FP:623.000	FN:471.000	Noise in labeled dataset:0.044
+Number of labeled samples:14041	AUC:0.992	TP:13450.000	FP:591.000	FN:514.000	Noise in labeled dataset:0.042
+Epoch 141 (net 2): GMM results: [0.01437461] with weight 0.2816939789209636	[0.44334945] with weight 0.7183060210790381
+Epoch 141 (net 1): GMM results: [0.01649664] with weight 0.28025851318093165	[0.43811184] with weight 0.719741486819066
+Number of labeled samples:14091	AUC:0.993	TP:13496.000	FP:595.000	FN:468.000	Noise in labeled dataset:0.042
+Number of labeled samples:14028	AUC:0.991	TP:13454.000	FP:574.000	FN:510.000	Noise in labeled dataset:0.041
+Epoch 142 (net 2): GMM results: [0.01304983] with weight 0.2815225108705991	[0.42836637] with weight 0.7184774891293958
+Epoch 142 (net 1): GMM results: [0.01557374] with weight 0.28045027812937634	[0.45491104] with weight 0.7195497218706248
+Number of labeled samples:14089	AUC:0.993	TP:13508.000	FP:581.000	FN:456.000	Noise in labeled dataset:0.041
+Number of labeled samples:14036	AUC:0.992	TP:13433.000	FP:603.000	FN:531.000	Noise in labeled dataset:0.043
+Epoch 143 (net 2): GMM results: [0.01687952] with weight 0.2811722056016883	[0.4711573] with weight 0.7188277943983118
+Epoch 143 (net 1): GMM results: [0.01290844] with weight 0.28143657012668516	[0.47035393] with weight 0.7185634298733133
+Number of labeled samples:14075	AUC:0.991	TP:13475.000	FP:600.000	FN:489.000	Noise in labeled dataset:0.043
+Number of labeled samples:14075	AUC:0.993	TP:13490.000	FP:585.000	FN:474.000	Noise in labeled dataset:0.042
+Epoch 144 (net 2): GMM results: [0.01168693] with weight 0.2819955405038664	[0.35144083] with weight 0.7180044594961361
+Epoch 144 (net 1): GMM results: [0.0148535] with weight 0.280722880545697	[0.44474226] with weight 0.7192771194543051
+Number of labeled samples:14118	AUC:0.992	TP:13518.000	FP:600.000	FN:446.000	Noise in labeled dataset:0.042
+Number of labeled samples:14045	AUC:0.991	TP:13479.000	FP:566.000	FN:485.000	Noise in labeled dataset:0.040
+Epoch 145 (net 2): GMM results: [0.01431007] with weight 0.28161429984417385	[0.41079816] with weight 0.7183857001558293
+Epoch 145 (net 1): GMM results: [0.01599281] with weight 0.2807577641238631	[0.44041284] with weight 0.7192422358761404
+Number of labeled samples:14098	AUC:0.991	TP:13508.000	FP:590.000	FN:456.000	Noise in labeled dataset:0.042
+Number of labeled samples:14047	AUC:0.992	TP:13455.000	FP:592.000	FN:509.000	Noise in labeled dataset:0.042
+Epoch 146 (net 2): GMM results: [0.01443262] with weight 0.28201620375450986	[0.40996651] with weight 0.7179837962454892
+Epoch 146 (net 1): GMM results: [0.01269911] with weight 0.2821412431071047	[0.36979633] with weight 0.7178587568928939
+Number of labeled samples:14116	AUC:0.991	TP:13516.000	FP:600.000	FN:448.000	Noise in labeled dataset:0.043
+Number of labeled samples:14120	AUC:0.992	TP:13507.000	FP:613.000	FN:457.000	Noise in labeled dataset:0.043
+Epoch 147 (net 2): GMM results: [0.01608111] with weight 0.28068092936974903	[0.4452458] with weight 0.7193190706302476
+Epoch 147 (net 1): GMM results: [0.01600929] with weight 0.28099139705937787	[0.42604446] with weight 0.7190086029406232
+Number of labeled samples:14042	AUC:0.990	TP:13437.000	FP:605.000	FN:527.000	Noise in labeled dataset:0.043
+Number of labeled samples:14066	AUC:0.989	TP:13464.000	FP:602.000	FN:500.000	Noise in labeled dataset:0.043
+Epoch 148 (net 2): GMM results: [0.01511748] with weight 0.28191167223795294	[0.44463056] with weight 0.7180883277620526
+Epoch 148 (net 1): GMM results: [0.01383344] with weight 0.2817560047378119	[0.40604738] with weight 0.7182439952621912
+Number of labeled samples:14104	AUC:0.991	TP:13504.000	FP:600.000	FN:460.000	Noise in labeled dataset:0.043
+Number of labeled samples:14106	AUC:0.992	TP:13523.000	FP:583.000	FN:441.000	Noise in labeled dataset:0.041
+Epoch 149 (net 2): GMM results: [0.01610848] with weight 0.2815551438573296	[0.41923652] with weight 0.7184448561426717
+Epoch 149 (net 1): GMM results: [0.01724261] with weight 0.28084028734039995	[0.48402588] with weight 0.7191597126596002
+Number of labeled samples:14098	AUC:0.991	TP:13491.000	FP:607.000	FN:473.000	Noise in labeled dataset:0.043
+Number of labeled samples:14055	AUC:0.991	TP:13484.000	FP:571.000	FN:480.000	Noise in labeled dataset:0.041
+Epoch 150 (net 2): GMM results: [0.01524507] with weight 0.28165039821020804	[0.41247664] with weight 0.7183496017897899
+Epoch 150 (net 1): GMM results: [0.01646732] with weight 0.2807866193416284	[0.42105489] with weight 0.7192133806583703
+Number of labeled samples:14085	AUC:0.991	TP:13499.000	FP:586.000	FN:465.000	Noise in labeled dataset:0.042
+Number of labeled samples:14060	AUC:0.990	TP:13480.000	FP:580.000	FN:484.000	Noise in labeled dataset:0.041
+Epoch 151 (net 2): GMM results: [0.01407889] with weight 0.2821691359575845	[0.39366651] with weight 0.7178308640424127
+Epoch 151 (net 1): GMM results: [0.01404003] with weight 0.2810664425991925	[0.38909734] with weight 0.7189335574008106
+Number of labeled samples:14123	AUC:0.992	TP:13517.000	FP:606.000	FN:447.000	Noise in labeled dataset:0.043
+Number of labeled samples:14091	AUC:0.991	TP:13489.000	FP:602.000	FN:475.000	Noise in labeled dataset:0.043
+Epoch 152 (net 2): GMM results: [0.01457127] with weight 0.28268659663272055	[0.46388613] with weight 0.7173134033672826
+Epoch 152 (net 1): GMM results: [0.0110519] with weight 0.28321224922163646	[0.40591177] with weight 0.7167877507783662
+Number of labeled samples:14137	AUC:0.991	TP:13549.000	FP:588.000	FN:415.000	Noise in labeled dataset:0.042
+Number of labeled samples:14164	AUC:0.991	TP:13557.000	FP:607.000	FN:407.000	Noise in labeled dataset:0.043
+Epoch 153 (net 2): GMM results: [0.01321159] with weight 0.2830853113842694	[0.45982948] with weight 0.716914688615732
+Epoch 153 (net 1): GMM results: [0.0127378] with weight 0.28321056237010844	[0.43376285] with weight 0.7167894376298974
+Number of labeled samples:14154	AUC:0.991	TP:13553.000	FP:601.000	FN:411.000	Noise in labeled dataset:0.042
+Number of labeled samples:14165	AUC:0.991	TP:13560.000	FP:605.000	FN:404.000	Noise in labeled dataset:0.043
+Epoch 154 (net 2): GMM results: [0.0129604] with weight 0.28321981456666	[0.47004241] with weight 0.7167801854333381
+Epoch 154 (net 1): GMM results: [0.01295977] with weight 0.2834269716214919	[0.42891882] with weight 0.716573028378508
+Number of labeled samples:14164	AUC:0.991	TP:13567.000	FP:597.000	FN:397.000	Noise in labeled dataset:0.042
+Number of labeled samples:14179	AUC:0.990	TP:13566.000	FP:613.000	FN:398.000	Noise in labeled dataset:0.043
+Epoch 155 (net 2): GMM results: [0.01148593] with weight 0.2831117671050347	[0.47822752] with weight 0.7168882328949656
+Epoch 155 (net 1): GMM results: [0.01181982] with weight 0.2836473083855303	[0.40668017] with weight 0.7163526916144682
+Number of labeled samples:14155	AUC:0.991	TP:13561.000	FP:594.000	FN:403.000	Noise in labeled dataset:0.042
+Number of labeled samples:14190	AUC:0.990	TP:13574.000	FP:616.000	FN:390.000	Noise in labeled dataset:0.043
+Epoch 156 (net 2): GMM results: [0.01080446] with weight 0.28343058558366074	[0.48951271] with weight 0.7165694144163387
+Epoch 156 (net 1): GMM results: [0.01358924] with weight 0.2832775677934516	[0.43502059] with weight 0.7167224322065466
+Number of labeled samples:14172	AUC:0.990	TP:13564.000	FP:608.000	FN:400.000	Noise in labeled dataset:0.043
+Number of labeled samples:14167	AUC:0.989	TP:13568.000	FP:599.000	FN:396.000	Noise in labeled dataset:0.042
+Epoch 157 (net 2): GMM results: [0.01116165] with weight 0.283470750617523	[0.44609109] with weight 0.7165292493824746
+Epoch 157 (net 1): GMM results: [0.01158463] with weight 0.2834989258978685	[0.44123889] with weight 0.7165010741021336
+Number of labeled samples:14173	AUC:0.990	TP:13565.000	FP:608.000	FN:399.000	Noise in labeled dataset:0.043
+Number of labeled samples:14180	AUC:0.989	TP:13566.000	FP:614.000	FN:398.000	Noise in labeled dataset:0.043
+Epoch 158 (net 2): GMM results: [0.01175087] with weight 0.28371764845772546	[0.45968912] with weight 0.716282351542275
+Epoch 158 (net 1): GMM results: [0.01279704] with weight 0.2834911329963814	[0.47036164] with weight 0.7165088670036199
+Number of labeled samples:14187	AUC:0.989	TP:13572.000	FP:615.000	FN:392.000	Noise in labeled dataset:0.043
+Number of labeled samples:14179	AUC:0.989	TP:13563.000	FP:616.000	FN:401.000	Noise in labeled dataset:0.043
+Epoch 159 (net 2): GMM results: [0.00983123] with weight 0.2838839882625981	[0.43835016] with weight 0.7161160117374048
+Epoch 159 (net 1): GMM results: [0.01156815] with weight 0.28372766380865955	[0.42981363] with weight 0.7162723361913422
+Number of labeled samples:14198	AUC:0.989	TP:13580.000	FP:618.000	FN:384.000	Noise in labeled dataset:0.044
+Number of labeled samples:14188	AUC:0.988	TP:13570.000	FP:618.000	FN:394.000	Noise in labeled dataset:0.044
+Epoch 160 (net 2): GMM results: [0.01097738] with weight 0.2838096735553899	[0.46238979] with weight 0.7161903264446065
+Epoch 160 (net 1): GMM results: [0.01187283] with weight 0.28361940371700034	[0.44170823] with weight 0.7163805962829989
+Number of labeled samples:14194	AUC:0.989	TP:13573.000	FP:621.000	FN:391.000	Noise in labeled dataset:0.044
+Number of labeled samples:14185	AUC:0.989	TP:13570.000	FP:615.000	FN:394.000	Noise in labeled dataset:0.043
+Epoch 161 (net 2): GMM results: [0.01133075] with weight 0.2839973509354054	[0.44028981] with weight 0.7160026490645903
+Epoch 161 (net 1): GMM results: [0.01094045] with weight 0.2836796512374561	[0.44556409] with weight 0.7163203487625449
+Number of labeled samples:14197	AUC:0.989	TP:13576.000	FP:621.000	FN:388.000	Noise in labeled dataset:0.044
+Number of labeled samples:14184	AUC:0.988	TP:13569.000	FP:615.000	FN:395.000	Noise in labeled dataset:0.043
+Epoch 162 (net 2): GMM results: [0.01085721] with weight 0.28404181480023044	[0.46386154] with weight 0.7159581851997675
+Epoch 162 (net 1): GMM results: [0.01170903] with weight 0.28381707773793996	[0.42889479] with weight 0.716182922262062
+Number of labeled samples:14205	AUC:0.989	TP:13584.000	FP:621.000	FN:380.000	Noise in labeled dataset:0.044
+Number of labeled samples:14192	AUC:0.988	TP:13578.000	FP:614.000	FN:386.000	Noise in labeled dataset:0.043
+Epoch 163 (net 2): GMM results: [0.01228084] with weight 0.28382139545541646	[0.45155378] with weight 0.7161786045445835
+Epoch 163 (net 1): GMM results: [0.01269792] with weight 0.28372884017118477	[0.45205642] with weight 0.7162711598288144
+Number of labeled samples:14197	AUC:0.988	TP:13572.000	FP:625.000	FN:392.000	Noise in labeled dataset:0.044
+Number of labeled samples:14193	AUC:0.988	TP:13578.000	FP:615.000	FN:386.000	Noise in labeled dataset:0.043
+Epoch 164 (net 2): GMM results: [0.01077925] with weight 0.28404372457363414	[0.43761176] with weight 0.7159562754263652
+Epoch 164 (net 1): GMM results: [0.01196167] with weight 0.2841099556852662	[0.43423789] with weight 0.7158900443147357
+Number of labeled samples:14202	AUC:0.988	TP:13575.000	FP:627.000	FN:389.000	Noise in labeled dataset:0.044
+Number of labeled samples:14210	AUC:0.988	TP:13578.000	FP:632.000	FN:386.000	Noise in labeled dataset:0.044
+Epoch 165 (net 2): GMM results: [0.01063579] with weight 0.28422331249276966	[0.41814348] with weight 0.7157766875072302
+Epoch 165 (net 1): GMM results: [0.01191861] with weight 0.2839625474990841	[0.4586797] with weight 0.7160374525009148
+Number of labeled samples:14216	AUC:0.988	TP:13582.000	FP:634.000	FN:382.000	Noise in labeled dataset:0.045
+Number of labeled samples:14197	AUC:0.988	TP:13578.000	FP:619.000	FN:386.000	Noise in labeled dataset:0.044
+Epoch 166 (net 2): GMM results: [0.01022192] with weight 0.2842271801005471	[0.43187207] with weight 0.7157728198994538
+Epoch 166 (net 1): GMM results: [0.01165967] with weight 0.2838767629587979	[0.44448125] with weight 0.7161232370412022
+Number of labeled samples:14212	AUC:0.988	TP:13585.000	FP:627.000	FN:379.000	Noise in labeled dataset:0.044
+Number of labeled samples:14196	AUC:0.988	TP:13577.000	FP:619.000	FN:387.000	Noise in labeled dataset:0.044
+Epoch 167 (net 2): GMM results: [0.01153609] with weight 0.28427200259856616	[0.43845628] with weight 0.7157279974014337
+Epoch 167 (net 1): GMM results: [0.01247127] with weight 0.2841073785870892	[0.39734303] with weight 0.7158926214129079
+Number of labeled samples:14216	AUC:0.987	TP:13582.000	FP:634.000	FN:382.000	Noise in labeled dataset:0.045
+Number of labeled samples:14224	AUC:0.987	TP:13584.000	FP:640.000	FN:380.000	Noise in labeled dataset:0.045
+Epoch 168 (net 2): GMM results: [0.01049836] with weight 0.2843690545812412	[0.430367] with weight 0.7156309454187569
+Epoch 168 (net 1): GMM results: [0.01159372] with weight 0.2840644619423481	[0.42690839] with weight 0.7159355380576505
+Number of labeled samples:14223	AUC:0.986	TP:13583.000	FP:640.000	FN:381.000	Noise in labeled dataset:0.045
+Number of labeled samples:14206	AUC:0.988	TP:13578.000	FP:628.000	FN:386.000	Noise in labeled dataset:0.044
+Epoch 169 (net 2): GMM results: [0.01028466] with weight 0.28458151241218804	[0.40827381] with weight 0.7154184875878137
+Epoch 169 (net 1): GMM results: [0.01105203] with weight 0.28412808391374894	[0.44285424] with weight 0.7158719160862518
+Number of labeled samples:14234	AUC:0.987	TP:13589.000	FP:645.000	FN:375.000	Noise in labeled dataset:0.045
+Number of labeled samples:14210	AUC:0.988	TP:13577.000	FP:633.000	FN:387.000	Noise in labeled dataset:0.045
+Epoch 170 (net 2): GMM results: [0.01313935] with weight 0.28390899879873205	[0.43296915] with weight 0.7160910012012659
+Epoch 170 (net 1): GMM results: [0.01041067] with weight 0.2842549877195545	[0.45356726] with weight 0.7157450122804503
+Number of labeled samples:14204	AUC:0.987	TP:13576.000	FP:628.000	FN:388.000	Noise in labeled dataset:0.044
+Number of labeled samples:14215	AUC:0.988	TP:13583.000	FP:632.000	FN:381.000	Noise in labeled dataset:0.044
+Epoch 171 (net 2): GMM results: [0.01158567] with weight 0.2843321214086109	[0.40496408] with weight 0.7156678785913914
+Epoch 171 (net 1): GMM results: [0.01293406] with weight 0.28407488044677426	[0.47266384] with weight 0.7159251195532276
+Number of labeled samples:14224	AUC:0.988	TP:13586.000	FP:638.000	FN:378.000	Noise in labeled dataset:0.045
+Number of labeled samples:14207	AUC:0.987	TP:13577.000	FP:630.000	FN:387.000	Noise in labeled dataset:0.044
+Epoch 172 (net 2): GMM results: [0.01074084] with weight 0.28451899869381525	[0.42676233] with weight 0.7154810013061893
+Epoch 172 (net 1): GMM results: [0.01214418] with weight 0.283947338407864	[0.46356299] with weight 0.7160526615921359
+Number of labeled samples:14230	AUC:0.988	TP:13589.000	FP:641.000	FN:375.000	Noise in labeled dataset:0.045
+Number of labeled samples:14197	AUC:0.987	TP:13573.000	FP:624.000	FN:391.000	Noise in labeled dataset:0.044
+Epoch 173 (net 2): GMM results: [0.00967081] with weight 0.2845250575906743	[0.43591722] with weight 0.7154749424093265
+Epoch 173 (net 1): GMM results: [0.01185442] with weight 0.2842056428908816	[0.46535219] with weight 0.7157943571091152
+Number of labeled samples:14227	AUC:0.987	TP:13582.000	FP:645.000	FN:382.000	Noise in labeled dataset:0.045
+Number of labeled samples:14212	AUC:0.987	TP:13579.000	FP:633.000	FN:385.000	Noise in labeled dataset:0.045
+Epoch 174 (net 2): GMM results: [0.01202052] with weight 0.2841811157807524	[0.40977228] with weight 0.7158188842192424
+Epoch 174 (net 1): GMM results: [0.01103431] with weight 0.2844509391193505	[0.42139548] with weight 0.7155490608806476
+Number of labeled samples:14222	AUC:0.987	TP:13584.000	FP:638.000	FN:380.000	Noise in labeled dataset:0.045
+Number of labeled samples:14227	AUC:0.987	TP:13588.000	FP:639.000	FN:376.000	Noise in labeled dataset:0.045
+Epoch 175 (net 2): GMM results: [0.01018201] with weight 0.28459215993308556	[0.40763917] with weight 0.7154078400669157
+Epoch 175 (net 1): GMM results: [0.01066803] with weight 0.2843742389962824	[0.42457784] with weight 0.715625761003717
+Number of labeled samples:14233	AUC:0.987	TP:13586.000	FP:647.000	FN:378.000	Noise in labeled dataset:0.045
+Number of labeled samples:14226	AUC:0.987	TP:13581.000	FP:645.000	FN:383.000	Noise in labeled dataset:0.045
+Epoch 176 (net 2): GMM results: [0.01002345] with weight 0.2845177009242694	[0.41663947] with weight 0.7154822990757338
+Epoch 176 (net 1): GMM results: [0.010955] with weight 0.28462549763250516	[0.44363149] with weight 0.715374502367492
+Number of labeled samples:14227	AUC:0.988	TP:13585.000	FP:642.000	FN:379.000	Noise in labeled dataset:0.045
+Number of labeled samples:14234	AUC:0.987	TP:13584.000	FP:650.000	FN:380.000	Noise in labeled dataset:0.046
+Epoch 177 (net 2): GMM results: [0.01077159] with weight 0.28437989483343296	[0.42561961] with weight 0.7156201051665664
+Epoch 177 (net 1): GMM results: [0.01193341] with weight 0.2843546033305743	[0.4493389] with weight 0.7156453966694264
+Number of labeled samples:14220	AUC:0.986	TP:13585.000	FP:635.000	FN:379.000	Noise in labeled dataset:0.045
+Number of labeled samples:14223	AUC:0.987	TP:13586.000	FP:637.000	FN:378.000	Noise in labeled dataset:0.045
+Epoch 178 (net 2): GMM results: [0.01020199] with weight 0.2846316054466366	[0.42694537] with weight 0.7153683945533643
+Epoch 178 (net 1): GMM results: [0.01179257] with weight 0.28442618513070117	[0.43533858] with weight 0.7155738148692995
+Number of labeled samples:14234	AUC:0.986	TP:13588.000	FP:646.000	FN:376.000	Noise in labeled dataset:0.045
+Number of labeled samples:14227	AUC:0.987	TP:13582.000	FP:645.000	FN:382.000	Noise in labeled dataset:0.045
+Epoch 179 (net 2): GMM results: [0.00927645] with weight 0.28473692765333014	[0.41809926] with weight 0.7152630723466739
+Epoch 179 (net 1): GMM results: [0.01144722] with weight 0.28446310665384716	[0.44687229] with weight 0.7155368933461471
+Number of labeled samples:14239	AUC:0.986	TP:13592.000	FP:647.000	FN:372.000	Noise in labeled dataset:0.045
+Number of labeled samples:14229	AUC:0.986	TP:13585.000	FP:644.000	FN:379.000	Noise in labeled dataset:0.045
+Epoch 180 (net 2): GMM results: [0.00841801] with weight 0.28474070832765486	[0.37658735] with weight 0.7152592916723461
+Epoch 180 (net 1): GMM results: [0.01145602] with weight 0.2845153506648499	[0.42255865] with weight 0.7154846493351493
+Number of labeled samples:14237	AUC:0.987	TP:13588.000	FP:649.000	FN:376.000	Noise in labeled dataset:0.046
+Number of labeled samples:14230	AUC:0.986	TP:13586.000	FP:644.000	FN:378.000	Noise in labeled dataset:0.045
+Epoch 181 (net 2): GMM results: [0.00908497] with weight 0.28461492802129873	[0.4434137] with weight 0.7153850719786978
+Epoch 181 (net 1): GMM results: [0.0103269] with weight 0.28454587787419616	[0.42162767] with weight 0.7154541221257983
+Number of labeled samples:14234	AUC:0.986	TP:13590.000	FP:644.000	FN:374.000	Noise in labeled dataset:0.045
+Number of labeled samples:14230	AUC:0.987	TP:13586.000	FP:644.000	FN:378.000	Noise in labeled dataset:0.045
+Epoch 182 (net 2): GMM results: [0.01074891] with weight 0.2844868583966199	[0.4371822] with weight 0.7155131416033815
+Epoch 182 (net 1): GMM results: [0.01250973] with weight 0.2845299999555382	[0.43779491] with weight 0.71547000004446
+Number of labeled samples:14226	AUC:0.986	TP:13589.000	FP:637.000	FN:375.000	Noise in labeled dataset:0.045
+Number of labeled samples:14230	AUC:0.987	TP:13590.000	FP:640.000	FN:374.000	Noise in labeled dataset:0.045
+Epoch 183 (net 2): GMM results: [0.01051722] with weight 0.28470991792111666	[0.40845572] with weight 0.7152900820788853
+Epoch 183 (net 1): GMM results: [0.01063888] with weight 0.2846821228113241	[0.41274733] with weight 0.7153178771886791
+Number of labeled samples:14240	AUC:0.987	TP:13590.000	FP:650.000	FN:374.000	Noise in labeled dataset:0.046
+Number of labeled samples:14237	AUC:0.986	TP:13589.000	FP:648.000	FN:375.000	Noise in labeled dataset:0.046
+Epoch 184 (net 2): GMM results: [0.01089509] with weight 0.2848569357000609	[0.44801894] with weight 0.7151430642999439
+Epoch 184 (net 1): GMM results: [0.00968065] with weight 0.2846715332330699	[0.41452784] with weight 0.7153284667669312
+Number of labeled samples:14245	AUC:0.986	TP:13595.000	FP:650.000	FN:369.000	Noise in labeled dataset:0.046
+Number of labeled samples:14236	AUC:0.987	TP:13590.000	FP:646.000	FN:374.000	Noise in labeled dataset:0.045
+Epoch 185 (net 2): GMM results: [0.00898382] with weight 0.28490892008526475	[0.41487431] with weight 0.7150910799147354
+Epoch 185 (net 1): GMM results: [0.01228295] with weight 0.28473294080622075	[0.44596299] with weight 0.7152670591937765
+Number of labeled samples:14249	AUC:0.985	TP:13595.000	FP:654.000	FN:369.000	Noise in labeled dataset:0.046
+Number of labeled samples:14241	AUC:0.985	TP:13588.000	FP:653.000	FN:376.000	Noise in labeled dataset:0.046
+Epoch 186 (net 2): GMM results: [0.01212985] with weight 0.2846277287597376	[0.44122095] with weight 0.715372271240261
+Epoch 186 (net 1): GMM results: [0.008703] with weight 0.2847904394268022	[0.42738387] with weight 0.7152095605732014
+Number of labeled samples:14233	AUC:0.986	TP:13588.000	FP:645.000	FN:376.000	Noise in labeled dataset:0.045
+Number of labeled samples:14242	AUC:0.986	TP:13588.000	FP:654.000	FN:376.000	Noise in labeled dataset:0.046
+Epoch 187 (net 2): GMM results: [0.01060894] with weight 0.28479450785092125	[0.42813882] with weight 0.715205492149074
+Epoch 187 (net 1): GMM results: [0.01053625] with weight 0.28485889679923454	[0.42034251] with weight 0.7151411032007612
+Number of labeled samples:14241	AUC:0.986	TP:13593.000	FP:648.000	FN:371.000	Noise in labeled dataset:0.046
+Number of labeled samples:14246	AUC:0.986	TP:13592.000	FP:654.000	FN:372.000	Noise in labeled dataset:0.046
+Epoch 188 (net 2): GMM results: [0.0111825] with weight 0.2848516423053857	[0.41608808] with weight 0.7151483576946138
+Epoch 188 (net 1): GMM results: [0.01013304] with weight 0.284804692306794	[0.41228534] with weight 0.7151953076932036
+Number of labeled samples:14247	AUC:0.985	TP:13594.000	FP:653.000	FN:370.000	Noise in labeled dataset:0.046
+Number of labeled samples:14242	AUC:0.987	TP:13595.000	FP:647.000	FN:369.000	Noise in labeled dataset:0.045
+Epoch 189 (net 2): GMM results: [0.01095208] with weight 0.2848267019376597	[0.43469067] with weight 0.7151732980623418
+Epoch 189 (net 1): GMM results: [0.01042046] with weight 0.28486013886940936	[0.4058933] with weight 0.715139861130589
+Number of labeled samples:14241	AUC:0.985	TP:13594.000	FP:647.000	FN:370.000	Noise in labeled dataset:0.045
+Number of labeled samples:14246	AUC:0.986	TP:13597.000	FP:649.000	FN:367.000	Noise in labeled dataset:0.046
+Epoch 190 (net 2): GMM results: [0.00997459] with weight 0.2849308719131611	[0.4087654] with weight 0.7150691280868374
+Epoch 190 (net 1): GMM results: [0.01050835] with weight 0.28483350657563034	[0.37909045] with weight 0.715166493424372
+Number of labeled samples:14249	AUC:0.986	TP:13595.000	FP:654.000	FN:369.000	Noise in labeled dataset:0.046
+Number of labeled samples:14247	AUC:0.986	TP:13592.000	FP:655.000	FN:372.000	Noise in labeled dataset:0.046
+Epoch 191 (net 2): GMM results: [0.01061248] with weight 0.2849268566911952	[0.41924509] with weight 0.7150731433088079
+Epoch 191 (net 1): GMM results: [0.01063028] with weight 0.2848186250265096	[0.43044555] with weight 0.7151813749734908
+Number of labeled samples:14249	AUC:0.985	TP:13595.000	FP:654.000	FN:369.000	Noise in labeled dataset:0.046
+Number of labeled samples:14243	AUC:0.986	TP:13592.000	FP:651.000	FN:372.000	Noise in labeled dataset:0.046
+Epoch 192 (net 2): GMM results: [0.00971327] with weight 0.28487712547926597	[0.45270652] with weight 0.7151228745207324
+Epoch 192 (net 1): GMM results: [0.01023344] with weight 0.284885090819613	[0.40752543] with weight 0.7151149091803911
+Number of labeled samples:14245	AUC:0.984	TP:13590.000	FP:655.000	FN:374.000	Noise in labeled dataset:0.046
+Number of labeled samples:14246	AUC:0.985	TP:13592.000	FP:654.000	FN:372.000	Noise in labeled dataset:0.046
+Epoch 193 (net 2): GMM results: [0.01021448] with weight 0.2849599229288807	[0.43050225] with weight 0.7150400770711188
+Epoch 193 (net 1): GMM results: [0.00916515] with weight 0.2848924932132727	[0.42412663] with weight 0.7151075067867291
+Number of labeled samples:14248	AUC:0.987	TP:13595.000	FP:653.000	FN:369.000	Noise in labeled dataset:0.046
+Number of labeled samples:14248	AUC:0.985	TP:13593.000	FP:655.000	FN:371.000	Noise in labeled dataset:0.046
+Epoch 194 (net 2): GMM results: [0.01066582] with weight 0.28508463314852356	[0.42669812] with weight 0.7149153668514758
+Epoch 194 (net 1): GMM results: [0.00894124] with weight 0.28492920254565024	[0.4045126] with weight 0.7150707974543481
+Number of labeled samples:14257	AUC:0.985	TP:13597.000	FP:660.000	FN:367.000	Noise in labeled dataset:0.046
+Number of labeled samples:14249	AUC:0.986	TP:13594.000	FP:655.000	FN:370.000	Noise in labeled dataset:0.046
+Epoch 195 (net 2): GMM results: [0.00955019] with weight 0.28495187913929626	[0.43670763] with weight 0.7150481208607038
+Epoch 195 (net 1): GMM results: [0.0105625] with weight 0.2848746699699096	[0.38843666] with weight 0.7151253300300936
+Number of labeled samples:14250	AUC:0.986	TP:13596.000	FP:654.000	FN:368.000	Noise in labeled dataset:0.046
+Number of labeled samples:14250	AUC:0.985	TP:13593.000	FP:657.000	FN:371.000	Noise in labeled dataset:0.046
+Epoch 196 (net 2): GMM results: [0.01228844] with weight 0.28511113441834535	[0.45855813] with weight 0.714888865581655
+Epoch 196 (net 1): GMM results: [0.00990313] with weight 0.2849984039269511	[0.40032725] with weight 0.7150015960730474
+Number of labeled samples:14258	AUC:0.984	TP:13598.000	FP:660.000	FN:366.000	Noise in labeled dataset:0.046
+Number of labeled samples:14254	AUC:0.986	TP:13597.000	FP:657.000	FN:367.000	Noise in labeled dataset:0.046
+Epoch 197 (net 2): GMM results: [0.01138396] with weight 0.28515134946217774	[0.45329231] with weight 0.7148486505378197
+Epoch 197 (net 1): GMM results: [0.01080145] with weight 0.28502342486150994	[0.40103893] with weight 0.7149765751384943
+Number of labeled samples:14262	AUC:0.986	TP:13599.000	FP:663.000	FN:365.000	Noise in labeled dataset:0.046
+Number of labeled samples:14256	AUC:0.986	TP:13599.000	FP:657.000	FN:365.000	Noise in labeled dataset:0.046
+Epoch 198 (net 2): GMM results: [0.01018878] with weight 0.28507288024632643	[0.4220421] with weight 0.7149271197536743
+Epoch 198 (net 1): GMM results: [0.00939889] with weight 0.285026073031928	[0.41822122] with weight 0.714973926968074
+Number of labeled samples:14257	AUC:0.986	TP:13599.000	FP:658.000	FN:365.000	Noise in labeled dataset:0.046
+Number of labeled samples:14253	AUC:0.986	TP:13596.000	FP:657.000	FN:368.000	Noise in labeled dataset:0.046
+Epoch 199 (net 2): GMM results: [0.01044848] with weight 0.28507489118445367	[0.44364008] with weight 0.7149251088155449
+Epoch 199 (net 1): GMM results: [0.01046908] with weight 0.28498129691100405	[0.4059542] with weight 0.7150187030889991
+Number of labeled samples:14255	AUC:0.985	TP:13597.000	FP:658.000	FN:367.000	Noise in labeled dataset:0.046
+Number of labeled samples:14253	AUC:0.986	TP:13595.000	FP:658.000	FN:369.000	Noise in labeled dataset:0.046
+Epoch 200 (net 2): GMM results: [0.01084326] with weight 0.28506323984167686	[0.423202] with weight 0.7149367601583201
+Epoch 200 (net 1): GMM results: [0.01034583] with weight 0.2850016189770106	[0.39330912] with weight 0.7149983810229883
+Number of labeled samples:14255	AUC:0.985	TP:13597.000	FP:658.000	FN:367.000	Noise in labeled dataset:0.046
+Number of labeled samples:14252	AUC:0.985	TP:13598.000	FP:654.000	FN:366.000	Noise in labeled dataset:0.046
+Epoch 201 (net 2): GMM results: [0.01102093] with weight 0.2850608800155949	[0.45559385] with weight 0.7149391199844031
+Epoch 201 (net 1): GMM results: [0.01204197] with weight 0.2850572817898402	[0.4184814] with weight 0.7149427182101611
+Number of labeled samples:14256	AUC:0.985	TP:13599.000	FP:657.000	FN:365.000	Noise in labeled dataset:0.046
+Number of labeled samples:14258	AUC:0.985	TP:13597.000	FP:661.000	FN:367.000	Noise in labeled dataset:0.046
+Epoch 202 (net 2): GMM results: [0.01149626] with weight 0.28508747112130295	[0.4534688] with weight 0.7149125288786978
+Epoch 202 (net 1): GMM results: [0.01022368] with weight 0.2852064741054768	[0.41972475] with weight 0.7147935258945246
+Number of labeled samples:14257	AUC:0.984	TP:13597.000	FP:660.000	FN:367.000	Noise in labeled dataset:0.046
+Number of labeled samples:14266	AUC:0.985	TP:13605.000	FP:661.000	FN:359.000	Noise in labeled dataset:0.046
+Epoch 203 (net 2): GMM results: [0.01017618] with weight 0.2851908656906365	[0.42978706] with weight 0.7148091343093669
+Epoch 203 (net 1): GMM results: [0.01002502] with weight 0.28511488376348193	[0.42175369] with weight 0.7148851162365196
+Number of labeled samples:14261	AUC:0.985	TP:13598.000	FP:663.000	FN:366.000	Noise in labeled dataset:0.046
+Number of labeled samples:14259	AUC:0.986	TP:13597.000	FP:662.000	FN:367.000	Noise in labeled dataset:0.046
+Epoch 204 (net 2): GMM results: [0.01048438] with weight 0.2852130037648922	[0.42659039] with weight 0.7147869962351067
+Epoch 204 (net 1): GMM results: [0.00961928] with weight 0.2853142998580968	[0.39461561] with weight 0.7146857001419015
+Number of labeled samples:14265	AUC:0.985	TP:13600.000	FP:665.000	FN:364.000	Noise in labeled dataset:0.047
+Number of labeled samples:14267	AUC:0.985	TP:13598.000	FP:669.000	FN:366.000	Noise in labeled dataset:0.047
+Epoch 205 (net 2): GMM results: [0.01080624] with weight 0.285234277157585	[0.42264789] with weight 0.7147657228424138
+Epoch 205 (net 1): GMM results: [0.0086104] with weight 0.2852393923877332	[0.40143607] with weight 0.7147606076122666
+Number of labeled samples:14264	AUC:0.985	TP:13599.000	FP:665.000	FN:365.000	Noise in labeled dataset:0.047
+Number of labeled samples:14263	AUC:0.984	TP:13600.000	FP:663.000	FN:364.000	Noise in labeled dataset:0.046
+Epoch 206 (net 2): GMM results: [0.01037349] with weight 0.2853157317381908	[0.43201163] with weight 0.7146842682618046
+Epoch 206 (net 1): GMM results: [0.00911777] with weight 0.28534604898988175	[0.39510098] with weight 0.7146539510101159
+Number of labeled samples:14269	AUC:0.985	TP:13599.000	FP:670.000	FN:365.000	Noise in labeled dataset:0.047
+Number of labeled samples:14271	AUC:0.985	TP:13602.000	FP:669.000	FN:362.000	Noise in labeled dataset:0.047
+Epoch 207 (net 2): GMM results: [0.0101082] with weight 0.28538569459672447	[0.41145426] with weight 0.7146143054032756
+Epoch 207 (net 1): GMM results: [0.00897598] with weight 0.285278019305132	[0.38688453] with weight 0.7147219806948679
+Number of labeled samples:14272	AUC:0.985	TP:13603.000	FP:669.000	FN:361.000	Noise in labeled dataset:0.047
+Number of labeled samples:14269	AUC:0.985	TP:13598.000	FP:671.000	FN:366.000	Noise in labeled dataset:0.047
+Epoch 208 (net 2): GMM results: [0.01046059] with weight 0.2852759185893955	[0.4298841] with weight 0.7147240814106053
+Epoch 208 (net 1): GMM results: [0.00982613] with weight 0.285236738624186	[0.40762121] with weight 0.7147632613758165
+Number of labeled samples:14267	AUC:0.984	TP:13601.000	FP:666.000	FN:363.000	Noise in labeled dataset:0.047
+Number of labeled samples:14265	AUC:0.985	TP:13600.000	FP:665.000	FN:364.000	Noise in labeled dataset:0.047
+Epoch 209 (net 2): GMM results: [0.00989753] with weight 0.2853265112558034	[0.44131257] with weight 0.7146734887441955
+Epoch 209 (net 1): GMM results: [0.00979641] with weight 0.2852901089624684	[0.38624795] with weight 0.7147098910375337
+Number of labeled samples:14268	AUC:0.985	TP:13604.000	FP:664.000	FN:360.000	Noise in labeled dataset:0.047
+Number of labeled samples:14268	AUC:0.985	TP:13600.000	FP:668.000	FN:364.000	Noise in labeled dataset:0.047
+Epoch 210 (net 2): GMM results: [0.00938508] with weight 0.28531940335992995	[0.42597526] with weight 0.7146805966400709
+Epoch 210 (net 1): GMM results: [0.01058133] with weight 0.28526539140678053	[0.44347829] with weight 0.714734608593222
+Number of labeled samples:14269	AUC:0.984	TP:13599.000	FP:670.000	FN:365.000	Noise in labeled dataset:0.047
+Number of labeled samples:14266	AUC:0.985	TP:13601.000	FP:665.000	FN:363.000	Noise in labeled dataset:0.047
+Epoch 211 (net 2): GMM results: [0.00944145] with weight 0.2852278283851907	[0.42593306] with weight 0.714772171614807
+Epoch 211 (net 1): GMM results: [0.01108109] with weight 0.28517300006164625	[0.41521131] with weight 0.714826999938353
+Number of labeled samples:14261	AUC:0.986	TP:13602.000	FP:659.000	FN:362.000	Noise in labeled dataset:0.046
+Number of labeled samples:14260	AUC:0.985	TP:13596.000	FP:664.000	FN:368.000	Noise in labeled dataset:0.047
+Epoch 212 (net 2): GMM results: [0.01031593] with weight 0.28523163953541614	[0.44301756] with weight 0.7147683604645835
+Epoch 212 (net 1): GMM results: [0.00983104] with weight 0.2852437438162225	[0.39451329] with weight 0.7147562561837776
+Number of labeled samples:14263	AUC:0.986	TP:13597.000	FP:666.000	FN:367.000	Noise in labeled dataset:0.047
+Number of labeled samples:14266	AUC:0.984	TP:13599.000	FP:667.000	FN:365.000	Noise in labeled dataset:0.047
+Epoch 213 (net 2): GMM results: [0.01084092] with weight 0.2851403366367372	[0.44069721] with weight 0.7148596633632632
+Epoch 213 (net 1): GMM results: [0.01047895] with weight 0.2851817614937955	[0.39770642] with weight 0.7148182385062026
+Number of labeled samples:14256	AUC:0.986	TP:13594.000	FP:662.000	FN:370.000	Noise in labeled dataset:0.046
+Number of labeled samples:14264	AUC:0.984	TP:13601.000	FP:663.000	FN:363.000	Noise in labeled dataset:0.046
+Epoch 214 (net 2): GMM results: [0.00838015] with weight 0.28542698026609314	[0.38825717] with weight 0.7145730197339074
+Epoch 214 (net 1): GMM results: [0.01041162] with weight 0.2853125433995745	[0.3848383] with weight 0.7146874566004289
+Number of labeled samples:14273	AUC:0.985	TP:13601.000	FP:672.000	FN:363.000	Noise in labeled dataset:0.047
+Number of labeled samples:14267	AUC:0.985	TP:13599.000	FP:668.000	FN:365.000	Noise in labeled dataset:0.047
+Epoch 215 (net 2): GMM results: [0.01145511] with weight 0.28525383562499657	[0.43272412] with weight 0.7147461643750024
+Epoch 215 (net 1): GMM results: [0.00703303] with weight 0.2842379141567599	[0.33709752] with weight 0.7157620858432389
+Number of labeled samples:14266	AUC:0.984	TP:13601.000	FP:665.000	FN:363.000	Noise in labeled dataset:0.047
+Number of labeled samples:14268	AUC:0.986	TP:13597.000	FP:671.000	FN:367.000	Noise in labeled dataset:0.047
+Epoch 216 (net 2): GMM results: [0.00996325] with weight 0.2853479457204265	[0.43890647] with weight 0.7146520542795747
+Epoch 216 (net 1): GMM results: [0.0094953] with weight 0.28524706152801843	[0.39613831] with weight 0.7147529384719816
+Number of labeled samples:14271	AUC:0.985	TP:13602.000	FP:669.000	FN:362.000	Noise in labeled dataset:0.047
+Number of labeled samples:14267	AUC:0.984	TP:13598.000	FP:669.000	FN:366.000	Noise in labeled dataset:0.047
+Epoch 217 (net 2): GMM results: [0.00921263] with weight 0.2854036056295236	[0.37177994] with weight 0.7145963943704767
+Epoch 217 (net 1): GMM results: [0.01064872] with weight 0.2853379649049341	[0.40069184] with weight 0.7146620350950634
+Number of labeled samples:14272	AUC:0.985	TP:13602.000	FP:670.000	FN:362.000	Noise in labeled dataset:0.047
+Number of labeled samples:14269	AUC:0.983	TP:13601.000	FP:668.000	FN:363.000	Noise in labeled dataset:0.047
+Epoch 218 (net 2): GMM results: [0.00980721] with weight 0.28535499443863915	[0.40370408] with weight 0.7146450055613596
+Epoch 218 (net 1): GMM results: [0.01097477] with weight 0.2852883943623664	[0.43415141] with weight 0.7147116056376335
+Number of labeled samples:14268	AUC:0.984	TP:13600.000	FP:668.000	FN:364.000	Noise in labeled dataset:0.047
+Number of labeled samples:14267	AUC:0.984	TP:13599.000	FP:668.000	FN:365.000	Noise in labeled dataset:0.047
+Epoch 219 (net 2): GMM results: [0.00998879] with weight 0.28541225438103585	[0.40235829] with weight 0.7145877456189631
+Epoch 219 (net 1): GMM results: [0.0096341] with weight 0.2853751146010401	[0.39252606] with weight 0.714624885398959
+Number of labeled samples:14275	AUC:0.985	TP:13605.000	FP:670.000	FN:359.000	Noise in labeled dataset:0.047
+Number of labeled samples:14271	AUC:0.985	TP:13599.000	FP:672.000	FN:365.000	Noise in labeled dataset:0.047
+Epoch 220 (net 2): GMM results: [0.00947541] with weight 0.28548355367149414	[0.39238623] with weight 0.7145164463285032
+Epoch 220 (net 1): GMM results: [0.00989302] with weight 0.28526570453901023	[0.3879878] with weight 0.7147342954609924
+Number of labeled samples:14278	AUC:0.985	TP:13606.000	FP:672.000	FN:358.000	Noise in labeled dataset:0.047
+Number of labeled samples:14277	AUC:0.986	TP:13603.000	FP:674.000	FN:361.000	Noise in labeled dataset:0.047
+Epoch 221 (net 2): GMM results: [0.01133456] with weight 0.28535843039668596	[0.39424975] with weight 0.7146415696033136
+Epoch 221 (net 1): GMM results: [0.01012499] with weight 0.2852888852169681	[0.39380126] with weight 0.714711114783031
+Number of labeled samples:14282	AUC:0.985	TP:13604.000	FP:678.000	FN:360.000	Noise in labeled dataset:0.047
+Number of labeled samples:14273	AUC:0.985	TP:13604.000	FP:669.000	FN:360.000	Noise in labeled dataset:0.047
+Epoch 222 (net 2): GMM results: [0.00696746] with weight 0.2837698506349261	[0.33614078] with weight 0.7162301493650757
+Epoch 222 (net 1): GMM results: [0.01079603] with weight 0.2853802755303493	[0.41636627] with weight 0.7146197244696516
+Number of labeled samples:14286	AUC:0.986	TP:13604.000	FP:682.000	FN:360.000	Noise in labeled dataset:0.048
+Number of labeled samples:14276	AUC:0.984	TP:13603.000	FP:673.000	FN:361.000	Noise in labeled dataset:0.047
+Epoch 223 (net 2): GMM results: [0.00847446] with weight 0.2852721558714582	[0.3777351] with weight 0.714727844128542
+Epoch 223 (net 1): GMM results: [0.01001392] with weight 0.2853635114645368	[0.40180302] with weight 0.7146364885354647
+Number of labeled samples:14274	AUC:0.986	TP:13604.000	FP:670.000	FN:360.000	Noise in labeled dataset:0.047
+Number of labeled samples:14275	AUC:0.985	TP:13602.000	FP:673.000	FN:362.000	Noise in labeled dataset:0.047
+Epoch 224 (net 2): GMM results: [0.01085659] with weight 0.2853334983958385	[0.37980857] with weight 0.7146665016041616
+Epoch 224 (net 1): GMM results: [0.01042066] with weight 0.28521940020004033	[0.40223544] with weight 0.7147805997999612
+Number of labeled samples:14276	AUC:0.985	TP:13603.000	FP:673.000	FN:361.000	Noise in labeled dataset:0.047
+Number of labeled samples:14273	AUC:0.985	TP:13605.000	FP:668.000	FN:359.000	Noise in labeled dataset:0.047
+Epoch 225 (net 2): GMM results: [0.00628623] with weight 0.28247550351652073	[0.30292476] with weight 0.7175244964834867
+Epoch 225 (net 1): GMM results: [0.00898768] with weight 0.2852368565074061	[0.36138832] with weight 0.714763143492594
+Number of labeled samples:14279	AUC:0.986	TP:13602.000	FP:677.000	FN:362.000	Noise in labeled dataset:0.047
+Number of labeled samples:14277	AUC:0.985	TP:13604.000	FP:673.000	FN:360.000	Noise in labeled dataset:0.047
+Epoch 226 (net 2): GMM results: [0.00983438] with weight 0.2855153679527825	[0.40903845] with weight 0.7144846320472193
+Epoch 226 (net 1): GMM results: [0.00859042] with weight 0.2856228146399239	[0.35879778] with weight 0.7143771853600746
+Number of labeled samples:14280	AUC:0.985	TP:13608.000	FP:672.000	FN:356.000	Noise in labeled dataset:0.047
+Number of labeled samples:14285	AUC:0.985	TP:13606.000	FP:679.000	FN:358.000	Noise in labeled dataset:0.048
+Epoch 227 (net 2): GMM results: [0.00991985] with weight 0.28538526121603036	[0.44441803] with weight 0.7146147387839725
+Epoch 227 (net 1): GMM results: [0.01126377] with weight 0.28531798808536024	[0.41019852] with weight 0.7146820119146428
+Number of labeled samples:14271	AUC:0.985	TP:13603.000	FP:668.000	FN:361.000	Noise in labeled dataset:0.047
+Number of labeled samples:14269	AUC:0.983	TP:13597.000	FP:672.000	FN:367.000	Noise in labeled dataset:0.047
+Epoch 228 (net 2): GMM results: [0.01001512] with weight 0.28553429107022277	[0.42226142] with weight 0.7144657089297766
+Epoch 228 (net 1): GMM results: [0.00873439] with weight 0.28548844481814095	[0.38379391] with weight 0.7145115551818558
+Number of labeled samples:14278	AUC:0.984	TP:13605.000	FP:673.000	FN:359.000	Noise in labeled dataset:0.047
+Number of labeled samples:14279	AUC:0.984	TP:13603.000	FP:676.000	FN:361.000	Noise in labeled dataset:0.047
+Epoch 229 (net 2): GMM results: [0.0098576] with weight 0.28549639690656	[0.41716996] with weight 0.7145036030934383
+Epoch 229 (net 1): GMM results: [0.00728523] with weight 0.2854723945783144	[0.37366588] with weight 0.7145276054216828
+Number of labeled samples:14278	AUC:0.982	TP:13604.000	FP:674.000	FN:360.000	Noise in labeled dataset:0.047
+Number of labeled samples:14277	AUC:0.985	TP:13607.000	FP:670.000	FN:357.000	Noise in labeled dataset:0.047
+Epoch 230 (net 2): GMM results: [0.01075303] with weight 0.28537733346263244	[0.40760787] with weight 0.7146226665373693
+Epoch 230 (net 1): GMM results: [0.00849579] with weight 0.28546475960552486	[0.37034467] with weight 0.7145352403944779
+Number of labeled samples:14274	AUC:0.984	TP:13603.000	FP:671.000	FN:361.000	Noise in labeled dataset:0.047
+Number of labeled samples:14283	AUC:0.985	TP:13605.000	FP:678.000	FN:359.000	Noise in labeled dataset:0.047
+Epoch 231 (net 2): GMM results: [0.00983706] with weight 0.28558140257112724	[0.42160156] with weight 0.7144185974288708
+Epoch 231 (net 1): GMM results: [0.00887998] with weight 0.2852741629602738	[0.34716145] with weight 0.7147258370397304
+Number of labeled samples:14283	AUC:0.984	TP:13605.000	FP:678.000	FN:359.000	Noise in labeled dataset:0.047
+Number of labeled samples:14288	AUC:0.986	TP:13604.000	FP:684.000	FN:360.000	Noise in labeled dataset:0.048
+Epoch 232 (net 2): GMM results: [0.01027715] with weight 0.2854595795421477	[0.41399989] with weight 0.7145404204578527
+Epoch 232 (net 1): GMM results: [0.01026404] with weight 0.2854551609444882	[0.41026931] with weight 0.7145448390555106
+Number of labeled samples:14274	AUC:0.984	TP:13602.000	FP:672.000	FN:362.000	Noise in labeled dataset:0.047
+Number of labeled samples:14279	AUC:0.984	TP:13604.000	FP:675.000	FN:360.000	Noise in labeled dataset:0.047
+Epoch 233 (net 2): GMM results: [0.0080984] with weight 0.285620604103439	[0.41769901] with weight 0.7143793958965653
+Epoch 233 (net 1): GMM results: [0.0086613] with weight 0.2849052788293058	[0.35517929] with weight 0.7150947211706924
+Number of labeled samples:14283	AUC:0.984	TP:13606.000	FP:677.000	FN:358.000	Noise in labeled dataset:0.047
+Number of labeled samples:14276	AUC:0.985	TP:13601.000	FP:675.000	FN:363.000	Noise in labeled dataset:0.047
+Epoch 234 (net 2): GMM results: [0.01092701] with weight 0.2851998749150611	[0.39117971] with weight 0.71480012508494
+Epoch 234 (net 1): GMM results: [0.00955326] with weight 0.28540156398109234	[0.39866266] with weight 0.7145984360189102
+Number of labeled samples:14269	AUC:0.985	TP:13600.000	FP:669.000	FN:364.000	Noise in labeled dataset:0.047
+Number of labeled samples:14273	AUC:0.985	TP:13603.000	FP:670.000	FN:361.000	Noise in labeled dataset:0.047
+Epoch 235 (net 2): GMM results: [0.00637024] with weight 0.28417349802304614	[0.34964545] with weight 0.715826501976961
+Epoch 235 (net 1): GMM results: [0.00939048] with weight 0.28560289518636794	[0.36599487] with weight 0.7143971048136311
+Number of labeled samples:14290	AUC:0.986	TP:13608.000	FP:682.000	FN:356.000	Noise in labeled dataset:0.048
+Number of labeled samples:14284	AUC:0.984	TP:13608.000	FP:676.000	FN:356.000	Noise in labeled dataset:0.047
+Epoch 236 (net 2): GMM results: [0.00904779] with weight 0.28547232220094443	[0.40929988] with weight 0.7145276777990526
+Epoch 236 (net 1): GMM results: [0.00967038] with weight 0.285464369456147	[0.38303853] with weight 0.7145356305438542
+Number of labeled samples:14277	AUC:0.984	TP:13606.000	FP:671.000	FN:358.000	Noise in labeled dataset:0.047
+Number of labeled samples:14280	AUC:0.985	TP:13604.000	FP:676.000	FN:360.000	Noise in labeled dataset:0.047
+Epoch 237 (net 2): GMM results: [0.00870599] with weight 0.2855013223950513	[0.38807615] with weight 0.7144986776049485
+Epoch 237 (net 1): GMM results: [0.00888366] with weight 0.28540750758332734	[0.33831601] with weight 0.714592492416676
+Number of labeled samples:14282	AUC:0.985	TP:13607.000	FP:675.000	FN:357.000	Noise in labeled dataset:0.047
+Number of labeled samples:14292	AUC:0.985	TP:13605.000	FP:687.000	FN:359.000	Noise in labeled dataset:0.048
+Epoch 238 (net 2): GMM results: [0.00886372] with weight 0.2855313370171428	[0.40880503] with weight 0.714468662982854
+Epoch 238 (net 1): GMM results: [0.00988236] with weight 0.2854161298047323	[0.38756972] with weight 0.7145838701952664
+Number of labeled samples:14278	AUC:0.983	TP:13601.000	FP:677.000	FN:363.000	Noise in labeled dataset:0.047
+Number of labeled samples:14278	AUC:0.984	TP:13605.000	FP:673.000	FN:359.000	Noise in labeled dataset:0.047
+Epoch 239 (net 2): GMM results: [0.00891604] with weight 0.2855894673204673	[0.39554802] with weight 0.7144105326795298
+Epoch 239 (net 1): GMM results: [0.00975538] with weight 0.2856087315398697	[0.36743233] with weight 0.7143912684601307
+Number of labeled samples:14283	AUC:0.984	TP:13606.000	FP:677.000	FN:358.000	Noise in labeled dataset:0.047
+Number of labeled samples:14290	AUC:0.984	TP:13609.000	FP:681.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 240 (net 2): GMM results: [0.00842701] with weight 0.2857060830400402	[0.3532818] with weight 0.7142939169599591
+Epoch 240 (net 1): GMM results: [0.00806276] with weight 0.285607371861215	[0.32239225] with weight 0.7143926281387895
+Number of labeled samples:14290	AUC:0.983	TP:13607.000	FP:683.000	FN:357.000	Noise in labeled dataset:0.048
+Number of labeled samples:14291	AUC:0.984	TP:13609.000	FP:682.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 241 (net 2): GMM results: [0.01163704] with weight 0.28555077929868905	[0.41150191] with weight 0.7144492207013102
+Epoch 241 (net 1): GMM results: [0.00967673] with weight 0.2857591348132159	[0.37953784] with weight 0.7142408651867909
+Number of labeled samples:14280	AUC:0.983	TP:13605.000	FP:675.000	FN:359.000	Noise in labeled dataset:0.047
+Number of labeled samples:14292	AUC:0.985	TP:13607.000	FP:685.000	FN:357.000	Noise in labeled dataset:0.048
+Epoch 242 (net 2): GMM results: [0.01050143] with weight 0.28564955597943714	[0.42732024] with weight 0.7143504440205639
+Epoch 242 (net 1): GMM results: [0.00891585] with weight 0.2856320577722894	[0.37950877] with weight 0.714367942227712
+Number of labeled samples:14287	AUC:0.983	TP:13605.000	FP:682.000	FN:359.000	Noise in labeled dataset:0.048
+Number of labeled samples:14288	AUC:0.984	TP:13608.000	FP:680.000	FN:356.000	Noise in labeled dataset:0.048
+Epoch 243 (net 2): GMM results: [0.00970712] with weight 0.28570049811675957	[0.44299618] with weight 0.7142995018832419
+Epoch 243 (net 1): GMM results: [0.01022889] with weight 0.285614639724964	[0.36022598] with weight 0.7143853602750362
+Number of labeled samples:14288	AUC:0.982	TP:13607.000	FP:681.000	FN:357.000	Noise in labeled dataset:0.048
+Number of labeled samples:14290	AUC:0.985	TP:13609.000	FP:681.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 244 (net 2): GMM results: [0.00933039] with weight 0.2856759850985939	[0.39257658] with weight 0.7143240149014086
+Epoch 244 (net 1): GMM results: [0.00866191] with weight 0.28566428599152516	[0.37218973] with weight 0.7143357140084741
+Number of labeled samples:14287	AUC:0.984	TP:13607.000	FP:680.000	FN:357.000	Noise in labeled dataset:0.048
+Number of labeled samples:14289	AUC:0.985	TP:13608.000	FP:681.000	FN:356.000	Noise in labeled dataset:0.048
+Epoch 245 (net 2): GMM results: [0.0100923] with weight 0.28569347584670135	[0.40493001] with weight 0.7143065241532991
+Epoch 245 (net 1): GMM results: [0.00900898] with weight 0.28569414359139117	[0.3876141] with weight 0.7143058564086077
+Number of labeled samples:14290	AUC:0.984	TP:13608.000	FP:682.000	FN:356.000	Noise in labeled dataset:0.048
+Number of labeled samples:14290	AUC:0.984	TP:13607.000	FP:683.000	FN:357.000	Noise in labeled dataset:0.048
+Epoch 246 (net 2): GMM results: [0.01075367] with weight 0.28563018500860415	[0.41881035] with weight 0.7143698149913987
+Epoch 246 (net 1): GMM results: [0.00932756] with weight 0.2855436713942987	[0.39903678] with weight 0.7144563286056967
+Number of labeled samples:14287	AUC:0.984	TP:13608.000	FP:679.000	FN:356.000	Noise in labeled dataset:0.048
+Number of labeled samples:14282	AUC:0.984	TP:13606.000	FP:676.000	FN:358.000	Noise in labeled dataset:0.047
+Epoch 247 (net 2): GMM results: [0.01013843] with weight 0.2857371718199716	[0.37884537] with weight 0.7142628281800276
+Epoch 247 (net 1): GMM results: [0.00920538] with weight 0.2856644854206911	[0.3889753] with weight 0.7143355145793083
+Number of labeled samples:14291	AUC:0.983	TP:13609.000	FP:682.000	FN:355.000	Noise in labeled dataset:0.048
+Number of labeled samples:14291	AUC:0.985	TP:13607.000	FP:684.000	FN:357.000	Noise in labeled dataset:0.048
+Epoch 248 (net 2): GMM results: [0.00987454] with weight 0.2856779207924542	[0.39529478] with weight 0.7143220792075472
+Epoch 248 (net 1): GMM results: [0.00862856] with weight 0.2857812288227734	[0.37389245] with weight 0.7142187711772259
+Number of labeled samples:14286	AUC:0.983	TP:13608.000	FP:678.000	FN:356.000	Noise in labeled dataset:0.047
+Number of labeled samples:14296	AUC:0.985	TP:13610.000	FP:686.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 249 (net 2): GMM results: [0.00980439] with weight 0.28565082721037327	[0.39037801] with weight 0.7143491727896272
+Epoch 249 (net 1): GMM results: [0.0073127] with weight 0.2858224436530963	[0.34405765] with weight 0.7141775563469026
+Number of labeled samples:14289	AUC:0.984	TP:13608.000	FP:681.000	FN:356.000	Noise in labeled dataset:0.048
+Number of labeled samples:14296	AUC:0.984	TP:13610.000	FP:686.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 250 (net 2): GMM results: [0.01041153] with weight 0.2856786212865765	[0.40953603] with weight 0.7143213787134226
+Epoch 250 (net 1): GMM results: [0.0105474] with weight 0.2857006797764483	[0.39707811] with weight 0.7142993202235509
+Number of labeled samples:14288	AUC:0.984	TP:13609.000	FP:679.000	FN:355.000	Noise in labeled dataset:0.048
+Number of labeled samples:14289	AUC:0.984	TP:13606.000	FP:683.000	FN:358.000	Noise in labeled dataset:0.048
+Epoch 251 (net 2): GMM results: [0.00958335] with weight 0.2857250559357389	[0.39221698] with weight 0.7142749440642562
+Epoch 251 (net 1): GMM results: [0.00892477] with weight 0.28584164910696885	[0.36971] with weight 0.7141583508930294
+Number of labeled samples:14291	AUC:0.983	TP:13609.000	FP:682.000	FN:355.000	Noise in labeled dataset:0.048
+Number of labeled samples:14297	AUC:0.984	TP:13614.000	FP:683.000	FN:350.000	Noise in labeled dataset:0.048
+Epoch 252 (net 2): GMM results: [0.00797282] with weight 0.2857646695308074	[0.35831062] with weight 0.7142353304691959
+Epoch 252 (net 1): GMM results: [0.00793359] with weight 0.2857166203023312	[0.38756072] with weight 0.7142833796976684
+Number of labeled samples:14292	AUC:0.983	TP:13611.000	FP:681.000	FN:353.000	Noise in labeled dataset:0.048
+Number of labeled samples:14290	AUC:0.984	TP:13610.000	FP:680.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 253 (net 2): GMM results: [0.00991809] with weight 0.2857061854248532	[0.39484153] with weight 0.714293814575146
+Epoch 253 (net 1): GMM results: [0.00896266] with weight 0.2857261782929971	[0.39926993] with weight 0.7142738217070002
+Number of labeled samples:14289	AUC:0.983	TP:13612.000	FP:677.000	FN:352.000	Noise in labeled dataset:0.047
+Number of labeled samples:14290	AUC:0.984	TP:13609.000	FP:681.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 254 (net 2): GMM results: [0.00839392] with weight 0.285686413151174	[0.38272588] with weight 0.7143135868488293
+Epoch 254 (net 1): GMM results: [0.0088147] with weight 0.2856799036644833	[0.3890521] with weight 0.7143200963355201
+Number of labeled samples:14287	AUC:0.983	TP:13607.000	FP:680.000	FN:357.000	Noise in labeled dataset:0.048
+Number of labeled samples:14290	AUC:0.984	TP:13609.000	FP:681.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 255 (net 2): GMM results: [0.00811425] with weight 0.2856608232681325	[0.33708508] with weight 0.7143391767318643
+Epoch 255 (net 1): GMM results: [0.00833431] with weight 0.28568632404271893	[0.40861509] with weight 0.714313675957279
+Number of labeled samples:14292	AUC:0.983	TP:13612.000	FP:680.000	FN:352.000	Noise in labeled dataset:0.048
+Number of labeled samples:14287	AUC:0.983	TP:13608.000	FP:679.000	FN:356.000	Noise in labeled dataset:0.048
+Epoch 256 (net 2): GMM results: [0.00826189] with weight 0.2858705105550712	[0.38020798] with weight 0.7141294894449253
+Epoch 256 (net 1): GMM results: [0.01056702] with weight 0.2856870395514443	[0.39810383] with weight 0.7143129604485527
+Number of labeled samples:14297	AUC:0.984	TP:13615.000	FP:682.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14291	AUC:0.984	TP:13609.000	FP:682.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 257 (net 2): GMM results: [0.00959468] with weight 0.2856888981274316	[0.41210399] with weight 0.7143111018725674
+Epoch 257 (net 1): GMM results: [0.01036404] with weight 0.2856759868690785	[0.40380441] with weight 0.7143240131309248
+Number of labeled samples:14286	AUC:0.983	TP:13608.000	FP:678.000	FN:356.000	Noise in labeled dataset:0.047
+Number of labeled samples:14290	AUC:0.984	TP:13610.000	FP:680.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 258 (net 2): GMM results: [0.01111641] with weight 0.2856412569825535	[0.38742651] with weight 0.7143587430174474
+Epoch 258 (net 1): GMM results: [0.01099823] with weight 0.28558227320392326	[0.38637245] with weight 0.7144177267960772
+Number of labeled samples:14292	AUC:0.984	TP:13611.000	FP:681.000	FN:353.000	Noise in labeled dataset:0.048
+Number of labeled samples:14292	AUC:0.985	TP:13610.000	FP:682.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 259 (net 2): GMM results: [0.00993087] with weight 0.2858287428861864	[0.40850244] with weight 0.7141712571138102
+Epoch 259 (net 1): GMM results: [0.00991532] with weight 0.2857608364329655	[0.42113695] with weight 0.7142391635670334
+Number of labeled samples:14295	AUC:0.983	TP:13614.000	FP:681.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14293	AUC:0.983	TP:13608.000	FP:685.000	FN:356.000	Noise in labeled dataset:0.048
+Epoch 260 (net 2): GMM results: [0.00945919] with weight 0.2857990819993453	[0.44179657] with weight 0.7142009180006551
+Epoch 260 (net 1): GMM results: [0.01038054] with weight 0.28576431326784374	[0.42198212] with weight 0.7142356867321591
+Number of labeled samples:14291	AUC:0.983	TP:13610.000	FP:681.000	FN:354.000	Noise in labeled dataset:0.048
+Number of labeled samples:14292	AUC:0.984	TP:13608.000	FP:684.000	FN:356.000	Noise in labeled dataset:0.048
+Epoch 261 (net 2): GMM results: [0.00922599] with weight 0.2858946883679206	[0.38310859] with weight 0.7141053116320852
+Epoch 261 (net 1): GMM results: [0.00959258] with weight 0.2857857751604799	[0.39276906] with weight 0.7142142248395158
+Number of labeled samples:14297	AUC:0.983	TP:13613.000	FP:684.000	FN:351.000	Noise in labeled dataset:0.048
+Number of labeled samples:14292	AUC:0.984	TP:13609.000	FP:683.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 262 (net 2): GMM results: [0.008209] with weight 0.28587131250895154	[0.35518038] with weight 0.7141286874910471
+Epoch 262 (net 1): GMM results: [0.00885568] with weight 0.28572073752451393	[0.38617979] with weight 0.7142792624754808
+Number of labeled samples:14296	AUC:0.983	TP:13612.000	FP:684.000	FN:352.000	Noise in labeled dataset:0.048
+Number of labeled samples:14291	AUC:0.983	TP:13608.000	FP:683.000	FN:356.000	Noise in labeled dataset:0.048
+Epoch 263 (net 2): GMM results: [0.00906741] with weight 0.2857938660827286	[0.40887363] with weight 0.7142061339172706
+Epoch 263 (net 1): GMM results: [0.00859497] with weight 0.28569541540323423	[0.35521896] with weight 0.7143045845967668
+Number of labeled samples:14294	AUC:0.984	TP:13611.000	FP:683.000	FN:353.000	Noise in labeled dataset:0.048
+Number of labeled samples:14292	AUC:0.983	TP:13609.000	FP:683.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 264 (net 2): GMM results: [0.00807079] with weight 0.28589600636651813	[0.37273924] with weight 0.7141039936334819
+Epoch 264 (net 1): GMM results: [0.00912736] with weight 0.28581094121343154	[0.36134465] with weight 0.7141890587865701
+Number of labeled samples:14301	AUC:0.983	TP:13617.000	FP:684.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14298	AUC:0.985	TP:13612.000	FP:686.000	FN:352.000	Noise in labeled dataset:0.048
+Epoch 265 (net 2): GMM results: [0.00898066] with weight 0.2858676916436849	[0.37030921] with weight 0.7141323083563154
+Epoch 265 (net 1): GMM results: [0.00860314] with weight 0.2858760670990956	[0.37858438] with weight 0.7141239329009071
+Number of labeled samples:14297	AUC:0.983	TP:13615.000	FP:682.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.983	TP:13610.000	FP:690.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 266 (net 2): GMM results: [0.0088285] with weight 0.2857927708994673	[0.35390075] with weight 0.7142072291005317
+Epoch 266 (net 1): GMM results: [0.00744345] with weight 0.2859164506974569	[0.32716635] with weight 0.7140835493025405
+Number of labeled samples:14296	AUC:0.983	TP:13612.000	FP:684.000	FN:352.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.983	TP:13610.000	FP:692.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 267 (net 2): GMM results: [0.00911587] with weight 0.2858382655676262	[0.40314854] with weight 0.7141617344323736
+Epoch 267 (net 1): GMM results: [0.01049851] with weight 0.2858781605393261	[0.4312812] with weight 0.7141218394606702
+Number of labeled samples:14296	AUC:0.982	TP:13613.000	FP:683.000	FN:351.000	Noise in labeled dataset:0.048
+Number of labeled samples:14295	AUC:0.982	TP:13610.000	FP:685.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 268 (net 2): GMM results: [0.00834544] with weight 0.28589600727186265	[0.399861] with weight 0.7141039927281351
+Epoch 268 (net 1): GMM results: [0.00968274] with weight 0.2858719826340329	[0.38711238] with weight 0.7141280173659721
+Number of labeled samples:14296	AUC:0.983	TP:13609.000	FP:687.000	FN:355.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.984	TP:13613.000	FP:687.000	FN:351.000	Noise in labeled dataset:0.048
+Epoch 269 (net 2): GMM results: [0.0091951] with weight 0.2857984810849631	[0.41428044] with weight 0.7142015189150344
+Epoch 269 (net 1): GMM results: [0.00922021] with weight 0.2858629252315058	[0.41449916] with weight 0.7141370747684926
+Number of labeled samples:14295	AUC:0.984	TP:13614.000	FP:681.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14301	AUC:0.982	TP:13612.000	FP:689.000	FN:352.000	Noise in labeled dataset:0.048
+Epoch 270 (net 2): GMM results: [0.00849799] with weight 0.2859352554611151	[0.37433599] with weight 0.7140647445388866
+Epoch 270 (net 1): GMM results: [0.00947713] with weight 0.2857759726365233	[0.41806158] with weight 0.7142240273634778
+Number of labeled samples:14304	AUC:0.983	TP:13618.000	FP:686.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14291	AUC:0.984	TP:13609.000	FP:682.000	FN:355.000	Noise in labeled dataset:0.048
+Epoch 271 (net 2): GMM results: [0.00944737] with weight 0.28585813873077903	[0.43483687] with weight 0.7141418612692213
+Epoch 271 (net 1): GMM results: [0.00882644] with weight 0.2858476802685419	[0.379274] with weight 0.7141523197314591
+Number of labeled samples:14295	AUC:0.982	TP:13612.000	FP:683.000	FN:352.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.984	TP:13612.000	FP:690.000	FN:352.000	Noise in labeled dataset:0.048
+Epoch 272 (net 2): GMM results: [0.00956348] with weight 0.2858672045299977	[0.40029364] with weight 0.7141327954700031
+Epoch 272 (net 1): GMM results: [0.0091382] with weight 0.2859249580279718	[0.38616335] with weight 0.7140750419720253
+Number of labeled samples:14295	AUC:0.982	TP:13613.000	FP:682.000	FN:351.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.983	TP:13613.000	FP:689.000	FN:351.000	Noise in labeled dataset:0.048
+Epoch 273 (net 2): GMM results: [0.00954119] with weight 0.2858769269850285	[0.40385795] with weight 0.7141230730149686
+Epoch 273 (net 1): GMM results: [0.00947848] with weight 0.28582587704048423	[0.39553685] with weight 0.7141741229595153
+Number of labeled samples:14297	AUC:0.984	TP:13614.000	FP:683.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14297	AUC:0.984	TP:13611.000	FP:686.000	FN:353.000	Noise in labeled dataset:0.048
+Epoch 274 (net 2): GMM results: [0.01080491] with weight 0.2858874655479785	[0.39845543] with weight 0.7141125344520215
+Epoch 274 (net 1): GMM results: [0.00888427] with weight 0.28580240087840464	[0.42182507] with weight 0.7141975991215946
+Number of labeled samples:14300	AUC:0.982	TP:13616.000	FP:684.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14293	AUC:0.984	TP:13611.000	FP:682.000	FN:353.000	Noise in labeled dataset:0.048
+Epoch 275 (net 2): GMM results: [0.00896327] with weight 0.2859212800942472	[0.42680551] with weight 0.7140787199057547
+Epoch 275 (net 1): GMM results: [0.00974076] with weight 0.28583926199554544	[0.41760157] with weight 0.7141607380044596
+Number of labeled samples:14298	AUC:0.982	TP:13615.000	FP:683.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14294	AUC:0.982	TP:13610.000	FP:684.000	FN:354.000	Noise in labeled dataset:0.048
+Epoch 276 (net 2): GMM results: [0.00990629] with weight 0.2858389203724709	[0.40940164] with weight 0.7141610796275261
+Epoch 276 (net 1): GMM results: [0.01110534] with weight 0.2857991198434129	[0.41402056] with weight 0.7142008801565876
+Number of labeled samples:14297	AUC:0.983	TP:13614.000	FP:683.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14296	AUC:0.983	TP:13613.000	FP:683.000	FN:351.000	Noise in labeled dataset:0.048
+Epoch 277 (net 2): GMM results: [0.00993395] with weight 0.2858276485970287	[0.38420503] with weight 0.7141723514029724
+Epoch 277 (net 1): GMM results: [0.00844473] with weight 0.28589197451899023	[0.3997551] with weight 0.7141080254810076
+Number of labeled samples:14299	AUC:0.982	TP:13614.000	FP:685.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.982	TP:13613.000	FP:687.000	FN:351.000	Noise in labeled dataset:0.048
+Epoch 278 (net 2): GMM results: [0.00859833] with weight 0.2859418800174508	[0.39950649] with weight 0.7140581199825513
+Epoch 278 (net 1): GMM results: [0.00870159] with weight 0.28585586002537644	[0.3516031] with weight 0.7141441399746242
+Number of labeled samples:14299	AUC:0.983	TP:13614.000	FP:685.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.982	TP:13612.000	FP:688.000	FN:352.000	Noise in labeled dataset:0.048
+Epoch 279 (net 2): GMM results: [0.01112816] with weight 0.285968642942965	[0.44328208] with weight 0.7140313570570357
+Epoch 279 (net 1): GMM results: [0.00971454] with weight 0.2858810274564235	[0.4049773] with weight 0.7141189725435801
+Number of labeled samples:14301	AUC:0.983	TP:13614.000	FP:687.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.982	TP:13615.000	FP:685.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 280 (net 2): GMM results: [0.0105452] with weight 0.2859273485448726	[0.42747593] with weight 0.7140726514551302
+Epoch 280 (net 1): GMM results: [0.00971857] with weight 0.2859475080376592	[0.39669087] with weight 0.7140524919623397
+Number of labeled samples:14299	AUC:0.983	TP:13614.000	FP:685.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.984	TP:13616.000	FP:688.000	FN:348.000	Noise in labeled dataset:0.048
+Epoch 281 (net 2): GMM results: [0.01028904] with weight 0.2859782756252638	[0.42595783] with weight 0.7140217243747348
+Epoch 281 (net 1): GMM results: [0.01013258] with weight 0.28588090125664894	[0.39728805] with weight 0.714119098743353
+Number of labeled samples:14303	AUC:0.982	TP:13616.000	FP:687.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.983	TP:13615.000	FP:685.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 282 (net 2): GMM results: [0.00924256] with weight 0.2859022581918061	[0.41339259] with weight 0.7140977418081945
+Epoch 282 (net 1): GMM results: [0.00934475] with weight 0.28588293634369166	[0.38302494] with weight 0.7141170636563093
+Number of labeled samples:14300	AUC:0.982	TP:13616.000	FP:684.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.982	TP:13614.000	FP:686.000	FN:350.000	Noise in labeled dataset:0.048
+Epoch 283 (net 2): GMM results: [0.0097145] with weight 0.2858511064488382	[0.3879824] with weight 0.7141488935511613
+Epoch 283 (net 1): GMM results: [0.01080853] with weight 0.285910823194007	[0.43652058] with weight 0.7140891768059949
+Number of labeled samples:14299	AUC:0.982	TP:13612.000	FP:687.000	FN:352.000	Noise in labeled dataset:0.048
+Number of labeled samples:14298	AUC:0.982	TP:13614.000	FP:684.000	FN:350.000	Noise in labeled dataset:0.048
+Epoch 284 (net 2): GMM results: [0.00922955] with weight 0.28585274349089673	[0.38835627] with weight 0.7141472565091012
+Epoch 284 (net 1): GMM results: [0.00891717] with weight 0.2857739094501533	[0.37773603] with weight 0.7142260905498474
+Number of labeled samples:14300	AUC:0.983	TP:13616.000	FP:684.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14296	AUC:0.982	TP:13611.000	FP:685.000	FN:353.000	Noise in labeled dataset:0.048
+Epoch 285 (net 2): GMM results: [0.00889045] with weight 0.28602615170862017	[0.38348629] with weight 0.7139738482913838
+Epoch 285 (net 1): GMM results: [0.00724353] with weight 0.2859875155354138	[0.31811483] with weight 0.7140124844645883
+Number of labeled samples:14304	AUC:0.983	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.984	TP:13615.000	FP:692.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 286 (net 2): GMM results: [0.01021329] with weight 0.28593152166433755	[0.43732902] with weight 0.7140684783356637
+Epoch 286 (net 1): GMM results: [0.00928791] with weight 0.28578798715338094	[0.38228425] with weight 0.714212012846621
+Number of labeled samples:14298	AUC:0.982	TP:13615.000	FP:683.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14298	AUC:0.983	TP:13613.000	FP:685.000	FN:351.000	Noise in labeled dataset:0.048
+Epoch 287 (net 2): GMM results: [0.01088763] with weight 0.2859788764227142	[0.42449414] with weight 0.7140211235772865
+Epoch 287 (net 1): GMM results: [0.01042183] with weight 0.28586997110605133	[0.40201724] with weight 0.7141300288939479
+Number of labeled samples:14302	AUC:0.982	TP:13614.000	FP:688.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14297	AUC:0.982	TP:13612.000	FP:685.000	FN:352.000	Noise in labeled dataset:0.048
+Epoch 288 (net 2): GMM results: [0.009662] with weight 0.28599984104546394	[0.40792835] with weight 0.7140001589545348
+Epoch 288 (net 1): GMM results: [0.00906987] with weight 0.2859150143353973	[0.34895523] with weight 0.7140849856646029
+Number of labeled samples:14301	AUC:0.983	TP:13615.000	FP:686.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.982	TP:13615.000	FP:687.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 289 (net 2): GMM results: [0.01050622] with weight 0.2858742320360639	[0.40537418] with weight 0.7141257679639348
+Epoch 289 (net 1): GMM results: [0.00909721] with weight 0.2858862477861816	[0.38392831] with weight 0.7141137522138168
+Number of labeled samples:14301	AUC:0.983	TP:13615.000	FP:686.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.982	TP:13615.000	FP:685.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 290 (net 2): GMM results: [0.01052754] with weight 0.28594315772186635	[0.42213272] with weight 0.7140568422781283
+Epoch 290 (net 1): GMM results: [0.0093839] with weight 0.28600032188586383	[0.38972667] with weight 0.7139996781141392
+Number of labeled samples:14300	AUC:0.982	TP:13615.000	FP:685.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.982	TP:13614.000	FP:688.000	FN:350.000	Noise in labeled dataset:0.048
+Epoch 291 (net 2): GMM results: [0.01013353] with weight 0.28597898502631275	[0.4200056] with weight 0.7140210149736874
+Epoch 291 (net 1): GMM results: [0.00803409] with weight 0.28595521095596954	[0.38185834] with weight 0.7140447890440309
+Number of labeled samples:14302	AUC:0.982	TP:13614.000	FP:688.000	FN:350.000	Noise in labeled dataset:0.048
+Number of labeled samples:14301	AUC:0.984	TP:13614.000	FP:687.000	FN:350.000	Noise in labeled dataset:0.048
+Epoch 292 (net 2): GMM results: [0.0088805] with weight 0.28608478819999955	[0.41734494] with weight 0.7139152118000007
+Epoch 292 (net 1): GMM results: [0.00964511] with weight 0.28584501777977195	[0.40422837] with weight 0.7141549822202266
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14297	AUC:0.982	TP:13613.000	FP:684.000	FN:351.000	Noise in labeled dataset:0.048
+Epoch 293 (net 2): GMM results: [0.00943879] with weight 0.28599441791125546	[0.39594644] with weight 0.7140055820887455
+Epoch 293 (net 1): GMM results: [0.00847965] with weight 0.28595734393918776	[0.38957721] with weight 0.7140426560608155
+Number of labeled samples:14303	AUC:0.982	TP:13613.000	FP:690.000	FN:351.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.983	TP:13615.000	FP:687.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 294 (net 2): GMM results: [0.00976968] with weight 0.2859797088672466	[0.42654134] with weight 0.714020291132753
+Epoch 294 (net 1): GMM results: [0.00835958] with weight 0.2860351675076167	[0.3788481] with weight 0.7139648324923852
+Number of labeled samples:14302	AUC:0.983	TP:13616.000	FP:686.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.981	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 295 (net 2): GMM results: [0.00879291] with weight 0.2859801760906391	[0.40088028] with weight 0.71401982390936
+Epoch 295 (net 1): GMM results: [0.00916927] with weight 0.2858914711944286	[0.37416187] with weight 0.7141085288055705
+Number of labeled samples:14304	AUC:0.984	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.984	TP:13615.000	FP:687.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 296 (net 2): GMM results: [0.0080596] with weight 0.28604809018836636	[0.37693462] with weight 0.7139519098116334
+Epoch 296 (net 1): GMM results: [0.01006799] with weight 0.2860330519937635	[0.42299988] with weight 0.7139669480062384
+Number of labeled samples:14305	AUC:0.985	TP:13619.000	FP:686.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14308	AUC:0.981	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Epoch 297 (net 2): GMM results: [0.00999832] with weight 0.28599157217562965	[0.4201422] with weight 0.7140084278243739
+Epoch 297 (net 1): GMM results: [0.01069301] with weight 0.2859649282623962	[0.42077514] with weight 0.714035071737604
+Number of labeled samples:14301	AUC:0.982	TP:13616.000	FP:685.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.980	TP:13614.000	FP:686.000	FN:350.000	Noise in labeled dataset:0.048
+Epoch 298 (net 2): GMM results: [0.00983316] with weight 0.2859997723012918	[0.42854469] with weight 0.7140002276987064
+Epoch 298 (net 1): GMM results: [0.00989121] with weight 0.28598402450827914	[0.41173927] with weight 0.7140159754917224
+Number of labeled samples:14302	AUC:0.982	TP:13618.000	FP:684.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.981	TP:13616.000	FP:686.000	FN:348.000	Noise in labeled dataset:0.048
+Epoch 299 (net 2): GMM results: [0.01069274] with weight 0.28601476699107026	[0.39752778] with weight 0.7139852330089265
+Epoch 299 (net 1): GMM results: [0.00872423] with weight 0.28591127614912043	[0.40772314] with weight 0.7140887238508885
+Number of labeled samples:14305	AUC:0.983	TP:13619.000	FP:686.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14303	AUC:0.981	TP:13617.000	FP:686.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 300 (net 2): GMM results: [0.00938506] with weight 0.2860264410862915	[0.41932773] with weight 0.7139735589137057
+Epoch 300 (net 1): GMM results: [0.00976042] with weight 0.2859420631908612	[0.40497267] with weight 0.71405793680914
+Number of labeled samples:14302	AUC:0.983	TP:13618.000	FP:684.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14300	AUC:0.981	TP:13615.000	FP:685.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 301 (net 2): GMM results: [0.00995583] with weight 0.2859865342138319	[0.40319198] with weight 0.7140134657861672
+Epoch 301 (net 1): GMM results: [0.01027431] with weight 0.2860268116797358	[0.40869467] with weight 0.7139731883202691
+Number of labeled samples:14304	AUC:0.982	TP:13619.000	FP:685.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.981	TP:13618.000	FP:686.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 302 (net 2): GMM results: [0.01041409] with weight 0.2860512122644012	[0.44101754] with weight 0.7139487877355997
+Epoch 302 (net 1): GMM results: [0.00924336] with weight 0.2860325600859286	[0.39830659] with weight 0.7139674399140726
+Number of labeled samples:14305	AUC:0.982	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 303 (net 2): GMM results: [0.0104147] with weight 0.28602813761780305	[0.44308094] with weight 0.7139718623821962
+Epoch 303 (net 1): GMM results: [0.00943544] with weight 0.28601229482069285	[0.39916356] with weight 0.713987705179303
+Number of labeled samples:14302	AUC:0.981	TP:13616.000	FP:686.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14302	AUC:0.981	TP:13616.000	FP:686.000	FN:348.000	Noise in labeled dataset:0.048
+Epoch 304 (net 2): GMM results: [0.00909277] with weight 0.28603335262497326	[0.42737435] with weight 0.7139666473750259
+Epoch 304 (net 1): GMM results: [0.00877895] with weight 0.2860155980565017	[0.3985898] with weight 0.7139844019435
+Number of labeled samples:14302	AUC:0.981	TP:13617.000	FP:685.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.982	TP:13618.000	FP:686.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 305 (net 2): GMM results: [0.00937059] with weight 0.2860324341849188	[0.42542912] with weight 0.713967565815082
+Epoch 305 (net 1): GMM results: [0.00830565] with weight 0.28609064045998556	[0.3970313] with weight 0.713909359540016
+Number of labeled samples:14303	AUC:0.982	TP:13617.000	FP:686.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.982	TP:13617.000	FP:690.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 306 (net 2): GMM results: [0.0102223] with weight 0.28605263322761043	[0.43002852] with weight 0.7139473667723937
+Epoch 306 (net 1): GMM results: [0.00883907] with weight 0.28605213179045036	[0.38602596] with weight 0.713947868209549
+Number of labeled samples:14304	AUC:0.982	TP:13618.000	FP:686.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 307 (net 2): GMM results: [0.00867739] with weight 0.28605554826259744	[0.39473281] with weight 0.7139444517374042
+Epoch 307 (net 1): GMM results: [0.00909288] with weight 0.286025780403432	[0.39272182] with weight 0.7139742195965711
+Number of labeled samples:14305	AUC:0.982	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 308 (net 2): GMM results: [0.01094451] with weight 0.28601293506189346	[0.43854393] with weight 0.7139870649381004
+Epoch 308 (net 1): GMM results: [0.00861379] with weight 0.2860347105493561	[0.3788634] with weight 0.7139652894506446
+Number of labeled samples:14301	AUC:0.982	TP:13616.000	FP:685.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 309 (net 2): GMM results: [0.00909798] with weight 0.28605867481152725	[0.42490226] with weight 0.7139413251884745
+Epoch 309 (net 1): GMM results: [0.00929616] with weight 0.28598752636046093	[0.39330617] with weight 0.7140124736395388
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14301	AUC:0.982	TP:13615.000	FP:686.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 310 (net 2): GMM results: [0.00924141] with weight 0.28607497525938064	[0.41688758] with weight 0.7139250247406213
+Epoch 310 (net 1): GMM results: [0.00951443] with weight 0.28605370083986703	[0.38213623] with weight 0.7139462991601363
+Number of labeled samples:14305	AUC:0.981	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13617.000	FP:690.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 311 (net 2): GMM results: [0.0090591] with weight 0.2860545080481573	[0.42860545] with weight 0.7139454919518398
+Epoch 311 (net 1): GMM results: [0.00862092] with weight 0.2860502941217291	[0.37784802] with weight 0.713949705878271
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.981	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 312 (net 2): GMM results: [0.00927081] with weight 0.28602162675797477	[0.42338468] with weight 0.7139783732420213
+Epoch 312 (net 1): GMM results: [0.00949175] with weight 0.2860023944514656	[0.38673763] with weight 0.7139976055485332
+Number of labeled samples:14302	AUC:0.981	TP:13615.000	FP:687.000	FN:349.000	Noise in labeled dataset:0.048
+Number of labeled samples:14303	AUC:0.982	TP:13618.000	FP:685.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 313 (net 2): GMM results: [0.01016622] with weight 0.2860804269563602	[0.43195784] with weight 0.7139195730436384
+Epoch 313 (net 1): GMM results: [0.00952301] with weight 0.28593893357977823	[0.39388008] with weight 0.7140610664202249
+Number of labeled samples:14305	AUC:0.982	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14301	AUC:0.982	TP:13616.000	FP:685.000	FN:348.000	Noise in labeled dataset:0.048
+Epoch 314 (net 2): GMM results: [0.00933421] with weight 0.2860982247369994	[0.42648849] with weight 0.7139017752630039
+Epoch 314 (net 1): GMM results: [0.00932183] with weight 0.28597432077187546	[0.38166495] with weight 0.714025679228125
+Number of labeled samples:14306	AUC:0.982	TP:13620.000	FP:686.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.981	TP:13616.000	FP:688.000	FN:348.000	Noise in labeled dataset:0.048
+Epoch 315 (net 2): GMM results: [0.01012288] with weight 0.2860586812834583	[0.42772223] with weight 0.7139413187165382
+Epoch 315 (net 1): GMM results: [0.00894447] with weight 0.28605088686132485	[0.37533543] with weight 0.7139491131386747
+Number of labeled samples:14305	AUC:0.981	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.980	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 316 (net 2): GMM results: [0.00980137] with weight 0.28602818701811406	[0.42322323] with weight 0.7139718129818836
+Epoch 316 (net 1): GMM results: [0.00856618] with weight 0.286041425165988	[0.35908806] with weight 0.7139585748340117
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 317 (net 2): GMM results: [0.0092387] with weight 0.2860651666991753	[0.43293512] with weight 0.7139348333008255
+Epoch 317 (net 1): GMM results: [0.00874925] with weight 0.2860012408951051	[0.36858626] with weight 0.7139987591048971
+Number of labeled samples:14303	AUC:0.982	TP:13617.000	FP:686.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.982	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 318 (net 2): GMM results: [0.00967121] with weight 0.28607338257445336	[0.41658125] with weight 0.7139266174255503
+Epoch 318 (net 1): GMM results: [0.00738032] with weight 0.28604730106308923	[0.37619194] with weight 0.7139526989369115
+Number of labeled samples:14306	AUC:0.982	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.980	TP:13615.000	FP:689.000	FN:349.000	Noise in labeled dataset:0.048
+Epoch 319 (net 2): GMM results: [0.00957605] with weight 0.2860754304052602	[0.44081547] with weight 0.7139245695947457
+Epoch 319 (net 1): GMM results: [0.00874804] with weight 0.2860442282822768	[0.38777221] with weight 0.7139557717177271
+Number of labeled samples:14305	AUC:0.980	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 320 (net 2): GMM results: [0.00986067] with weight 0.2860792506516327	[0.42121012] with weight 0.7139207493483678
+Epoch 320 (net 1): GMM results: [0.00879734] with weight 0.2860728168173638	[0.38946397] with weight 0.7139271831826373
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 321 (net 2): GMM results: [0.00890587] with weight 0.28605933908996356	[0.44876448] with weight 0.7139406609100398
+Epoch 321 (net 1): GMM results: [0.00873291] with weight 0.2860532816668709	[0.37592933] with weight 0.7139467183331276
+Number of labeled samples:14304	AUC:0.980	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.981	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 322 (net 2): GMM results: [0.00889481] with weight 0.2861038665489313	[0.43739096] with weight 0.7138961334510674
+Epoch 322 (net 1): GMM results: [0.00877433] with weight 0.2860272476648873	[0.37416944] with weight 0.7139727523351149
+Number of labeled samples:14306	AUC:0.981	TP:13620.000	FP:686.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 323 (net 2): GMM results: [0.00898354] with weight 0.28609558187598627	[0.42882042] with weight 0.7139044181240135
+Epoch 323 (net 1): GMM results: [0.00872539] with weight 0.2859769410734413	[0.3675733] with weight 0.714023058926561
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 324 (net 2): GMM results: [0.00990714] with weight 0.28609095099602133	[0.41903093] with weight 0.7139090490039799
+Epoch 324 (net 1): GMM results: [0.00851005] with weight 0.28601689295305643	[0.37585488] with weight 0.7139831070469445
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 325 (net 2): GMM results: [0.00969081] with weight 0.2860488690096311	[0.42364055] with weight 0.7139511309903699
+Epoch 325 (net 1): GMM results: [0.00726686] with weight 0.28607508819903166	[0.3784952] with weight 0.7139249118009665
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.981	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 326 (net 2): GMM results: [0.00976824] with weight 0.2860886697808591	[0.42478111] with weight 0.7139113302191412
+Epoch 326 (net 1): GMM results: [0.00757863] with weight 0.2860545239737347	[0.35972977] with weight 0.7139454760262625
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 327 (net 2): GMM results: [0.00873763] with weight 0.2861135808553441	[0.44525117] with weight 0.7138864191446617
+Epoch 327 (net 1): GMM results: [0.00731322] with weight 0.2860790385284919	[0.365147] with weight 0.7139209614715066
+Number of labeled samples:14306	AUC:0.981	TP:13620.000	FP:686.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 328 (net 2): GMM results: [0.01026705] with weight 0.28609446708600583	[0.44493546] with weight 0.713905532913999
+Epoch 328 (net 1): GMM results: [0.00852017] with weight 0.2860470902676608	[0.37024929] with weight 0.7139529097323397
+Number of labeled samples:14306	AUC:0.981	TP:13620.000	FP:686.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 329 (net 2): GMM results: [0.00995643] with weight 0.28607748426856316	[0.41775837] with weight 0.7139225157314378
+Epoch 329 (net 1): GMM results: [0.00811916] with weight 0.2860639824669845	[0.36607036] with weight 0.7139360175330162
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 330 (net 2): GMM results: [0.01036336] with weight 0.2861093851176491	[0.43274932] with weight 0.7138906148823474
+Epoch 330 (net 1): GMM results: [0.00813226] with weight 0.2860227612070618	[0.36525129] with weight 0.7139772387929348
+Number of labeled samples:14307	AUC:0.981	TP:13620.000	FP:687.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.982	TP:13620.000	FP:686.000	FN:344.000	Noise in labeled dataset:0.048
+Epoch 331 (net 2): GMM results: [0.00912172] with weight 0.2860871802303107	[0.42053538] with weight 0.7139128197696911
+Epoch 331 (net 1): GMM results: [0.00814765] with weight 0.2860472820830025	[0.38079414] with weight 0.7139527179170007
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 332 (net 2): GMM results: [0.00959126] with weight 0.2860629463513841	[0.4135155] with weight 0.7139370536486176
+Epoch 332 (net 1): GMM results: [0.00881709] with weight 0.28606594908406907	[0.36890592] with weight 0.713934050915924
+Number of labeled samples:14304	AUC:0.981	TP:13616.000	FP:688.000	FN:348.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 333 (net 2): GMM results: [0.00887573] with weight 0.28611158897400507	[0.45959248] with weight 0.7138884110259937
+Epoch 333 (net 1): GMM results: [0.00791795] with weight 0.286090609842947	[0.39364401] with weight 0.7139093901570494
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 334 (net 2): GMM results: [0.00879471] with weight 0.2861231770274757	[0.4329205] with weight 0.7138768229725264
+Epoch 334 (net 1): GMM results: [0.00856294] with weight 0.28605846119774736	[0.37343495] with weight 0.7139415388022541
+Number of labeled samples:14306	AUC:0.982	TP:13620.000	FP:686.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 335 (net 2): GMM results: [0.00908392] with weight 0.2860504617242321	[0.37706915] with weight 0.7139495382757661
+Epoch 335 (net 1): GMM results: [0.0079636] with weight 0.28609516454729783	[0.37076345] with weight 0.7139048354526969
+Number of labeled samples:14306	AUC:0.982	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 336 (net 2): GMM results: [0.00929602] with weight 0.28609622765161946	[0.40234879] with weight 0.713903772348381
+Epoch 336 (net 1): GMM results: [0.0081002] with weight 0.2860318846721605	[0.37538372] with weight 0.7139681153278394
+Number of labeled samples:14307	AUC:0.982	TP:13620.000	FP:687.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.981	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 337 (net 2): GMM results: [0.0096364] with weight 0.2861004209958732	[0.43296895] with weight 0.7138995790041245
+Epoch 337 (net 1): GMM results: [0.0074779] with weight 0.286103710844192	[0.36282015] with weight 0.7138962891558092
+Number of labeled samples:14307	AUC:0.982	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.980	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 338 (net 2): GMM results: [0.0088785] with weight 0.28607981017024314	[0.42824728] with weight 0.7139201898297571
+Epoch 338 (net 1): GMM results: [0.00872502] with weight 0.2859870506864719	[0.3726324] with weight 0.7140129493135311
+Number of labeled samples:14305	AUC:0.981	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.982	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 339 (net 2): GMM results: [0.00863581] with weight 0.28605350704904847	[0.42611504] with weight 0.7139464929509531
+Epoch 339 (net 1): GMM results: [0.00962082] with weight 0.2860372061365969	[0.37564596] with weight 0.7139627938634056
+Number of labeled samples:14304	AUC:0.981	TP:13617.000	FP:687.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 340 (net 2): GMM results: [0.00963302] with weight 0.28608001010779516	[0.43935462] with weight 0.7139199898922037
+Epoch 340 (net 1): GMM results: [0.00795813] with weight 0.2860650875265333	[0.38860947] with weight 0.7139349124734767
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 341 (net 2): GMM results: [0.01025428] with weight 0.28606258599134743	[0.42594049] with weight 0.7139374140086502
+Epoch 341 (net 1): GMM results: [0.00962456] with weight 0.286064995056733	[0.39949861] with weight 0.7139350049432684
+Number of labeled samples:14305	AUC:0.981	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.980	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 342 (net 2): GMM results: [0.00957488] with weight 0.28608957942999835	[0.452662] with weight 0.7139104205700048
+Epoch 342 (net 1): GMM results: [0.00927813] with weight 0.2860647312881252	[0.39009239] with weight 0.7139352687118764
+Number of labeled samples:14305	AUC:0.981	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.980	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 343 (net 2): GMM results: [0.00948058] with weight 0.28608873140369245	[0.4366004] with weight 0.713911268596313
+Epoch 343 (net 1): GMM results: [0.00862586] with weight 0.2860860803343251	[0.39626417] with weight 0.71391391966568
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.980	TP:13617.000	FP:689.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 344 (net 2): GMM results: [0.00918702] with weight 0.2861160500285065	[0.43974044] with weight 0.7138839499714932
+Epoch 344 (net 1): GMM results: [0.00859104] with weight 0.2860761948382128	[0.38407942] with weight 0.7139238051617864
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.980	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 345 (net 2): GMM results: [0.00945319] with weight 0.2860957946336222	[0.44671145] with weight 0.7139042053663738
+Epoch 345 (net 1): GMM results: [0.00761905] with weight 0.28607689508979955	[0.3768551] with weight 0.7139231049102014
+Number of labeled samples:14306	AUC:0.980	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 346 (net 2): GMM results: [0.00884338] with weight 0.28610035193764305	[0.4321292] with weight 0.7138996480623536
+Epoch 346 (net 1): GMM results: [0.00824157] with weight 0.2860872671854251	[0.39000635] with weight 0.7139127328145745
+Number of labeled samples:14306	AUC:0.980	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14308	AUC:0.980	TP:13619.000	FP:689.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 347 (net 2): GMM results: [0.00979422] with weight 0.2861242572421658	[0.43911607] with weight 0.7138757427578357
+Epoch 347 (net 1): GMM results: [0.00912868] with weight 0.28607618459252304	[0.37921955] with weight 0.7139238154074726
+Number of labeled samples:14308	AUC:0.981	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.980	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 348 (net 2): GMM results: [0.0097566] with weight 0.2860950590571715	[0.40799746] with weight 0.7139049409428284
+Epoch 348 (net 1): GMM results: [0.00813459] with weight 0.28606399355460593	[0.38182419] with weight 0.7139360064453916
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 349 (net 2): GMM results: [0.00990417] with weight 0.28609170867274814	[0.43872488] with weight 0.7139082913272553
+Epoch 349 (net 1): GMM results: [0.00858458] with weight 0.28608789363783405	[0.36842489] with weight 0.7139121063621715
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14308	AUC:0.981	TP:13619.000	FP:689.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 350 (net 2): GMM results: [0.01029489] with weight 0.2860617753236116	[0.42715082] with weight 0.7139382246763855
+Epoch 350 (net 1): GMM results: [0.00875693] with weight 0.28603336341977714	[0.39112559] with weight 0.7139666365802202
+Number of labeled samples:14305	AUC:0.981	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.982	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 351 (net 2): GMM results: [0.00928636] with weight 0.28611122984659587	[0.45792027] with weight 0.7138887701534004
+Epoch 351 (net 1): GMM results: [0.00845547] with weight 0.2860515698949053	[0.38326032] with weight 0.7139484301050955
+Number of labeled samples:14306	AUC:0.980	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 352 (net 2): GMM results: [0.00988469] with weight 0.2861305141858806	[0.43743624] with weight 0.7138694858141191
+Epoch 352 (net 1): GMM results: [0.00813733] with weight 0.28605640203785554	[0.3860314] with weight 0.7139435979621451
+Number of labeled samples:14308	AUC:0.981	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14305	AUC:0.982	TP:13617.000	FP:688.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 353 (net 2): GMM results: [0.00987942] with weight 0.2860984006433923	[0.41101513] with weight 0.7139015993566059
+Epoch 353 (net 1): GMM results: [0.008401] with weight 0.28604682425674444	[0.38750689] with weight 0.7139531757432547
+Number of labeled samples:14308	AUC:0.981	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 354 (net 2): GMM results: [0.00971106] with weight 0.28608437095145095	[0.41921337] with weight 0.7139156290485503
+Epoch 354 (net 1): GMM results: [0.008841] with weight 0.2860714618105705	[0.38582479] with weight 0.7139285381894274
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.982	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 355 (net 2): GMM results: [0.01066896] with weight 0.2861051940022758	[0.41980659] with weight 0.7138948059977305
+Epoch 355 (net 1): GMM results: [0.00845307] with weight 0.28606279926990474	[0.38784805] with weight 0.7139372007300904
+Number of labeled samples:14308	AUC:0.981	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13617.000	FP:689.000	FN:347.000	Noise in labeled dataset:0.048
+Epoch 356 (net 2): GMM results: [0.00990383] with weight 0.28609555857695035	[0.39809726] with weight 0.7139044414230471
+Epoch 356 (net 1): GMM results: [0.00941346] with weight 0.2860863260151926	[0.39491437] with weight 0.7139136739848081
+Number of labeled samples:14308	AUC:0.980	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13619.000	FP:688.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 357 (net 2): GMM results: [0.01028082] with weight 0.28606491660860933	[0.41323035] with weight 0.7139350833913952
+Epoch 357 (net 1): GMM results: [0.00918718] with weight 0.2860319619643427	[0.38172589] with weight 0.7139680380356577
+Number of labeled samples:14306	AUC:0.981	TP:13619.000	FP:687.000	FN:345.000	Noise in labeled dataset:0.048
+Number of labeled samples:14306	AUC:0.981	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 358 (net 2): GMM results: [0.00920988] with weight 0.28606691973015264	[0.40831355] with weight 0.7139330802698467
+Epoch 358 (net 1): GMM results: [0.00903647] with weight 0.2860851127187099	[0.39400085] with weight 0.7139148872812894
+Number of labeled samples:14306	AUC:0.980	TP:13618.000	FP:688.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14308	AUC:0.982	TP:13619.000	FP:689.000	FN:345.000	Noise in labeled dataset:0.048
+Epoch 359 (net 2): GMM results: [0.01005203] with weight 0.28612612590173697	[0.41514479] with weight 0.7138738740982591
+Epoch 359 (net 1): GMM results: [0.00812605] with weight 0.286091026465359	[0.37268886] with weight 0.713908973534641
+Number of labeled samples:14308	AUC:0.980	TP:13620.000	FP:688.000	FN:344.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
+Epoch 360 (net 2): GMM results: [0.00988382] with weight 0.28606052653201286	[0.42052057] with weight 0.7139394734679854
+Epoch 360 (net 1): GMM results: [0.00810399] with weight 0.28605448276802925	[0.3868914] with weight 0.7139455172319744
+Number of labeled samples:14305	AUC:0.981	TP:13618.000	FP:687.000	FN:346.000	Noise in labeled dataset:0.048
+Number of labeled samples:14307	AUC:0.981	TP:13618.000	FP:689.000	FN:346.000	Noise in labeled dataset:0.048
