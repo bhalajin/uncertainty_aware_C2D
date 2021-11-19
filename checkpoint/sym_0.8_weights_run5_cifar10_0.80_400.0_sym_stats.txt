@@ -1,0 +1,19 @@
+Epoch 1 (net 1): GMM results: [0.31470326] with weight 0.24215428274181547	[0.61045645] with weight 0.7578457172581771
+Epoch 1 (net 2): GMM results: [0.26374095] with weight 0.24371245737855904	[0.51977928] with weight 0.7562875426214496
+Number of labeled samples:12026	AUC:0.989	TP:11745.000	FP:281.000	FN:2219.000	Noise in labeled dataset:0.023
+Epoch 2 (net 1): GMM results: [0.25796285] with weight 0.25501439611084487	[0.53450235] with weight 0.7449856038891508
+Epoch 2 (net 2): GMM results: [0.27313708] with weight 0.25713645381794337	[0.55188001] with weight 0.7428635461820586
+Number of labeled samples:12758	AUC:0.989	TP:12326.000	FP:432.000	FN:1638.000	Noise in labeled dataset:0.034
+Epoch 3 (net 1): GMM results: [0.25271983] with weight 0.2581254180034915	[0.52314964] with weight 0.741874581996514
+Epoch 3 (net 2): GMM results: [0.24311948] with weight 0.26312473079148	[0.49034122] with weight 0.7368752692085189
+Number of labeled samples:13012	AUC:0.987	TP:12417.000	FP:595.000	FN:1547.000	Noise in labeled dataset:0.046
+Epoch 4 (net 1): GMM results: [0.23207061] with weight 0.25873099323041676	[0.48347469] with weight 0.74126900676958
+Epoch 4 (net 2): GMM results: [0.24376931] with weight 0.26357355105650654	[0.51825243] with weight 0.7364264489434863
+Number of labeled samples:12957	AUC:0.983	TP:12227.000	FP:730.000	FN:1737.000	Noise in labeled dataset:0.056
+Epoch 5 (net 1): GMM results: [0.20552489] with weight 0.26906238601454474	[0.47362839] with weight 0.7309376139854482
+Epoch 5 (net 2): GMM results: [0.20682772] with weight 0.2687003272784616	[0.46104457] with weight 0.7312996727215507
+Number of labeled samples:13046	AUC:0.976	TP:11954.000	FP:1092.000	FN:2010.000	Noise in labeled dataset:0.084
+Epoch 6 (net 2): GMM results: [0.20693348] with weight 0.2689056847425433	[0.46107708] with weight 0.7310943152574567
+Epoch 6 (net 1): GMM results: [0.20566495] with weight 0.26932495818302754	[0.47367311] with weight 0.7306750418169665
+Number of labeled samples:13055	AUC:0.976	TP:11960.000	FP:1095.000	FN:2004.000	Noise in labeled dataset:0.084
+Number of labeled samples:13127	AUC:0.977	TP:12041.000	FP:1086.000	FN:1923.000	Noise in labeled dataset:0.083
