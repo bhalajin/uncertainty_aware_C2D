@@ -4,12 +4,16 @@ import numpy as np
 
 parser = argparse.ArgumentParser(description='Process Learning Results C2D + Weights')
 parser.add_argument('--noise', type=float, required=True)
-parser.add_argument('--noise_type', type=str, required=True)
+parser.add_argument('--noise_type', type=str, default='sym')
 parser.add_argument('--l_u', type=int, required=True)
+parser.add_argument('--set', type=str, required=True)
 args   = parser.parse_args()
 
 noise_level = args.noise
-file_names  = './checkpoint/%s_*_%.2f_%.1f_%s_acc.txt' % (args.noise_type, noise_level, float(args.l_u), args.noise_type)
+if args.set == 'CF100':
+    file_names  = './checkpoint/%s_%s_*_%.2f_%.1f_%s_acc.txt' % (args.set, args.noise_type, noise_level, float(args.l_u), args.noise_type)
+else:
+    file_names  = './checkpoint/%s_*_%.2f_%.1f_%s_acc.txt' % (args.noise_type, noise_level, float(args.l_u), args.noise_type)
 print(file_names)
 file_list   = glob.glob(file_names)
 
@@ -22,6 +26,7 @@ for i, f_n in enumerate(file_list):
     with open(f_n) as f:
         best_acc   = 0;
         best_epoch = -1;
+        accuracy   = 0;
         for l, line in enumerate(f):
             str_test = line.split()
             epoch    = int(str_test[0].split(":")[1])
