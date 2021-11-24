@@ -8,10 +8,10 @@
 #CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 100  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
 
 # machine: 123, GPU0
-#CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 500  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
-#CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 350  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
-#CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 450  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
-#CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 150  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
+CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 500  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
+CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 350  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
+CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 450  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
+CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 150  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
 
 # machine: 54, GPU0
 #CUDA_VISIBLE_DEVICES=0 python3 main_cifar.py --p_threshold 0.03 --r 0.9 --noise_mode sym --lambda_u 600  --dataset cifar100 --data_path ./../Datasets/CIFAR100  --experiment-name CF100_sym_0.9_weights_run1 --method selfsup --net resnet18
