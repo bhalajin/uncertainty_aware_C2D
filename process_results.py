@@ -6,14 +6,23 @@ parser = argparse.ArgumentParser(description='Process Learning Results C2D + Wei
 parser.add_argument('--noise', type=float, required=True)
 parser.add_argument('--noise_type', type=str, default='sym')
 parser.add_argument('--l_u', type=int, required=True)
-parser.add_argument('--set', type=str, required=True)
+parser.add_argument('--set', type=str, default='CF100')
+parser.add_argument('--tau', type=float)
 args   = parser.parse_args()
 
 noise_level = args.noise
 if args.set == 'CF100':
-    file_names  = './checkpoint/%s_%s_*_%.2f_%.1f_%s_acc.txt' % (args.set, args.noise_type, noise_level, float(args.l_u), args.noise_type)
-else:
+    
+    if args.tau is None:
+        file_names  = './checkpoint/%s_%s_*_%.2f_%.1f_%s_acc.txt' % (args.set, args.noise_type, noise_level, float(args.l_u), args.noise_type)
+    else:
+        file_names  = './checkpoint/%s_%s_*_tau_%.2f_*_%.2f_%.1f_%s_acc.txt' % (args.set, args.noise_type, args.tau, noise_level, float(args.l_u), args.noise_type)
+
+elif args.set == 'CF10':
     file_names  = './checkpoint/%s_*_%.2f_%.1f_%s_acc.txt' % (args.noise_type, noise_level, float(args.l_u), args.noise_type)
+else:
+    print('Unknown dataset')
+
 print(file_names)
 file_list   = glob.glob(file_names)
 
