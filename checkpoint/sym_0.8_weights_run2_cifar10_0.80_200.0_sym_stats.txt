@@ -1,0 +1,6 @@
+Epoch 1 (net 1): GMM results: [0.31429632] with weight 0.24221797037875012 and variance [[0.00926071]] 	[0.61038344] with weight 0.7577820296212507 and variance [[0.00469435]]
+Epoch 1 (net 2): GMM results: [0.26319402] with weight 0.2440134443905548 and variance [[0.0070702]] 	[0.51907414] with weight 0.7559865556094355 and variance [[0.00357976]]
+Number of labeled samples:12035	AUC:0.989	TP:11755.000	FP:280.000	FN:2209.000	Noise in labeled dataset:0.023
+Epoch 2 (net 2): GMM results: [0.26308885] with weight 0.24383445447613955 and variance [[0.007058]] 	[0.51904748] with weight 0.7561655455238675 and variance [[0.00358266]]
+Epoch 2 (net 1): GMM results: [0.31421211] with weight 0.24209528259589544 and variance [[0.00924943]] 	[0.61036241] with weight 0.7579047174041098 and variance [[0.00469695]]
+Number of labeled samples:12031	AUC:0.989	TP:11751.000	FP:280.000	FN:2213.000	Noise in labeled dataset:0.023

@@ -15,6 +15,8 @@ from models.PreResNet import *
 from models.resnet import SupCEResNet
 from train_cifar import run_train_loop
 
+import csv
+
 
 def parse_args():
     parser = argparse.ArgumentParser(description='PyTorch CIFAR Training')
@@ -131,10 +133,12 @@ def main():
     os.makedirs('./checkpoint', exist_ok=True)
     log_name = './checkpoint/%s_%s_%.2f_%.1f_%s' % (
         args.experiment_name, args.dataset, args.r, args.lambda_u, args.noise_mode)
+    my_log_name = '%s_%s_%.2f_%.1f_%s' % (
+        args.experiment_name, args.dataset, args.r, args.lambda_u, args.noise_mode)
     stats_log = open(log_name + '_stats.txt', 'w')
     test_log = open(log_name + '_acc.txt', 'w')
     loss_log = open(log_name + '_loss.txt', 'w')
-
+    
     # define warmup
     if args.dataset == 'cifar10':
         if args.method == 'reg':
@@ -154,6 +158,30 @@ def main():
     # Ric (temporal)
     #warm_up = 1
     print("Warm up epochs = ", warm_up)
+
+    # Ric: begin
+    weights_log = open(log_name + '_weights.txt', 'w')
+    w_fields = ['epoch'] + [f'w_net_1_{cls}' for cls in range(num_classes)] \
+                + [f'w_net_2_{cls}' for cls in range(num_classes)]
+    
+    # creating a csv writer object 
+    csvwriter = csv.writer(weights_log)       
+    # writing the fields 
+    csvwriter.writerow(w_fields)
+    weights_log.flush()
+    # Ric:end
+
+    # Ric: begin
+    training_losses_log = open(log_name + '_training_losses.txt', 'w')
+    tl_fields = ['epoch', 'L_x', 'L_u', 'lambda_u', 'L_reg', 'L_total']
+    
+    # creating a csv writer object 
+    csvwriter = csv.writer(training_losses_log)       
+    # writing the fields 
+    csvwriter.writerow(tl_fields)
+    training_losses_log.flush()
+    # Ric:end
+
     loader = dataloader.cifar_dataloader(args.dataset, r=args.r, noise_mode=args.noise_mode, batch_size=args.batch_size,
                                          num_workers=5, root_dir=args.data_path, log=stats_log,
                                          noise_file='%s/%.2f_%s.json' % (args.data_path, args.r, args.noise_mode),
@@ -187,9 +215,11 @@ def main():
         conf_penalty = None
     all_loss = [[], []]  # save the history of losses from two networks
     # Ric: added weights-related args to the call below
+    # Ric: added weights_log and training losses log
     run_train_loop(net1, optimizer1, sched1, net2, optimizer2, sched2, criterion, CEloss, CE, loader, args.p_threshold,
                    warm_up, args.num_epochs, all_loss, args.batch_size, num_classes, args.device, args.lambda_u, args.T,
-                   args.alpha, args.noise_mode, args.dataset, args.r, conf_penalty, stats_log, loss_log, test_log,
+                   args.alpha, args.noise_mode, args.dataset, args.r, conf_penalty, stats_log, loss_log, test_log, 
+                   weights_log, training_losses_log, my_log_name,
                    args.window_size, args.window_mode, args.lambda_w_eps, args.weight_mode, args.experiment_name)
 
 
