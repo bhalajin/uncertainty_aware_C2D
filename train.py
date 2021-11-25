@@ -93,9 +93,14 @@ def train(epoch, net, net2, criterion, optimizer, labeled_trainloader, unlabeled
             weights_ = torch.tensor(weights)
             weights_ = weights_.cuda()
             #Lu = Lu * weights.expand_as(targets_u)
+            #Lu = torch.mean(Lu) # Mistake?
+            #print(Lu)
+            # Lu = Lu * weights_.expand_as(targets_u) # comment Another mistake?
+            Lu = Lu * weights_.expand_as(mixed_target[batch_size * 2:])
+            print(Lu)
             Lu = torch.mean(Lu)
-            Lu = Lu * weights_.expand_as(targets_u)
-            Lu = torch.mean(Lu)
+            print(Lu)
+            #print(1/0)
             # Ric: end
         else:
             mixed_input = l * input_a[:batch_size * 2] + (1 - l) * input_b[:batch_size * 2]
@@ -108,9 +113,9 @@ def train(epoch, net, net2, criterion, optimizer, labeled_trainloader, unlabeled
 
         # regularization
         # Ric: begin
-        # prior = torch.ones(num_class) / num_class
+        # prior = torch.ones(num_class) / num_class #uncomment 
         # prior = torch.tensor(weights).cuda()  # Weight formula 11
-        prior = torch.tensor(weights)
+        prior = torch.tensor(weights) #comment
         # Ric: end
         prior = prior.to(device)
         pred_mean = torch.softmax(logits, dim=1).mean(0)
