@@ -108,9 +108,9 @@ def train(epoch, net, net2, criterion, optimizer, labeled_trainloader, unlabeled
             #print(Lu)
             # Lu = Lu * weights_.expand_as(targets_u) # comment Another mistake?
             Lu = Lu * weights_.expand_as(mixed_target[batch_size * 2:])
-            print(Lu)
+            #print(Lu)
             Lu = torch.mean(Lu)
-            print(Lu)
+            #print(Lu)
             #print(1/0)
             # Ric: end
         else:
